@@ -1,0 +1,31 @@
+# Normalize authored text in Git, with Windows launcher checkout endings.
+* text=auto
+*.py text eol=lf
+*.lua text eol=lf
+*.bp text eol=lf
+*.md text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+*.svg text eol=lf
+*.ps1 text eol=crlf
+*.cmd text eol=crlf
+*.bat text eol=crlf
+# Authored/approved source binaries only. LFS does not override .gitignore.
+assets/**/*.blend filter=lfs diff=lfs merge=lfs -text
+assets/**/*.fbx filter=lfs diff=lfs merge=lfs -text
+assets/**/*.glb filter=lfs diff=lfs merge=lfs -text
+assets/**/*.psd filter=lfs diff=lfs merge=lfs -text
+assets/**/*.kra filter=lfs diff=lfs merge=lfs -text
+assets/**/*.png filter=lfs diff=lfs merge=lfs -text
+assets/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+assets/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+assets/**/*.tga filter=lfs diff=lfs merge=lfs -text
+assets/**/*.tif filter=lfs diff=lfs merge=lfs -text
+assets/**/*.tiff filter=lfs diff=lfs merge=lfs -text
+assets/**/*.exr filter=lfs diff=lfs merge=lfs -text
+assets/**/*.dds filter=lfs diff=lfs merge=lfs -text
+assets/**/*.wav filter=lfs diff=lfs merge=lfs -text
+assets/**/*.ogg filter=lfs diff=lfs merge=lfs -text
+assets/**/*.flac filter=lfs diff=lfs merge=lfs -text
+assets/**/*.mp3 filter=lfs diff=lfs merge=lfs -text
+assets/**/*.mp4 filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,154 @@
+{
+  "tasks": [
+    {
+      "command": "python",
+      "type": "process",
+      "options": {
+        "cwd": "${workspaceFolder}",
+        "env": {
+          "PYTHONDONTWRITEBYTECODE": "1"
+        }
+      },
+      "problemMatcher": [],
+      "label": "SC2: Check Python",
+      "args": [
+        "-c",
+        "import sys, json, pathlib, zipfile; print(\"Python:\", sys.version); print(\"Executable:\", sys.executable); print(\"Build modules available\")"
+      ],
+      "presentation": {
+        "panel": "dedicated",
+        "clear": true,
+        "reveal": "always"
+      }
+    },
+    {
+      "problemMatcher": [],
+      "command": "python",
+      "type": "process",
+      "presentation": {
+        "panel": "dedicated",
+        "clear": true,
+        "reveal": "always"
+      },
+      "args": [
+        "tools/build.py"
+      ],
+      "label": "SC2: Build rename checkpoint only",
+      "group": {
+        "kind": "build",
+        "isDefault": false
+      },
+      "options": {
+        "cwd": "${workspaceFolder}",
+        "env": {
+          "PYTHONDONTWRITEBYTECODE": "1"
+        }
+      }
+    },
+    {
+      "command": "python",
+      "type": "process",
+      "options": {
+        "cwd": "${workspaceFolder}",
+        "env": {
+          "PYTHONDONTWRITEBYTECODE": "1"
+        }
+      },
+      "problemMatcher": [],
+      "label": "SC2: Stage selected existing package",
+      "args": [
+        "tools/stage.py",
+        "install",
+        "--package",
+        "${input:sc2Package}"
+      ],
+      "presentation": {
+        "panel": "dedicated",
+        "clear": true,
+        "reveal": "always"
+      }
+    },
+    {
+      "command": "python",
+      "type": "process",
+      "options": {
+        "cwd": "${workspaceFolder}",
+        "env": {
+          "PYTHONDONTWRITEBYTECODE": "1"
+        }
+      },
+      "problemMatcher": [],
+      "label": "SC2: Validate development copy (full scan)",
+      "args": [
+        "tools/verify_dev.py"
+      ],
+      "presentation": {
+        "panel": "dedicated",
+        "clear": true,
+        "reveal": "always"
+      }
+    },
+    {
+      "command": "python",
+      "type": "process",
+      "options": {
+        "cwd": "${workspaceFolder}",
+        "env": {
+          "PYTHONDONTWRITEBYTECODE": "1"
+        }
+      },
+      "problemMatcher": [],
+      "label": "SC2: Verify original Steam installation (full scan)",
+      "args": [
+        "tools/verify_originals.py"
+      ],
+      "presentation": {
+        "panel": "dedicated",
+        "clear": true,
+        "reveal": "always"
+      }
+    },
+    {
+      "command": "cmd.exe",
+      "type": "process",
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": [],
+      "label": "SC2: Launch current staged test game",
+      "args": [
+        "/d",
+        "/c",
+        "Launch-Skirmish-Test.cmd"
+      ],
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated"
+      }
+    },
+    {
+      "dependsOn": [
+        "SC2: Validate development copy (full scan)",
+        "SC2: Launch current staged test game"
+      ],
+      "dependsOrder": "sequence",
+      "label": "SC2: Validate then launch test game",
+      "problemMatcher": []
+    }
+  ],
+  "version": "2.0.0",
+  "inputs": [
+    {
+      "type": "pickString",
+      "description": "Choose an existing built package to stage; differing staged versions are refused.",
+      "options": [
+        "rename",
+        "model",
+        "audio",
+        "blaster"
+      ],
+      "default": "rename",
+      "id": "sc2Package"
+    }
+  ]
+}

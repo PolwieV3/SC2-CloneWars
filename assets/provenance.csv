@@ -1,0 +1,3 @@
+asset_id,faction,type,creator,source,permission_or_license,status
+TX130_Prototype,Republic,mesh and textures,SC2 CloneWars project,tools/create_tx130.py,Project-authored geometry and textures with original SC2 rig retained for local mod,Prototype awaiting in-game acceptance
+GAR-roundel-reference,Republic,SVG reference,YoshiTeArde,https://commons.wikimedia.org/wiki/File:Emblem_of_the_Grand_Army_of_the_Republic.svg,CC0 1.0,Used as geometric reference for project-authored hatch marking

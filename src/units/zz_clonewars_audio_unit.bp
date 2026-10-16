@@ -1,0 +1,9 @@
+UnitBlueprint {
+    Merge = true,
+    BlueprintId = 'uul0101',
+    Audio = { AmbientMove = 'SC2/SC2/Units/illuminate/UIL0101/snd_UIL0101_Tank_Move_Loop', },
+    Weapons = {
+        [1] = { Audio = { RackSalvoBeginFire = 'SC2/SC2/Units/illuminate/UIL0101/snd_UIL0101_Tank_Cannon_Tau', }, },
+        [2] = { Audio = { RackSalvoBeginFire = 'SC2/SC2/Units/illuminate/UIL0101/snd_UIL0101_Tank_Cannon_Tau', }, },
+    },
+}

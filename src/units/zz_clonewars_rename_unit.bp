@@ -1,0 +1,11 @@
+-- POC: change visible labels only. All simulation values are inherited.
+UnitBlueprint {
+    Merge = true,
+    BlueprintId = 'uul0101',
+    Display = {
+        DisplayName = 'TX-130 Saber Tank',
+    },
+    General = {
+        UnitName = 'TX-130 Saber Tank',
+    },
+}

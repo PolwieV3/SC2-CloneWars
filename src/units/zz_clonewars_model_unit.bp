@@ -1,0 +1,7 @@
+UnitBlueprint {
+    Merge = true,
+    BlueprintId = 'uul0101',
+    Display = {
+        MeshBlueprint = '/units/clonewars/tx130/tx130_mesh',
+    },
+}

@@ -1,0 +1,12 @@
+UnitBlueprint {
+    Merge = true,
+    BlueprintId = 'uul0101',
+    Weapons = {
+        [1] = {
+            ProjectileId = '/projectiles/clonewars/tx130/ucannonshell01_proj.bp',
+        },
+        [2] = {
+            ProjectileId = '/projectiles/clonewars/tx130/ucannonshell01_proj.bp',
+        },
+    },
+}

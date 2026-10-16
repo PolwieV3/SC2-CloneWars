@@ -1,0 +1,52 @@
+/local/
+/dist/
+__pycache__/
+*.pyc
+*.scd
+*.rar
+*.zip
+*.mdmp
+*.blend1
+*.blend2
+assets/**/raw/
+
+# Local SC2 inspection data and runtime evidence; preserve on disk.
+/inventory/
+/docs/evidence/
+# Generated from native game blueprints/scripts, not authored merge patches.
+/src/projectiles/
+/src/units/TX130_mesh.bp
+# Existing prototype has mixed provenance (native rig noted in register).
+# Review the saved file before explicitly allowing it into version control.
+/assets/Republic/Models/TX130_Prototype.blend
+# Local/private imports can be kept in place in any asset category.
+assets/**/private/
+assets/**/reference/
+# Native game payloads and packaged downloads are local only.
+*.scm
+*.sca
+*.fsb
+*.fev
+*.bik
+*.exe
+*.dll
+*.7z
+*.cab
+# Editor backups, caches, temporary environments and machine secrets.
+*.blend[0-9]*
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.tmp
+*.log
+*.bak
+*.swp
+Thumbs.db
+Desktop.ini
+.DS_Store
+.env
+.env.*
+!.env.example
