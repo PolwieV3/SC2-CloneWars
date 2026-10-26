@@ -18,5 +18,3 @@ report.update({'installed':True,'installed_path':str(dst),'installed_sha256_veri
 (live/'planning/atte-mount-test-6-installation.json').write_text(json.dumps(report,indent=2),encoding='utf8')
 checkpoint=json.loads((O/'Implementation-checkpoint.json').read_text(encoding='utf8'));checkpoint['integration']='mount-test-6 installed in isolated dev game; runtime unverified';checkpoint['package']=report['installed_path'];checkpoint['package_sha256']=report['sha256'];checkpoint['next_steps']=['Restart isolated dev game and build a fresh AT-TE from existing King Kriptor research/build slot','Verify range overlay, firing and aiming on a newly built AT-TE','Tune gameplay balance and size from user feedback'];(O/'Implementation-checkpoint.json').write_text(json.dumps(checkpoint,indent=2),encoding='utf8')
 print('Installed AT-TE mount-test-6:',sha(dst));print('Other CloneWars archives unchanged:',len(others))
-
-

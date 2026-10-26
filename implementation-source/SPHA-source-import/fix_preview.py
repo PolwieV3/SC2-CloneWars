@@ -5,4 +5,3 @@ m=bpy.data.materials.new('SPHA_Diffuse_Preview');m.use_nodes=True;bs=m.node_tree
 for ob in bpy.data.objects:
  if ob.type=='MESH':ob.data.materials.clear();ob.data.materials.append(m)
 bpy.ops.wm.save_as_mainfile(filepath=str(r/'SPHA-T-animated-source.blend'));bpy.context.scene.render.filepath=str(r/'SPHA-T-preview.png');bpy.ops.render.render(write_still=True)
-

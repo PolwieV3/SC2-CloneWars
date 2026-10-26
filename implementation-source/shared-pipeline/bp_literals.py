@@ -88,4 +88,3 @@ def differences(before, after, path=''):
         elif before[key] != after[key]:
             changes.append(here)
     return sorted(changes)
-

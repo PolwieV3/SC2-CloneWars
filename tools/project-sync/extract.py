@@ -132,4 +132,3 @@ def main():
         if r['installed']:print(r['id'],r['replacement'],'speed',r['stats_before']['speed'],'->',r['stats_after']['speed'],'weapons',len(r['weapons_before']),len(r['weapons_after']))
 
 if __name__=='__main__':main()
-

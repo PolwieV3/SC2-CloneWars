@@ -44,5 +44,3 @@ bpy.ops.object.camera_add(location=(52,-72,52));cam=bpy.context.object;target=Ve
 for loc,power in [((6,-8,12),1800),((-7,-3,8),1300),((2,8,10),1800)]:
  bpy.ops.object.light_add(type='AREA',location=loc);o=bpy.context.object;o.data.energy=power;o.data.shape='DISK';o.data.size=8;o.rotation_euler=(target-o.location).to_track_quat('-Z','Y').to_euler()
 s=bpy.context.scene;s.render.engine='CYCLES';s.cycles.samples=24;s.render.resolution_x=1100;s.render.resolution_y=850;s.render.resolution_percentage=100;s.world.color=(.18,.18,.18);s.view_settings.view_transform='Standard';s.render.filepath=str(out/'RTT-shield-preview.png');bpy.ops.wm.save_as_mainfile(filepath=str(out/'RTT-shield.blend'));bpy.ops.render.render(write_still=True)
-
-

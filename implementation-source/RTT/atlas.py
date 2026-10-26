@@ -8,5 +8,3 @@ with zipfile.ZipFile('B:/SteamLibrary/steamapps/common/Supreme Commander 2/gamed
 # Palette swatches reserved in bottom edge for custom machinery.
 from PIL import ImageDraw
 d=ImageDraw.Draw(atlas);d.rectangle((0,2016,255,2047),fill=(195,202,210,255));d.rectangle((256,2016,511,2047),fill=(40,47,56,255));d.rectangle((512,2016,767,2047),fill=(34,154,230,255));d.rectangle((768,2016,1023,2047),fill=(135,35,35,255));atlas.save(w/'atlas.png')
-
-

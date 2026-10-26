@@ -79,4 +79,3 @@ for(const [name,s] of Object.entries(sheets)){
 const file=await SpreadsheetFile.exportXlsx(wb);await file.save(`${out}/SC2-Conversion-and-Balance.xlsx`);
 await fs.writeFile(`${out}/workbook-validation.json`,JSON.stringify({sheets:Object.keys(sheets),units:data.units.length,metricRows:mrows.length,weaponRows:wr.length,formulaRecalculationTest:'passed',nativeExcelVerified:false},null,2));
 console.log('Workbook exported');
-

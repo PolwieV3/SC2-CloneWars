@@ -11,4 +11,3 @@ for clip in ['2026-10-24 18-01-12','2026-10-24 18-02-10']:
  for i in range(8):
   frame=1+round((duration-2)*i/7);s.frame_set(frame);s.render.filepath=str(w/(clip+'-'+str(i)+'.png'));bpy.ops.render.render(write_still=True)
 (w/'clips.json').write_text(json.dumps(report,indent=2),encoding='utf8');print(report)
-

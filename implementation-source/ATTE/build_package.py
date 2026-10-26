@@ -165,6 +165,3 @@ with zipfile.ZipFile(archive,'w',zipfile.ZIP_DEFLATED) as z:
 with zipfile.ZipFile(archive) as z:assert z.testzip() is None
 report={'revision':'mount-test-6','archive':str(archive),'sha256':hashlib.sha256(archive.read_bytes()).hexdigest(),'meshes':reports,'walk':{'frames':len(fit['frames']),'duration':fit['duration'],'version':7,'runtime_verified':False},'weapons':fit['controllers'],'localization_files':localizations,'gameplay':{'health':30000,'regen':60,'speed':1.8,'main_damage':1500,'main_rate':1/3,'main_range':68.75,'laser_damage':70,'front_rate':1/front_interval,'rear_rate':1/rear_interval,'front_interval':front_interval,'rear_interval':rear_interval,'laser_range':33.6,'land_only':True,'economy_and_research':'Original experimental slot cost/build time/research retained for first test'},'installed':False,'runtime':'unverified','blueprint_diff':differences(original,bp)}
 (W/'unit-blueprint.json').write_text(json.dumps(bp,indent=2),encoding='utf8');(O/'Package-validation.json').write_text(json.dumps(report,indent=2),encoding='utf8');print(json.dumps({k:v for k,v in report.items() if k not in ['blueprint_diff','weapons']},indent=2))
-
-
-

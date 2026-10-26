@@ -38,5 +38,3 @@ bpy.ops.object.camera_add(location=center+Vector((1.2,-1.6,1.0))*size);cam=bpy.c
 for delta in [(1,-1,2),(-1,0,1),(0,1,2)]:
  bpy.ops.object.light_add(type='AREA',location=center+Vector(delta)*size);a=bpy.context.object;a.data.energy=60*size*size;a.data.size=size;a.rotation_euler=(center-a.location).to_track_quat('-Z','Y').to_euler()
 (o/'Animated-model-inspection.json').write_text(json.dumps(report,indent=2),encoding='utf-8');bpy.ops.wm.save_as_mainfile(filepath=str(o/'SPHA-T-animated-source.blend'));s.render.filepath=str(o/'SPHA-T-preview.png');bpy.ops.render.render(write_still=True)
-
-

@@ -196,5 +196,3 @@ for ob in parts:
  ob.data.update()
 (w/'fit-parts.json').write_text(json.dumps({'scale':S,'weapon_positions':[list(world[names.index('Turret%02d'%j)].translation) for j in range(1,6)],'wheel_count':10,'parts':[ob.name for ob in parts]},indent=2),encoding='utf-8')
 bpy.ops.wm.save_as_mainfile(filepath=str(out/'Juggernaut-native-fit.blend'))
-
-
