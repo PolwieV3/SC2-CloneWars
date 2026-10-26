@@ -1,0 +1,993 @@
+[
+  {
+    "group": "ATTE",
+    "file": "implementation-source/ATTE/build_package.py",
+    "sha256": "2964a80215edbaa99296e152459d948c8bedb75f5cfd01eb221f8b6f55c615a5",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\atte\\build_package.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "2ecc34d3289e951f351ad9dbc35425c6c43a27b99820789ec7f29a27a6de2b66",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ATTE",
+    "file": "implementation-source/ATTE/export_native.py",
+    "sha256": "6bc7a1454ecb529237e229c75d4633229fe6b3d9092eeff137cec3cb3a89c43f",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\atte\\export_native.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "a5977b707bf6289becfefc9d2beec201de9cf2bc756f59c4e8102f13cff873d7",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ATTE",
+    "file": "implementation-source/ATTE/extract_clips.py",
+    "sha256": "23bf9c78cd5ff825fe9ad8404df9e9dd9d9c77aea06b6a5ed205cb9014c50d52",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\atte\\extract_clips.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "78902e2d0990301e09809e1abedc4f659789c988973deae72503b102954ed191",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ATTE",
+    "file": "implementation-source/ATTE/install_package.py",
+    "sha256": "fa2162e65df071e2affae78d72639cbd8242c9ae63dde55c77ca60458af8cc52",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\atte\\install_package.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "95517244c413e6cbb5ca309e40c992ff85039200938fb1635c827b76ee76852e",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ATTE",
+    "file": "implementation-source/ATTE/inspect_source.py",
+    "sha256": "1afcaebbb7bee1442f97073421f7ebf9e95765028ad2e02d035cbe48a65e4f05",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\atte\\inspect_source.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "a4554be69b87827cc3bf771a748bb740ea94198dc97be9582bda29bcaa5050f4",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ATTE",
+    "file": "implementation-source/ATTE/inspect_motion.py",
+    "sha256": "b19f641ce603e580081a04eae88145086522d63d1500ff59536e270933992044",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\atte\\inspect_motion.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "2193f7c3a11ed722b497400cda04bc90126a95ab1c1a8527eff5e6d1b6feaaa4",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ATTE",
+    "file": "implementation-source/ATTE/lua_constants.py",
+    "sha256": "b65f86fb40301c9510308f8f0c651b55b9a1e712ba61554349ef0b1c5586fbe9",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\atte\\lua_constants.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "273e9375e1dbeb723be556bd4b44229301f96deb9c4fda623be441956f0395b3",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "Juggernaut",
+    "file": "implementation-source/Juggernaut/build_package.py",
+    "sha256": "ebbc1cc56d26d391e3c724835e60c71b1cde1155820df05803408b45927b10fa",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\juggernaut\\build_package.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "7381dbe21c30a1587f628f157177e493ed53d521b18c0ba58c6104f646633cb8",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "Juggernaut",
+    "file": "implementation-source/Juggernaut/fit_native.py",
+    "sha256": "a0965385e1f7fc5ede25b179dd3f060b7ee4061aa95d00f4e140d589746da167",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\juggernaut\\fit_native.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "10fdb457ec358641badab3d36a94fcff3ce9cb7bcbb30b7abd13cf49e3f7a3f3",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "Juggernaut",
+    "file": "implementation-source/Juggernaut/import_model.py",
+    "sha256": "094be17072afffabd4ec45172c212bdacf87fd553f767a84e9e30329524a9f7c",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\juggernaut\\import_model.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "6391d59f371e53095e91fce54669403fb54166446ac5d36e81f71fd3ec19d1be",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "Juggernaut",
+    "file": "implementation-source/Juggernaut/atlas.py",
+    "sha256": "39cb11f6fb6efb4e704e02bd005f6538efb7901ed51fceb6121fb6ccdf6ff6c8",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\juggernaut\\atlas.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "4901756850e148b6104c31f2b37e6f3364219d965c54e1bbdf876b1ea71f3d8b",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "Juggernaut",
+    "file": "implementation-source/Juggernaut/check_poses.py",
+    "sha256": "3577cda41e20b990b86f6ab8f367331046c7266e27ea77abd21ea87ea4aea88b",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\juggernaut\\check_poses.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "11a9ec14a6abeb822c81964513dc80ae2c44230577bcc1efd9334607c434b452",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "Juggernaut",
+    "file": "implementation-source/Juggernaut/check_texture_uv.py",
+    "sha256": "43e03e94805823cc8128625f8b26c604d95a70fa7635e53a970ad4155cdf6f1c",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\juggernaut\\check_texture_uv.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "f78cc98a4906eee3a125e5c6ca5d8c2667b1dc752e2e8b43079c190e0046ae10",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "Juggernaut",
+    "file": "implementation-source/Juggernaut/build_balance_package.py",
+    "sha256": "98b01ab6e24c8039c73c8a7c81403f2929b79f8a520438bbe8ff47629f2aa1d2",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\juggernaut\\build_balance_package.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "98b01ab6e24c8039c73c8a7c81403f2929b79f8a520438bbe8ff47629f2aa1d2",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "Juggernaut",
+    "file": "implementation-source/Juggernaut/build_name_package.py",
+    "sha256": "b4458ce017d5ab991df0ea9198f19467a3eba02d85ddd76b6d2519ba97f196bb",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\juggernaut\\build_name_package.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "b4458ce017d5ab991df0ea9198f19467a3eba02d85ddd76b6d2519ba97f196bb",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "Juggernaut",
+    "file": "implementation-source/Juggernaut/install_balance_package.py",
+    "sha256": "0601f343ee20925aac2acf1f681f6059c81fb58224b86bc56dff68d04675fa55",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\juggernaut\\install_balance_package.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "a852c12f9d21e46cc964221a612e631a935298d56399e3c51a0146363bbcbfbd",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "Juggernaut",
+    "file": "implementation-source/Juggernaut/install_package.py",
+    "sha256": "33ed9f6462f62d9497b88ebce9f81d731db6c659e60416e516096254e2fcaa65",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\juggernaut\\install_package.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "b9fab42bb395f36cb6a723e65f8d7f7ee2d70ffbd6d7758820c03ce8071c1edc",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UTAA",
+    "file": "implementation-source/UTAA/build_four_port_package.py",
+    "sha256": "fdffde34774363a6c4741b34e8afba9c148c38879e1fe84a0dfc30c4f60ee5d9",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\archanist\\build_four_port_package.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "fdffde34774363a6c4741b34e8afba9c148c38879e1fe84a0dfc30c4f60ee5d9",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UTAA",
+    "file": "implementation-source/UTAA/fit_native.py",
+    "sha256": "c0dc660334ccd69c3b18ed35dd1ff0d93f8fda7becac704ad3a4d1889aca4a56",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\archanist\\fit_native.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "2fbb24eb66584c16c538fbcf35ff16ab3a014213346ad15687d5753087e9df2b",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UTAA",
+    "file": "implementation-source/UTAA/import_verified.py",
+    "sha256": "195207f4b127a7c09649f1e022bf6bbf47b58bb54180d8323b095a323cb609e1",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\archanist\\import_verified.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "0792b735d7a1952bdd8421477fe45374e1ba7cc63a40ba8ec06b883ed3d284a9",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UTAA",
+    "file": "implementation-source/UTAA/validate_native_motion.py",
+    "sha256": "e7c097c74fdecd4bb0d2ecb89d89292bdcb283c8c820c8f4884988cb43422e12",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\archanist\\validate_native_motion.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "e7c097c74fdecd4bb0d2ecb89d89292bdcb283c8c820c8f4884988cb43422e12",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UTAA",
+    "file": "implementation-source/UTAA/validate_four_port.py",
+    "sha256": "95515c3921e0f2b90b4ec67dff226ee532a5d8c992839f61543aa8293cda1f4a",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\archanist\\validate_four_port.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "95515c3921e0f2b90b4ec67dff226ee532a5d8c992839f61543aa8293cda1f4a",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UTAA",
+    "file": "implementation-source/UTAA/atlas.py",
+    "sha256": "f791e773a599a133864e64e16a8f222fd8ce95c0ca1c285fd3a322f030e6ae7c",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\archanist\\atlas.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "682c7a99ee1ddfb658c68b47f3f737bad260bacb1cb73b2709c1040f4d67e0d9",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UTAA",
+    "file": "implementation-source/UTAA/four-port-source-inspect.py",
+    "sha256": "c57b5390812e7d87fdd0766fa61e3f23b973687fa5e6e7402273efc6e42459ff",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\archanist\\four-port-source-inspect.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "c57b5390812e7d87fdd0766fa61e3f23b973687fa5e6e7402273efc6e42459ff",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UTAA",
+    "file": "implementation-source/UTAA/finish_four_port_delivery.py",
+    "sha256": "28dc6fa8a8c671158ac013ef4c10738253c628e6781830f82a465a3fcd481b9c",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\archanist\\finish_four_port_delivery.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "28dc6fa8a8c671158ac013ef4c10738253c628e6781830f82a465a3fcd481b9c",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "RTT",
+    "file": "implementation-source/RTT/atlas.py",
+    "sha256": "32c0fabf3d50d7f8d9d1e4b50bc75a1b045cd7f7a46bc5303cb1c9f7c027976a",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\rtt\\atlas.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "d0a1ef53e4ce9dca4b3c29328eaca527783b87909b7b2ec063abce2b35326367",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "RTT",
+    "file": "implementation-source/RTT/build.py",
+    "sha256": "2a872731c279a13a474510f8ab23d9296794576dacdbdf35bc783c79a2f2c8c2",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\rtt\\build.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "dee2b8a0a7070c99433dbb31671a005000f63028f8402ae8c83101e699496a8f",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "RTT",
+    "file": "implementation-source/RTT/check_size.py",
+    "sha256": "4ec14f88d8a1077532d9df323b95bc80bd67ba6a680f647fff2aa7c5351ca814",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\rtt\\check_size.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "9cbb2839fa35d7afc657298bcc860c72e44cf42a2afae5b99c73618e2ff10c7c",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "RTT",
+    "file": "implementation-source/RTT/check_size_glow.py",
+    "sha256": "ffbd89b6d0ddc278eb7ae363a9c2568bd614ff1ced03c9787c500d3ad13b3b10",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\rtt\\check_size_glow.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "7b7064f853fd7bb0d7bfa25171f5b1d9865ff3e5830a73edbc49c7fc036c3706",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "RTT",
+    "file": "implementation-source/RTT/double_size.py",
+    "sha256": "b95e6db315433415a57e50d712ac44ce634dd36c88fb2c44b96d38c47a4e3d58",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\rtt\\double_size.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "fa6dce9441cec96c26e4d4f494631fee3c9d823521591f9b20cfe6463bdb7bd5",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "RTT",
+    "file": "implementation-source/RTT/finalize.py",
+    "sha256": "7b6dd21ad8c7bb0a3242286a878d904538e7aa831513e9f60ae5077e75902eda",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\rtt\\finalize.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "bf7e7ae1ae35ce95ce2987e52a673f67da3f102d6b1ed2c8b30a6efeebd6d458",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "RTT",
+    "file": "implementation-source/RTT/find_glow.py",
+    "sha256": "049d5df66b03312044c6fe1e00e767658894167603bda2462b8a3eefc386e5a0",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\rtt\\find_glow.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "f51d1e12b946857f885ba7d614d795b62f1ab40f84f3706fb8e0c40a603bb080",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "RTT",
+    "file": "implementation-source/RTT/fit.py",
+    "sha256": "9038ccb32c5fa0ce3d38d7b884f44d5a782d48838364d89e3d8b5be09d838ae6",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\rtt\\fit.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "b8fd2c0a7ea6a0ff054c2a5caa89295503a040b6d3aa687efb0d2279fdae2544",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "RTT",
+    "file": "implementation-source/RTT/import.py",
+    "sha256": "8fa9096f42e875e3651c2185080a5841f8d374cd250c0b81d1bfc08a42a9cdaa",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\rtt\\import.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "a965689f9ff6cf14782c1611e9ad4c1266eb7c0b761c731a72a525b0ad1329ee",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "RTT",
+    "file": "implementation-source/RTT/inspect.py",
+    "sha256": "fcfaa2b91c81f6becac9426e36878c768d49fd5571ce827a36ace813c5708b9a",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\rtt\\inspect.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "052c35b6ca2b15a720e217798ad549ab859c4afea08514cfd2c4f5e48c88e54c",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "RTT",
+    "file": "implementation-source/RTT/prepare_build.py",
+    "sha256": "c2b24a5d1fbbf24e239665943f64edd2ff867f1f961bd9f9e523347d24419d53",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\rtt\\prepare_build.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "ec8ce3dd982124127a65434c08e7ce9b1e1d4bddfa8791f0c85a4677b99689ad",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "RTT",
+    "file": "implementation-source/RTT/refine.py",
+    "sha256": "65ff8024acd8d7d3728a8778dcbdb992e20e457f966422650678d0ceb8dddbeb",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\rtt\\refine.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "4e3061f80a3646e9b705a51e644240d6b7054c24127877c104d3ae5640c9f0f5",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "RTT",
+    "file": "implementation-source/RTT/remove_projector.py",
+    "sha256": "5bd7e97f21ae4abba90941c30a7b68513c23330fe4ba28237dbf5ef27e9dc01f",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\rtt\\remove_projector.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "e5c43baf38205b9ba3950a42714387018b70f88ee6edac74511e9d828c5b8fca",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "RTT",
+    "file": "implementation-source/RTT/size_glow.py",
+    "sha256": "c8106fb38aa1aaf1905865f7699d9347effb5021392b0922d858552560684050",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\rtt\\size_glow.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "ad12a53fa141f56ab0333571288a3ef75cfbbd8b390850dc76a2990928c47b76",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "RTT",
+    "file": "implementation-source/RTT/uvinspect.py",
+    "sha256": "69a69ceba77f3a5be2c8849d5487ccde0a5181c47c15224178404ad908b574aa",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\rtt\\uvinspect.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "2c9a40eeefa97d4825cc4f1ac6f52615acc0d51bbb0874cd04f3b38934f54be1",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UTAT",
+    "file": "implementation-source/UTAT/build_package.py",
+    "sha256": "d9998b479f8c77a89aa2684172ca2e2803d737569e63486af7e2e701b38ca8d1",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-24\\sc2-ut-at\\work\\build_package.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "efa3fbe0069f2ed29487e79564cb0ae3b83c84492026c6f59eb436cff267901f",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UTAT",
+    "file": "implementation-source/UTAT/install_role_pair.py",
+    "sha256": "033d422c98ca2fa5fbba5b3d0a7fbffb49271407fac95eb36740d9041418a7b1",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-24\\sc2-ut-at\\work\\install_role_pair.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "2e261e0a172c4bd539233c1e5be6e7ec083484a8b893149ffcdc0af7b709b4e9",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UTAT",
+    "file": "implementation-source/UTAT/check_role_packages.py",
+    "sha256": "5acf33dd364360d35f2640863c99ac7ef5e7c1299a3cc7e0298dfcd466d231d2",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-24\\sc2-ut-at\\work\\check_role_packages.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "1df29451d1dd8061e04e2cdf55effd8a94a2b1712161abf812f136af862798d9",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UTAT",
+    "file": "implementation-source/UTAT/build_utaa_dual.py",
+    "sha256": "c644da18c3f455a9b0fd3ddde72e10fafc5519819f09a617101d05f0e19d1cc4",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-24\\sc2-ut-at\\work\\build_utaa_dual.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "3d9816780eb8192ad114acc8ca7e4ed857be07d346e1e4a5ebdd6461cf101a17",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UTAT",
+    "file": "implementation-source/UTAT/build_rockhead_foundation.py",
+    "sha256": "fe0b7fa380043890fdb9391cc8c412624ee15b37a84818878f7933479ece1feb",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-24\\sc2-ut-at\\work\\build_rockhead_foundation.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "2f0897235d8f3f547e3bf2f2cde96f3734b6b5f84de694db113fb879660bb959",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UTAT",
+    "file": "implementation-source/UTAT/build_utat_tank.py",
+    "sha256": "61d40215a551c966647208f27c2f50e897ea137ce41ffaeaf3546518c179d93f",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-24\\sc2-ut-at\\work\\build_utat_tank.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "2203c9faace7f75ff24f25763bd6fdaebb812f7afe557b8dc39a0fb8c0f4d0e2",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA",
+    "file": "implementation-source/SPHA/build_package.py",
+    "sha256": "0fe148a2b7b677c5d91b631e1968fbc524fa467a2c4e1c5761834e5fa3503300",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-25\\spha-t-jackhammer-handoff-user-chose\\work\\spha\\build_package.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "local_source_sha256": "0fe148a2b7b677c5d91b631e1968fbc524fa467a2c4e1c5761834e5fa3503300",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA",
+    "file": "implementation-source/SPHA/export_native.py",
+    "sha256": "9e5396713ab48a6428d6c8a22de0a07ed3cdb98e1a5ae7e8caf4acf508dc550e",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-25\\spha-t-jackhammer-handoff-user-chose\\work\\spha\\export_native.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "local_source_sha256": "9e5396713ab48a6428d6c8a22de0a07ed3cdb98e1a5ae7e8caf4acf508dc550e",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA",
+    "file": "implementation-source/SPHA/install_package.py",
+    "sha256": "b96f4a982feed37fb8925372b2ca397966213b96f51c69f63e5be9eb0445b6cd",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-25\\spha-t-jackhammer-handoff-user-chose\\work\\spha\\install_package.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "local_source_sha256": "b96f4a982feed37fb8925372b2ca397966213b96f51c69f63e5be9eb0445b6cd",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA",
+    "file": "implementation-source/SPHA/validate_native.py",
+    "sha256": "a0d2b6b5f0e5d9cdc40c30928449d6ec36121f7c8f05eb548a32063ad9354fe4",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-25\\spha-t-jackhammer-handoff-user-chose\\work\\spha\\validate_native.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "local_source_sha256": "a0d2b6b5f0e5d9cdc40c30928449d6ec36121f7c8f05eb548a32063ad9354fe4",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA",
+    "file": "implementation-source/SPHA/inspect.py",
+    "sha256": "979f7046c1be48a1da54d5a6acffcdbbe560e11a200506edd3d906d30e2805f7",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-25\\spha-t-jackhammer-handoff-user-chose\\work\\spha\\inspect.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "local_source_sha256": "a89eeac01e3db292f03c56e2d5a9eca0f492028f8fa872b6931cf7685d25f0bd",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA",
+    "file": "implementation-source/SPHA/fix_names.py",
+    "sha256": "618270c4e293ddbc5682eebd2703a553641b937018c6e6f798ffc31b628489c6",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-25\\spha-t-jackhammer-handoff-user-chose\\work\\spha\\fix_names.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "local_source_sha256": "28ce0a080ecb969e1cde5ab1603e1f9173216c4c5cc614acb124fc9fea537044",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UI-and-balance",
+    "file": "implementation-source/UI-and-balance/build_names.py",
+    "sha256": "47f9d2bd051a6f715815631b96e58db9d03627d09ab40e7bf62ccf95b8ba05ab",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\names\\build_names.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "b6578b8d27dd4f9b36cce05d63bf0b4394cf1c1e34734df744c4755d2c3faa8f",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UI-and-balance",
+    "file": "implementation-source/UI-and-balance/fix_research_range.py",
+    "sha256": "3af15c746edc5942554f911688821ccaf27f855336bf9d90a1c9369414880b7a",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\names\\fix_research_range.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "f96396b7dc7c8995852787472282c4ab6077d5991f4146f0de8c3c2e7d77d049",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UI-and-balance",
+    "file": "implementation-source/UI-and-balance/build_movement_speed.py",
+    "sha256": "4dd8f6267f1ddd7823c9ddcb4f15ff684cf32aa7dde09d4e73ea4cccc7342f3f",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\names\\build_movement_speed.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "f307bee45b26453f9678797ac2f5bc34282e85a545c004d911bc63706fb83ee2",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA-source-import",
+    "file": "implementation-source/SPHA-source-import/old_ala.py",
+    "sha256": "7d4f692923ea24f32cc9c98d42066dd94e068e478cb7ebabdbb669f5ba5a049a",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\spha\\old_ala.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "4d767a6d212987debb5a1ad3cc59aeef56d32d07665a5a97f0aa8bc29765d8f8",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA-source-import",
+    "file": "implementation-source/SPHA-source-import/inspect_animated.py",
+    "sha256": "bc3c78467f0eb268c5c4c9ef05e95c811b32f5c901062e92b980484320455f3c",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\spha\\inspect_animated.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "d1e1804c49282c4a104542bfde9cec4167f24718a2a7ed8688a9669726f35ec9",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA-source-import",
+    "file": "implementation-source/SPHA-source-import/fix_preview.py",
+    "sha256": "b6599a10d240bcc794bf3bda2ebbd815cdef5f0396e70f617cc71061a5e17f9f",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\spha\\fix_preview.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "4154586c3b9c63a9c4afb5145e6e29f9c42ccfa7b44eafc462f0b4ab2efc8ddd",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA-source-import",
+    "file": "implementation-source/SPHA-source-import/verify_walk.py",
+    "sha256": "c27123fcd826168c1a78ac134ea07d1b9bada6025389c78f49f7467bfd54afed",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\spha\\verify_walk.py",
+    "scope": "Authored conversion/inspection script snapshot; local inputs and external pipeline dependencies may still be required.",
+    "local_source_sha256": "5d82f76641bc5c5461916b2be0abc47377f1c3d16915df3457e7227962a415b0",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "shared-pipeline",
+    "file": "implementation-source/shared-pipeline/bp_literals.py",
+    "sha256": "30bd5a8b7660de300dee7fe66ce1f7fb9a7949f1708aa786dba1e472a6debc44",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\archanist\\pipeline\\bp_literals.py",
+    "local_source_sha256": "53c911cd2c67104d704481b2fd2810aa8c02185d792b753f478604e8256e41c3",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "shared-pipeline",
+    "file": "implementation-source/shared-pipeline/sca101.py",
+    "sha256": "22687f233937baae240e874b7df7c2c2c87c7271479ee17d8b5860165c230ecd",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\archanist\\pipeline\\sca101.py",
+    "local_source_sha256": "22687f233937baae240e874b7df7c2c2c87c7271479ee17d8b5860165c230ecd",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "shared-pipeline",
+    "file": "implementation-source/shared-pipeline/scm_v7.py",
+    "sha256": "af4e10dc13c4314709785f372ee936c4c4f809befed3b23d62774427d1ad34f7",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\archanist\\pipeline\\scm_v7.py",
+    "local_source_sha256": "af4e10dc13c4314709785f372ee936c4c4f809befed3b23d62774427d1ad34f7",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UTAT",
+    "file": "implementation-source/UTAT/compare_tank_foundations.py",
+    "sha256": "760a8b60be0e9ca46997f1914297c50f043082e8542f0a3c6ef07dbcc7c86e0d",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-24\\sc2-ut-at\\work\\compare_tank_foundations.py",
+    "local_source_sha256": "4898e0e6088c01f01fec9fc83f5a1b73d9a0e3ea1d8706097726cf3a7dbc5599",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UTAT",
+    "file": "implementation-source/UTAT/increase_attack_speed145.py",
+    "sha256": "f697a0de680d0e3efe1826c03e09f5bad713ee368df93406a54bcc0ce320b043",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-24\\sc2-ut-at\\work\\increase_attack_speed145.py",
+    "local_source_sha256": "9f915f375f3b62f8906770af679c78953e0961886a7696804dafd742d0e68853",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UTAT",
+    "file": "implementation-source/UTAT/inspect_tank_conversion.py",
+    "sha256": "95b0030628652fa5942f960d1b588ff80919d8e405112ddfdb9757c68ad0dee5",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-24\\sc2-ut-at\\work\\inspect_tank_conversion.py",
+    "local_source_sha256": "d819424dcfc813ccd0ae4cdc1dd763b3123161410ce0673714ed10e7ae4f63a6",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UTAT",
+    "file": "implementation-source/UTAT/install_attack_speed145.py",
+    "sha256": "290ccd9e6d8b39852ff1ecaaf8ac1eb57baf7b619219fedae2366cd42f22d5eb",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-24\\sc2-ut-at\\work\\install_attack_speed145.py",
+    "local_source_sha256": "055c1f4564153204b3064f77363ad93cc36a3abafe8de75b02fd0aa9726c2f24",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UTAT",
+    "file": "implementation-source/UTAT/limit_tank_arcs.py",
+    "sha256": "6ce50ad9c93a9ce25198a8317ec7615002b488e472031026968f2f5f83eee980",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-24\\sc2-ut-at\\work\\limit_tank_arcs.py",
+    "local_source_sha256": "f0e3049e20e874494f75b3d4d3a7c56a10a690c530b1e619fb174b8d934bb222",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ATTE",
+    "file": "implementation-source/ATTE/ATTE_script.lua",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-18\\let\\work\\atte\\ATTE_script.lua",
+    "sha256": "a79b3bca5e2582b9e129fda862828ae7f56203be72268c09a410e6eae33e0345",
+    "scope": "Authored unit behavior wrapper; imported native base classes remain external.",
+    "local_source_sha256": "3f152d7ec1dded049c1d58170a4de3968375329e8b8ed58665cb8eeb7371164b",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA",
+    "file": "implementation-source/SPHA/SPHA_script.lua",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-25\\spha-t-jackhammer-handoff-user-chose\\work\\spha\\SPHA_script.lua",
+    "sha256": "f957cf6515d8b612d6d69e170362368a2cf98fae9240ec207c03caf50918f40a",
+    "scope": "Authored unit behavior wrapper; imported native base classes remain external.",
+    "local_source_sha256": "f957cf6515d8b612d6d69e170362368a2cf98fae9240ec207c03caf50918f40a",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UTAT",
+    "file": "implementation-source/UTAT/UTAT_script.lua",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-24\\sc2-ut-at\\work\\tank-conversion\\UTAT_script.lua",
+    "sha256": "d1b6535aa57cc8cafd13da553d4313e48a1a4150e575d4c864619502064006d6",
+    "scope": "Authored unit behavior wrapper; imported native base classes remain external.",
+    "local_source_sha256": "d1b6535aa57cc8cafd13da553d4313e48a1a4150e575d4c864619502064006d6",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UTAA",
+    "file": "implementation-source/UTAA/UTAA_script.lua",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-24\\sc2-ut-at\\work\\tank-conversion\\UTAA_script.lua",
+    "sha256": "2442ef43b47fa0cce59281765979ff8df8c26ec0190772db9b9ef86b647af1d3",
+    "scope": "Authored unit behavior wrapper; imported native base classes remain external.",
+    "local_source_sha256": "4ecf58913b447bbc40307c13f9c2652f0a4fc511f21c77d58eacae8975477848",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ISPEngineers",
+    "file": "implementation-source/ISPEngineers/closed_cockpit.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\files-pasted-by-the-user-gar\\work\\closed_cockpit.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "40dcce9f6d07814173658feee6aaf5166f456b53c9fcbc196978f4f2462ead35",
+    "local_source_sha256": "40dcce9f6d07814173658feee6aaf5166f456b53c9fcbc196978f4f2462ead35",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ISPEngineers",
+    "file": "implementation-source/ISPEngineers/direct_dlc_research_names.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\files-pasted-by-the-user-gar\\work\\direct_dlc_research_names.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "3321535a1f3ae529f5d46ca35ecdccfd036121eacd3cff3c03c705321cea5345",
+    "local_source_sha256": "3321535a1f3ae529f5d46ca35ecdccfd036121eacd3cff3c03c705321cea5345",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ISPEngineers",
+    "file": "implementation-source/ISPEngineers/export_engineer_test.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\files-pasted-by-the-user-gar\\work\\export_engineer_test.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "e599fad0fb25c0cd3608b6cd911fa8adb7c881f7d50132f47b07702efd9abb0a",
+    "local_source_sha256": "e599fad0fb25c0cd3608b6cd911fa8adb7c881f7d50132f47b07702efd9abb0a",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ISPEngineers",
+    "file": "implementation-source/ISPEngineers/export_field_engineer.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\files-pasted-by-the-user-gar\\work\\export_field_engineer.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "e671870b61442bc249258f45a100de93c7e08e59ee539aa6f14b805cddf350d7",
+    "local_source_sha256": "e671870b61442bc249258f45a100de93c7e08e59ee539aa6f14b805cddf350d7",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ISPEngineers",
+    "file": "implementation-source/ISPEngineers/fix_names.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\files-pasted-by-the-user-gar\\work\\fix_names.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "be3a4e28abfacf1107433c0ca167fc0620972b310cfecc08b310a6b9606dc678",
+    "local_source_sha256": "be3a4e28abfacf1107433c0ca167fc0620972b310cfecc08b310a6b9606dc678",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ISPEngineers",
+    "file": "implementation-source/ISPEngineers/inspect_engineers.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\files-pasted-by-the-user-gar\\work\\inspect_engineers.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "2856d28084f3059e50245f4ee2ef082d59fddef5f9a7663d734a63e0859883f6",
+    "local_source_sha256": "2856d28084f3059e50245f4ee2ef082d59fddef5f9a7663d734a63e0859883f6",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ISPEngineers",
+    "file": "implementation-source/ISPEngineers/inspect_isp.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\files-pasted-by-the-user-gar\\work\\inspect_isp.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "c0fcb9f4f5c1cd1679b69d0a56209c12e21f9634b8f46357298e8b83355e57c8",
+    "local_source_sha256": "c0fcb9f4f5c1cd1679b69d0a56209c12e21f9634b8f46357298e8b83355e57c8",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ISPEngineers",
+    "file": "implementation-source/ISPEngineers/package_engineer_test.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\files-pasted-by-the-user-gar\\work\\package_engineer_test.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "1cfaa9e106ce8f4ff6f2aebd6c10526e77fc46c6e9e9c3b963e637cf22e03308",
+    "local_source_sha256": "1cfaa9e106ce8f4ff6f2aebd6c10526e77fc46c6e9e9c3b963e637cf22e03308",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ISPEngineers",
+    "file": "implementation-source/ISPEngineers/package_field_engineer.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\files-pasted-by-the-user-gar\\work\\package_field_engineer.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "82ec7c502a38cdcb15a741dde1e10a3cee7684ac7ec827409e312e15e3ae4c40",
+    "local_source_sha256": "82ec7c502a38cdcb15a741dde1e10a3cee7684ac7ec827409e312e15e3ae4c40",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ISPEngineers",
+    "file": "implementation-source/ISPEngineers/preview_native_arm.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\files-pasted-by-the-user-gar\\work\\preview_native_arm.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "ae6967e78cbea846767e2f2139d5cfc263b0daa730a5c72082c11fe4d72aa45d",
+    "local_source_sha256": "ae6967e78cbea846767e2f2139d5cfc263b0daa730a5c72082c11fe4d72aa45d",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ISPEngineers",
+    "file": "implementation-source/ISPEngineers/record_dlc_research_success.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\files-pasted-by-the-user-gar\\work\\record_dlc_research_success.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "9eae6cd77a96cfe5198412e9eb5ecd770f128ad84b52a9fb68b8b095e901ec9c",
+    "local_source_sha256": "7cadf28a9ce4512010d851811704e0d0cb0bc0bede47edcb6bc833195c1f452e",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ISPEngineers",
+    "file": "implementation-source/ISPEngineers/record_engineer_status.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\files-pasted-by-the-user-gar\\work\\record_engineer_status.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "748e193b79ecd410bfae67a34dc16857ae9d18e425b04783afdcd02beab4510e",
+    "local_source_sha256": "aac74b5f8dcf6985ad4eec7712549a33d008a3e81e33165f91553e3e6c77ba7b",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ISPEngineers",
+    "file": "implementation-source/ISPEngineers/refine_rear_mapping.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\files-pasted-by-the-user-gar\\work\\refine_rear_mapping.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "2f05f28b5b7a1d2e0a63f074b4fbf21e722aad68d04f5e7eb11da7439360f2e1",
+    "local_source_sha256": "2f05f28b5b7a1d2e0a63f074b4fbf21e722aad68d04f5e7eb11da7439360f2e1",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ISPEngineers",
+    "file": "implementation-source/ISPEngineers/rename_isp_game_text.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\files-pasted-by-the-user-gar\\work\\rename_isp_game_text.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "d1fb79b2ca0338744009f04f6a3d93c8c2161a5676a0be6e1ce6329e3a102f12",
+    "local_source_sha256": "d1fb79b2ca0338744009f04f6a3d93c8c2161a5676a0be6e1ce6329e3a102f12",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ISPEngineers",
+    "file": "implementation-source/ISPEngineers/render_isp_r2.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\files-pasted-by-the-user-gar\\work\\render_isp_r2.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "59450300f60b83546324338b475d41d9e27d1938814c6ce40f4e2ec7fabafe92",
+    "local_source_sha256": "59450300f60b83546324338b475d41d9e27d1938814c6ce40f4e2ec7fabafe92",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ISPEngineers",
+    "file": "implementation-source/ISPEngineers/render_isp_r3.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\files-pasted-by-the-user-gar\\work\\render_isp_r3.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "e7c761a577e7ec605f79efd7f4fc64ac1360ae36e3a0630b1fb2b6a8b32e9330",
+    "local_source_sha256": "e7c761a577e7ec605f79efd7f4fc64ac1360ae36e3a0630b1fb2b6a8b32e9330",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ISPEngineers",
+    "file": "implementation-source/ISPEngineers/render_texture_comparison.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\files-pasted-by-the-user-gar\\work\\render_texture_comparison.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "43525fad1a132758f23c2c0d998a2da35a87da76df173130f6aa84ce32e26c1d",
+    "local_source_sha256": "43525fad1a132758f23c2c0d998a2da35a87da76df173130f6aa84ce32e26c1d",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ISPEngineers",
+    "file": "implementation-source/ISPEngineers/verify_direct_dlc_names.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\files-pasted-by-the-user-gar\\work\\verify_direct_dlc_names.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "ca469bdd28fb0d2d61df8cad86ed81a261a57ea2e20572308462ce6658d5ccd6",
+    "local_source_sha256": "0866210e2f74d7b5d74a74182ff4e8a64e54a1e283c5ce5c42bc4d5ea3cac2ff",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ISPEngineers",
+    "file": "implementation-source/ISPEngineers/verify_isp_refinement.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\files-pasted-by-the-user-gar\\work\\verify_isp_refinement.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "ea404e91b3ee7e1a9079062b354576d4de583b6b89e64ff48c654f089a50b08a",
+    "local_source_sha256": "ea404e91b3ee7e1a9079062b354576d4de583b6b89e64ff48c654f089a50b08a",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA",
+    "file": "implementation-source/SPHA/components.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-25\\spha-t-jackhammer-handoff-user-chose\\work\\spha\\components.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "847a79afa0cd8fc7e715bbb4e8057e37414bf3ed6debde466514c1052c7f3ffe",
+    "local_source_sha256": "0328efbd4198d7a17025fa569d4d22744226f4f8fefd346d08477c0f15dcc89d",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA",
+    "file": "implementation-source/SPHA/fix_research_dev_source.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-25\\spha-t-jackhammer-handoff-user-chose\\work\\spha\\fix_research_dev_source.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "b2bdfd3309bfb3821c7d5aa0caede779cdba92e1b435bf6ba1030e720eeaa84f",
+    "local_source_sha256": "b2bdfd3309bfb3821c7d5aa0caede779cdba92e1b435bf6ba1030e720eeaa84f",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA",
+    "file": "implementation-source/SPHA/fix_research_literal.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-25\\spha-t-jackhammer-handoff-user-chose\\work\\spha\\fix_research_literal.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "0ace9ebbd9bd16a4579e3756da4ebbe40b5be3a704bd69f75894c7ddbc68020d",
+    "local_source_sha256": "9432a438ae4183951462a3a6054ad04ac597d9ffa93447d32f47a7401b427b49",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA",
+    "file": "implementation-source/SPHA/inspect_names.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-25\\spha-t-jackhammer-handoff-user-chose\\work\\spha\\inspect_names.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "7bc6709b0ad7bff71a714f5fbecc9ae91e2f7241ae429c7e27242094587ab877",
+    "local_source_sha256": "7623a36ed7596f25187ed3347453670b87c54c65434f345fb85be6be5f4cb0ec",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA",
+    "file": "implementation-source/SPHA/install_dlc_research_source.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-25\\spha-t-jackhammer-handoff-user-chose\\work\\spha\\install_dlc_research_source.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "3630e4655615f03a1f6204afd59c8e46881321f653ec4a8261aa9536875dc018",
+    "local_source_sha256": "3630e4655615f03a1f6204afd59c8e46881321f653ec4a8261aa9536875dc018",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA",
+    "file": "implementation-source/SPHA/install_early_deploy.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-25\\spha-t-jackhammer-handoff-user-chose\\work\\spha\\install_early_deploy.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "085da67b583725cfc0afb0cb129a61eacfebc842ee4bceb4e78b27f573a91d2b",
+    "local_source_sha256": "085da67b583725cfc0afb0cb129a61eacfebc842ee4bceb4e78b27f573a91d2b",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA",
+    "file": "implementation-source/SPHA/install_priority_names.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-25\\spha-t-jackhammer-handoff-user-chose\\work\\spha\\install_priority_names.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "7caa43b9ac512423d774a59c70c6421a31a74bb6cce4d92a231d9c59e0be1ac8",
+    "local_source_sha256": "7caa43b9ac512423d774a59c70c6421a31a74bb6cce4d92a231d9c59e0be1ac8",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA",
+    "file": "implementation-source/SPHA/install_target_recheck.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-25\\spha-t-jackhammer-handoff-user-chose\\work\\spha\\install_target_recheck.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "acb0017c1aa8ff5c09415bf61e8746b96c665faabb87ac408a78fa75c60b0c53",
+    "local_source_sha256": "acb0017c1aa8ff5c09415bf61e8746b96c665faabb87ac408a78fa75c60b0c53",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA",
+    "file": "implementation-source/SPHA/install_test2.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-25\\spha-t-jackhammer-handoff-user-chose\\work\\spha\\install_test2.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "7f26ddbed491b55c4889eeecd459aeaf7b40be31a4d7bcfe5c0cfa394c4beda4",
+    "local_source_sha256": "7f26ddbed491b55c4889eeecd459aeaf7b40be31a4d7bcfe5c0cfa394c4beda4",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA",
+    "file": "implementation-source/SPHA/parenting.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-25\\spha-t-jackhammer-handoff-user-chose\\work\\spha\\parenting.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "d788c3b8ec3db61048ca7f87e4f90548aff93aa8a4d7e035797021f86f23150c",
+    "local_source_sha256": "1412ee29319bd7804171a1136f01db42e4106be642213b3c1cac2b3b59f69ee5",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA",
+    "file": "implementation-source/SPHA/read_name_values.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-25\\spha-t-jackhammer-handoff-user-chose\\work\\spha\\read_name_values.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "e1687a529ac10eb64b95b68e781b3f938a91a7d0aef87171d116c791466f6412",
+    "local_source_sha256": "36de7ea287cacf77748d920afabae8ff210a53eeb4682dd9c7f9d4f25ee3e462",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA",
+    "file": "implementation-source/SPHA/repack_test7.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-25\\spha-t-jackhammer-handoff-user-chose\\work\\spha\\repack_test7.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "e2e950911291ca3f88a8cd4563f099eccf1e9f7c8e288eb56cad371c3b9218d7",
+    "local_source_sha256": "e2e950911291ca3f88a8cd4563f099eccf1e9f7c8e288eb56cad371c3b9218d7",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA",
+    "file": "implementation-source/SPHA/stage_target_recheck.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-25\\spha-t-jackhammer-handoff-user-chose\\work\\spha\\stage_target_recheck.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "d691679440fba1b72fb51f79d0b5a4d53ff0556cf6af274b9ce6443799d7e290",
+    "local_source_sha256": "d691679440fba1b72fb51f79d0b5a4d53ff0556cf6af274b9ce6443799d7e290",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA",
+    "file": "implementation-source/SPHA/trace_names.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-25\\spha-t-jackhammer-handoff-user-chose\\work\\spha\\trace_names.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "4c441cd2e117b2179112e2b2cb6c600a3781e063d90cdf5b88a04f9c3285e8e3",
+    "local_source_sha256": "36b9000ee4d021a24acec7cb298a8c370c72bf6bd5f14f1553067e64b93708f3",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "SPHA",
+    "file": "implementation-source/SPHA/update_tracking.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-25\\spha-t-jackhammer-handoff-user-chose\\work\\spha\\update_tracking.py",
+    "scope": "Authored conversion/inspection code; local/private inputs required; not a clean-machine build.",
+    "sha256": "1791edb8153cee9b0bd5f369ad24ed1ea0387821d958253824b95335b39493d5",
+    "local_source_sha256": "1791edb8153cee9b0bd5f369ad24ed1ea0387821d958253824b95335b39493d5",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UnitSizing",
+    "file": "implementation-source/UnitSizing/build_sizing_report.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\we-now-have-every-uef-unit\\work\\build_sizing_report.py",
+    "scope": "Accepted visual-sizing overlay build and validation; requires local model archives.",
+    "sha256": "4a12d0331b3640566467584d042b14a0c94680e9daa83b05678516bf6f477817",
+    "local_source_sha256": "4a12d0331b3640566467584d042b14a0c94680e9daa83b05678516bf6f477817",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UnitSizing",
+    "file": "implementation-source/UnitSizing/install_sizing_r1.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\we-now-have-every-uef-unit\\work\\install_sizing_r1.py",
+    "scope": "Accepted visual-sizing overlay build and validation; requires local model archives.",
+    "sha256": "0ec17a3dff941b3edfc8ea8f6abddd7bd875c232fd2b492ec7b28fcb4373e74e",
+    "local_source_sha256": "0ec17a3dff941b3edfc8ea8f6abddd7bd875c232fd2b492ec7b28fcb4373e74e",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UnitSizing",
+    "file": "implementation-source/UnitSizing/install_sizing_r2.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\we-now-have-every-uef-unit\\work\\install_sizing_r2.py",
+    "scope": "Accepted visual-sizing overlay build and validation; requires local model archives.",
+    "sha256": "30e540813b0c11db7bd875d0dfa1e6b10fb1aa882aafe0fee196ff8078690c2f",
+    "local_source_sha256": "ceeaad1b33fd88616d8182174682184d2b0343ed77f1f025d6db6d399906c18e",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UnitSizing",
+    "file": "implementation-source/UnitSizing/install_sizing_r3.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\we-now-have-every-uef-unit\\work\\install_sizing_r3.py",
+    "scope": "Accepted visual-sizing overlay build and validation; requires local model archives.",
+    "sha256": "f9d7a488505788bf6d6d21c2ae8506648782eff216aa4794ba6859f487648c5a",
+    "local_source_sha256": "5de6c072a5ad5cfd1a4d218875450bfa5ee1d3672ebef71407509396219e78ea",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "UnitSizing",
+    "file": "implementation-source/UnitSizing/measure_units.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\we-now-have-every-uef-unit\\work\\measure_units.py",
+    "scope": "Accepted visual-sizing overlay build and validation; requires local model archives.",
+    "sha256": "034ad34a12edef0145b083b5007dbc43219dbb651b942d1c27056a942d246af7",
+    "local_source_sha256": "034ad34a12edef0145b083b5007dbc43219dbb651b942d1c27056a942d246af7",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  },
+  {
+    "group": "ProjectSync",
+    "file": "implementation-source/ProjectSync/refresh_ground_milestone.py",
+    "local_source": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-26\\we-now-have-every-uef-unit\\work\\refresh_github_milestone.py",
+    "sha256": "871ca2784a40c3f1eed8566be34e4fd818097ad24e76ad8b26b48d56dc33ab58",
+    "scope": "Dated registry refresh operation with local input paths; not a portable rebuild.",
+    "local_source_sha256": "871ca2784a40c3f1eed8566be34e4fd818097ad24e76ad8b26b48d56dc33ab58",
+    "hash_scope": "Captured file after LF normalization; matches Git blob bytes"
+  }
+]

@@ -1,3 +1,5 @@
+> Historical reference: this document describes an earlier development stage. The current working 12-unit ground milestone and next steps are in [CURRENT-STATE.md](../CURRENT-STATE.md) and [MILESTONES.md](MILESTONES.md). Earlier “next unit” instructions and acceptance states are superseded.
+
 # TX-130 Republic paint and markings — revision 6
 
 The sources below show a Republic light/off-white armor and crimson family of schemes. No authoritative RGB, HEX, RAL or Pantone manufacturing specification was located. The following sRGB values are project approximations for SC2 rendering, not official paint codes: base armor #BEC1BC, light panels #D0D2CC, crimson #80363A, dark crimson #65252A, insignia off-white #E3E4DA, military yellow #E0CF6B.

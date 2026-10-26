@@ -1,3 +1,5 @@
+> Historical reference: this document describes an earlier development stage. The current working 12-unit ground milestone and next steps are in [CURRENT-STATE.md](../CURRENT-STATE.md) and [MILESTONES.md](MILESTONES.md). Earlier “next unit” instructions and acceptance states are superseded.
+
 # Editor commands
 
 In VS Code use **Terminal > Run Task**, then select a command beginning **SC2:**.

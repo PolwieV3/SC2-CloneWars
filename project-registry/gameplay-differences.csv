@@ -1,0 +1,387 @@
+﻿id,original,replacement,field,vanilla,current
+uul0101,Rock Head,TX-130 Saber Tank,Weapons.1.Audio.RackSalvoBeginFire,SC2/SC2/Units/UEF/UUL0101/snd_UUL0101_Tank_Cannon_Dbl,SC2/SC2/Units/illuminate/UIL0101/snd_UIL0101_Tank_Cannon_Tau
+uul0101,Rock Head,TX-130 Saber Tank,Weapons.1.ProjectileId,/projectiles/UEF/UCannonShell01/UCannonShell01_proj.bp,/projectiles/clonewars/tx130/ucannonshell01_proj.bp
+uul0101,Rock Head,TX-130 Saber Tank,Weapons.2.Audio.RackSalvoBeginFire,SC2/SC2/Units/UEF/UUL0101/snd_UUL0101_Tank_Cannon_Dbl,SC2/SC2/Units/illuminate/UIL0101/snd_UIL0101_Tank_Cannon_Tau
+uul0101,Rock Head,TX-130 Saber Tank,Weapons.2.ProjectileId,/projectiles/UEF/UCannonShell01/UCannonShell01_proj.bp,/projectiles/clonewars/tx130/ucannonshell01_proj.bp
+uul0102,Demolisher,AT-AP,Weapons.1.BallisticArc,RULEUBA_HighArc,RULEUBA_None
+uul0102,Demolisher,AT-AP,Weapons.1.MuzzleVelocity,15,60
+uul0102,Demolisher,AT-AP,Weapons.1.MuzzleVelocityReduceDistance,28,0
+uul0102,Demolisher,AT-AP,Weapons.1.ProjectileId,/projectiles/UEF/UArtillery04/UArtillery04_proj.bp,/projectiles/CloneWars/ATAPSniperShell/ATAPSniperShell_proj.bp
+uul0102,Demolisher,AT-AP,Weapons.1.RangeCategory,UWRC_IndirectFire,UWRC_DirectFire
+uul0102,Demolisher,AT-AP,Weapons.1.TurretBoneMuzzle,T01_B01_Muzzle01,ATAP_MainMuzzle01
+uul0102,Demolisher,AT-AP,Weapons.1.TurretBonePitch,T01_Barrel01,ATAP_VisualMainPitch
+uul0102,Demolisher,AT-AP,Weapons.1.TurretBoneYaw,Turret01,ATAP_AimYaw
+uul0102,Demolisher,AT-AP,Weapons.1.WeaponCategory,Artillery,Direct Fire
+uul0102,Demolisher,AT-AP,Weapons.2.BallisticArc,RULEUBA_HighArc,RULEUBA_None
+uul0102,Demolisher,AT-AP,Weapons.2.MuzzleVelocity,15,60
+uul0102,Demolisher,AT-AP,Weapons.2.MuzzleVelocityReduceDistance,28,0
+uul0102,Demolisher,AT-AP,Weapons.2.ProjectileId,/projectiles/UEF/UArtillery04/UArtillery04_proj.bp,/projectiles/CloneWars/ATAPSniperShell/ATAPSniperShell_proj.bp
+uul0102,Demolisher,AT-AP,Weapons.2.RangeCategory,UWRC_IndirectFire,UWRC_DirectFire
+uul0102,Demolisher,AT-AP,Weapons.2.TurretBoneMuzzle,T01_B01_LongBarrel01_Muzzle01,ATAP_MainMuzzle01
+uul0102,Demolisher,AT-AP,Weapons.2.TurretBonePitch,T01_Barrel01,ATAP_VisualMainPitch
+uul0102,Demolisher,AT-AP,Weapons.2.TurretBoneYaw,Turret01,ATAP_AimYaw
+uul0102,Demolisher,AT-AP,Weapons.2.WeaponCategory,Artillery,Direct Fire
+uul0105,Archanist,UT-AA,Weapons.1.RackBones.1.MuzzleBones.1,T01_B01_Muzzle01,UTAA_Muzzle01
+uul0105,Archanist,UT-AA,Weapons.1.RackBones.1.MuzzleBones.2,T01_B01_Muzzle02,UTAA_Muzzle02
+uul0105,Archanist,UT-AA,Weapons.1.RackBones.1.MuzzleBones.3,T01_B01_Muzzle03,UTAA_Muzzle03
+uul0105,Archanist,UT-AA,Weapons.1.RackBones.1.MuzzleBones.4,T01_B01_Muzzle04,UTAA_Muzzle04
+uul0105,Archanist,UT-AA,Weapons.1.RackBones.2.MuzzleBones.1,T01_B01_Muzzle05,UTAA_Muzzle01
+uul0105,Archanist,UT-AA,Weapons.1.RackBones.2.MuzzleBones.2,T01_B01_Muzzle06,UTAA_Muzzle02
+uul0105,Archanist,UT-AA,Weapons.1.RackBones.2.MuzzleBones.3,T01_B01_Muzzle07,UTAA_Muzzle03
+uul0105,Archanist,UT-AA,Weapons.1.RackBones.2.MuzzleBones.4,T01_B01_Muzzle08,UTAA_Muzzle04
+uul0105,Archanist,UT-AA,Weapons.1.TurretBoneMuzzle,T01_B01_Muzzle01,UTAA_Muzzle01
+uul0105,Archanist,UT-AA,Weapons.2.AboveWaterTargetsOnly,True,
+uul0105,Archanist,UT-AA,Weapons.2.Audio.Fire,,SC2/SC2/Units/UEF/UUL0203/snd_UUL0203_AntiMissile_AntiMissile
+uul0105,Archanist,UT-AA,Weapons.2.Audio.RackSalvoBeginFire,SC2/SC2/Units/UEF/UUL0105/snd_UUL0105_MobileAA_Cannon_Dbl,
+uul0105,Archanist,UT-AA,Weapons.2.AutoInitiateAttackOnPatrol,,True
+uul0105,Archanist,UT-AA,Weapons.2.BallisticArc,RULEUBA_LowArc,RULEUBA_None
+uul0105,Archanist,UT-AA,Weapons.2.BeamCollisionDelay,,0.1
+uul0105,Archanist,UT-AA,Weapons.2.BeamLifetime,,0.1
+uul0105,Archanist,UT-AA,Weapons.2.Damage,25,2
+uul0105,Archanist,UT-AA,Weapons.2.DamageRadius,0,
+uul0105,Archanist,UT-AA,Weapons.2.DisplayName,UPGRADE - Gauss Cannon,UT-AA Anti-Missile Interceptor
+uul0105,Archanist,UT-AA,Weapons.2.FireTargetLayerCaps.Land,Land|Water|Seabed,Air
+uul0105,Archanist,UT-AA,Weapons.2.FireTargetLayerCaps.Water,,Air
+uul0105,Archanist,UT-AA,Weapons.2.InitiallyDisabled,True,False
+uul0105,Archanist,UT-AA,Weapons.2.MaxRadius,20,32
+uul0105,Archanist,UT-AA,Weapons.2.MinRadius,,5
+uul0105,Archanist,UT-AA,Weapons.2.MuzzleFlashEffect,UEF_Gauss01_Launch01,UEF_AntiMissile01_Launch02
+uul0105,Archanist,UT-AA,Weapons.2.MuzzleVelocity,30,
+uul0105,Archanist,UT-AA,Weapons.2.NeedPrep,,False
+uul0105,Archanist,UT-AA,Weapons.2.ProjectileId,/projectiles/UEF/UCannonShell01/UCannonShell01_proj.bp,
+uul0105,Archanist,UT-AA,Weapons.2.ProjectileLifetimeUsesMultiplier,2,
+uul0105,Archanist,UT-AA,Weapons.2.ProjectilesPerOnFire,2,1
+uul0105,Archanist,UT-AA,Weapons.2.RackBones.1.MuzzleBones.2,T02_B01_Muzzle02,
+uul0105,Archanist,UT-AA,Weapons.2.RackFireTogether,True,False
+uul0105,Archanist,UT-AA,Weapons.2.RackRecoilDistance,-0.3,0
+uul0105,Archanist,UT-AA,Weapons.2.RackReloadTimeout,0,10
+uul0105,Archanist,UT-AA,Weapons.2.RackSlavedToTurret,True,
+uul0105,Archanist,UT-AA,Weapons.2.RangeCategory,UWRC_DirectFire,
+uul0105,Archanist,UT-AA,Weapons.2.RateOfFire,1,3
+uul0105,Archanist,UT-AA,Weapons.2.ScriptClass,,UTAAInterceptor
+uul0105,Archanist,UT-AA,Weapons.2.ScriptModule,,/units/CloneWars/UTAA/UTAA_script.lua
+uul0105,Archanist,UT-AA,Weapons.2.TargetCheckInterval,0.5,0.3
+uul0105,Archanist,UT-AA,Weapons.2.TargetRestrictOnlyAllow,,TACTICAL MISSILE
+uul0105,Archanist,UT-AA,Weapons.2.TargetType,,RULEWTT_Projectile
+uul0105,Archanist,UT-AA,Weapons.2.TrackingRadius,1.15,1.5
+uul0105,Archanist,UT-AA,Weapons.2.TurretDualManipulators,False,
+uul0105,Archanist,UT-AA,Weapons.2.TurretPitchRange,45,80
+uul0105,Archanist,UT-AA,Weapons.2.ValidateFiringTrajectory,,True
+uul0105,Archanist,UT-AA,Weapons.2.WeaponCategory,Direct Fire,Defense
+uul0203,Sharp Shooter,UT-AT,Categories.1,PRODUCTSC2,UUL0203
+uul0203,Sharp Shooter,UT-AT,Categories.10,OVERLAYINDIRECTFIRE,VISIBLETORECON
+uul0203,Sharp Shooter,UT-AT,Categories.11,UEF,RECLAIMABLE
+uul0203,Sharp Shooter,UT-AT,Categories.12,SORTMOBILE,OVERLAYDIRECTFIRE
+uul0203,Sharp Shooter,UT-AT,Categories.13,,UEF
+uul0203,Sharp Shooter,UT-AT,Categories.14,,SORTMOBILE
+uul0203,Sharp Shooter,UT-AT,Categories.15,,ANTISURFACE
+uul0203,Sharp Shooter,UT-AT,Categories.2,SELECTABLE,PRODUCTSC2
+uul0203,Sharp Shooter,UT-AT,Categories.3,BUILTBYFACTORY,SELECTABLE
+uul0203,Sharp Shooter,UT-AT,Categories.4,TECH1,BUILTBYFACTORY
+uul0203,Sharp Shooter,UT-AT,Categories.5,MOBILE,TECH1
+uul0203,Sharp Shooter,UT-AT,Categories.6,LAND,MOBILE
+uul0203,Sharp Shooter,UT-AT,Categories.7,DEFENSE,LAND
+uul0203,Sharp Shooter,UT-AT,Categories.8,VISIBLETORECON,TANK
+uul0203,Sharp Shooter,UT-AT,Categories.9,RECLAIMABLE,DIRECTFIRE
+uul0203,Sharp Shooter,UT-AT,Weapons.1.AboveWaterTargetsOnly,,True
+uul0203,Sharp Shooter,UT-AT,Weapons.1.Audio.Fire,SC2/SC2/Units/UEF/UUL0203/snd_UUL0203_AntiMissile_AntiMissile,
+uul0203,Sharp Shooter,UT-AT,Weapons.1.Audio.RackSalvoBeginFire,,SC2/SC2/Units/illuminate/UIL0101/snd_UIL0101_Tank_Cannon_Tau
+uul0203,Sharp Shooter,UT-AT,Weapons.1.BallisticArc,RULEUBA_None,RULEUBA_LowArc
+uul0203,Sharp Shooter,UT-AT,Weapons.1.BeamCollisionDelay,0.1,
+uul0203,Sharp Shooter,UT-AT,Weapons.1.BeamLifetime,0.1,
+uul0203,Sharp Shooter,UT-AT,Weapons.1.Damage,2,75
+uul0203,Sharp Shooter,UT-AT,Weapons.1.DisplayName,Zapper Anti Missile,UT-AT Main Cannon
+uul0203,Sharp Shooter,UT-AT,Weapons.1.FireTargetLayerCaps.Land,Air,Land|Water|Seabed
+uul0203,Sharp Shooter,UT-AT,Weapons.1.FireTargetLayerCaps.Water,Air,
+uul0203,Sharp Shooter,UT-AT,Weapons.1.Label,AntiMissile01,UTATMainGun
+uul0203,Sharp Shooter,UT-AT,Weapons.1.MaxRadius,32,20
+uul0203,Sharp Shooter,UT-AT,Weapons.1.MinRadius,5,
+uul0203,Sharp Shooter,UT-AT,Weapons.1.MuzzleFlashEffect,UEF_AntiMissile01_Launch02,UEF_Gauss01_Launch01
+uul0203,Sharp Shooter,UT-AT,Weapons.1.MuzzleVelocity,,30
+uul0203,Sharp Shooter,UT-AT,Weapons.1.NeedPrep,True,
+uul0203,Sharp Shooter,UT-AT,Weapons.1.ProjectileId,,/projectiles/clonewars/utat/utattankshot_proj.bp
+uul0203,Sharp Shooter,UT-AT,Weapons.1.ProjectileLifetimeUsesMultiplier,,2
+uul0203,Sharp Shooter,UT-AT,Weapons.1.RackBones.1.MuzzleBones.1,T01_B01_Muzzle01,UTAT_RoofMuzzle
+uul0203,Sharp Shooter,UT-AT,Weapons.1.RackBones.1.RackBone,T01_Barrel01,UTAT_RoofPitch
+uul0203,Sharp Shooter,UT-AT,Weapons.1.RackFireTogether,False,True
+uul0203,Sharp Shooter,UT-AT,Weapons.1.RackReloadTimeout,10,0
+uul0203,Sharp Shooter,UT-AT,Weapons.1.RackSlavedToTurret,,True
+uul0203,Sharp Shooter,UT-AT,Weapons.1.RangeCategory,,UWRC_DirectFire
+uul0203,Sharp Shooter,UT-AT,Weapons.1.RateOfFire,3,0.725
+uul0203,Sharp Shooter,UT-AT,Weapons.1.ScriptClass,,DefaultProjectileWeapon
+uul0203,Sharp Shooter,UT-AT,Weapons.1.ScriptModule,,/lua/sim/DefaultWeapons.lua
+uul0203,Sharp Shooter,UT-AT,Weapons.1.TargetCheckInterval,0.3,0.6
+uul0203,Sharp Shooter,UT-AT,Weapons.1.TargetRestrictOnlyAllow,TACTICAL MISSILE,
+uul0203,Sharp Shooter,UT-AT,Weapons.1.TargetType,RULEWTT_Projectile,
+uul0203,Sharp Shooter,UT-AT,Weapons.1.TrackingRadius,1.5,1.15
+uul0203,Sharp Shooter,UT-AT,Weapons.1.TurretBoneMuzzle,T01_B01_Muzzle01,UTAT_RoofMuzzle
+uul0203,Sharp Shooter,UT-AT,Weapons.1.TurretBonePitch,T01_Barrel01,UTAT_RoofPitch
+uul0203,Sharp Shooter,UT-AT,Weapons.1.TurretBoneYaw,Turret01,UTAT_RoofYaw
+uul0203,Sharp Shooter,UT-AT,Weapons.1.TurretDualManipulators,,False
+uul0203,Sharp Shooter,UT-AT,Weapons.1.TurretPitch,0,12.5
+uul0203,Sharp Shooter,UT-AT,Weapons.1.TurretPitchRange,80,22.5
+uul0203,Sharp Shooter,UT-AT,Weapons.1.TurretYawRange,180,20
+uul0203,Sharp Shooter,UT-AT,Weapons.1.WeaponCategory,Defense,Direct Fire
+uux0101,Fatboy II,HAVw A6 Juggernaut,Economy.EnergyValue,2350,3000
+uux0101,Fatboy II,HAVw A6 Juggernaut,Economy.MassValue,600,750
+uux0101,Fatboy II,HAVw A6 Juggernaut,Physics.MaxSpeed,2.5,3.30625
+uux0101,Fatboy II,HAVw A6 Juggernaut,Physics.MaxSpeedReverse,1.75,2.314375
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.1.Damage,300,375.0
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.1.MaxRadius,100,70
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.1.MuzzleFlashEffect,UEF_Gauss03_Launch01,
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.1.ProjectileId,/projectiles/UEF/UCannonShell03/UCannonShell03_proj.bp,/projectiles/CloneWars/JUGHeavyBolt/JUGHeavyBolt_proj.bp
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.1.RateOfFire,0.3,0.345
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.2.Damage,15,18.75
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.2.MaxRadius,100,70
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.2.MuzzleFlashEffect,UEF_Gauss04_Launch01,
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.2.ProjectileId,/projectiles/UEF/UCannonShell02/UCannonShell02_proj.bp,/projectiles/CloneWars/JUGRepeaterBolt/JUGRepeaterBolt_proj.bp
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.2.RateOfFire,1,1.15
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.Audio.Fire,,
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.Audio.RackSalvoBeginFire,SC2/SC2/Experimentals/UEF/UUX0101/snd_UUX0101_MobileFactory_Cannon_Exp_Lrg,SC2/SC2/Units/UEF/UUL0104/snd_UUL0104_MobileMissile_Missile_Cruise
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.BallisticArc,RULEUBA_LowArc,RULEUBA_None
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.Damage,15,18.75
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.FiringRandomness,0.5,0
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.FiringTolerance,0.2,180
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.MaxRadius,100,70
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.MuzzleFlashEffect,UEF_Gauss04_Launch01,
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.MuzzleSalvoDelay,0,0.08695652173913045
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.MuzzleSalvoSize,1,3
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.MuzzleVelocity,25,14
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.MuzzleVelocityReduceDistance,90,100000
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.NotExclusive,,True
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.ProjectileId,/projectiles/UEF/UCannonShell02/UCannonShell02_proj.bp,/projectiles/CloneWars/JUGSideRocket/JUGSideRocket_proj.bp
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.ProjectileLifetime,,6
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.ProjectileLifetimeUsesMultiplier,2,1
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.ProjectilesPerOnFire,3,9
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.RackRecoilDistance,-0.4,0
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.RackReloadTimeout,10,0
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.RackSalvoReloadTime,0,2.173913043478261
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.RackSlavedToTurret,True,False
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.RangeCategory,UWRC_DirectFire,UWRC_IndirectFire
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.RateOfFire,1,0.338235294117647
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.RequireFiringTrajectory,,False
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.SlavedToBody,,False
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.Turreted,True,False
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.ValidateFiringTrajectory,True,False
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.3.WeaponCategory,Direct Fire,Missile
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.4.Damage,15,18.75
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.4.MaxRadius,100,70
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.4.MuzzleFlashEffect,UEF_Gauss04_Launch01,
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.4.ProjectileId,/projectiles/UEF/UCannonShell02/UCannonShell02_proj.bp,/projectiles/CloneWars/JUGRepeaterBolt/JUGRepeaterBolt_proj.bp
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.4.RateOfFire,1,1.15
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.Audio.Fire,,
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.Audio.RackSalvoBeginFire,SC2/SC2/Experimentals/UEF/UUX0101/snd_UUX0101_MobileFactory_Cannon_Exp_Lrg,SC2/SC2/Units/UEF/UUL0104/snd_UUL0104_MobileMissile_Missile_Cruise
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.BallisticArc,RULEUBA_LowArc,RULEUBA_None
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.Damage,15,18.75
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.FiringRandomness,0.5,0
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.FiringTolerance,0.2,180
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.MaxRadius,100,70
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.MuzzleFlashEffect,UEF_Gauss04_Launch01,
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.MuzzleSalvoDelay,0,0.08695652173913045
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.MuzzleSalvoSize,1,3
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.MuzzleVelocity,25,14
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.MuzzleVelocityReduceDistance,90,100000
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.NotExclusive,,True
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.ProjectileId,/projectiles/UEF/UCannonShell02/UCannonShell02_proj.bp,/projectiles/CloneWars/JUGSideRocket/JUGSideRocket_proj.bp
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.ProjectileLifetime,,6
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.ProjectileLifetimeUsesMultiplier,2,1
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.ProjectilesPerOnFire,3,9
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.RackRecoilDistance,-0.4,0
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.RackReloadTimeout,10,0
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.RackSalvoReloadTime,0,2.173913043478261
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.RackSlavedToTurret,True,False
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.RangeCategory,UWRC_DirectFire,UWRC_IndirectFire
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.RateOfFire,1,0.338235294117647
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.RequireFiringTrajectory,,False
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.SlavedToBody,,False
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.Turreted,True,False
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.ValidateFiringTrajectory,True,False
+uux0101,Fatboy II,HAVw A6 Juggernaut,Weapons.5.WeaponCategory,Direct Fire,Missile
+uux0111,King Kriptor,AT-TE,Categories.10,OVERLAYDIRECTFIRE,OVERLAYINDIRECTFIRE
+uux0111,King Kriptor,AT-TE,Defense.Health,50625,30000
+uux0111,King Kriptor,AT-TE,Defense.MaxHealth,50625,30000
+uux0111,King Kriptor,AT-TE,Defense.RegenRate,143,60
+uux0111,King Kriptor,AT-TE,Physics.LayerChangeOffsetHeight,-3.25,0
+uux0111,King Kriptor,AT-TE,Physics.MaxAcceleration,1.5,0.8
+uux0111,King Kriptor,AT-TE,Physics.MaxSpeed,2.6,1.98
+uux0111,King Kriptor,AT-TE,Physics.MaxSpeedReverse,0,0.55
+uux0111,King Kriptor,AT-TE,Physics.MeshExtentsX,2.75,3.7
+uux0111,King Kriptor,AT-TE,Physics.MeshExtentsY,6.75,5.3
+uux0111,King Kriptor,AT-TE,Physics.MeshExtentsZ,3,5.75
+uux0111,King Kriptor,AT-TE,Physics.MotionType,RULEUMT_Amphibious,RULEUMT_Land
+uux0111,King Kriptor,AT-TE,Physics.RotateOnSpot,False,True
+uux0111,King Kriptor,AT-TE,Physics.TurnRate,45,25
+uux0111,King Kriptor,AT-TE,Weapons.1.AutoInitiateAttackOnPatrol,True,
+uux0111,King Kriptor,AT-TE,Weapons.1.Damage,0,1500
+uux0111,King Kriptor,AT-TE,Weapons.1.DamageRadius,,2.5
+uux0111,King Kriptor,AT-TE,Weapons.1.DisplayName,BodyYaw,Heavy Mass Driver
+uux0111,King Kriptor,AT-TE,Weapons.1.FireTargetLayerCaps.Land,Land|Water|Seabed,Land
+uux0111,King Kriptor,AT-TE,Weapons.1.FireTargetLayerCaps.Seabed,Land|Water|Seabed,
+uux0111,King Kriptor,AT-TE,Weapons.1.FiringTolerance,0,5
+uux0111,King Kriptor,AT-TE,Weapons.1.Label,BodyYaw,Main
+uux0111,King Kriptor,AT-TE,Weapons.1.MaxRadius,50,68.75
+uux0111,King Kriptor,AT-TE,Weapons.1.MuzzleFlashEffect,,
+uux0111,King Kriptor,AT-TE,Weapons.1.MuzzleSalvoDelay,,0
+uux0111,King Kriptor,AT-TE,Weapons.1.MuzzleSalvoSize,,1
+uux0111,King Kriptor,AT-TE,Weapons.1.MuzzleVelocity,,85
+uux0111,King Kriptor,AT-TE,Weapons.1.NotExclusive,,True
+uux0111,King Kriptor,AT-TE,Weapons.1.ProjectileId,,/projectiles/CloneWars/ATTEHeavyBolt/ATTEHeavyBolt_proj.bp
+uux0111,King Kriptor,AT-TE,Weapons.1.ProjectileLifetimeUsesMultiplier,,2
+uux0111,King Kriptor,AT-TE,Weapons.1.ProjectilesPerOnFire,,1
+uux0111,King Kriptor,AT-TE,Weapons.1.RackFireTogether,,False
+uux0111,King Kriptor,AT-TE,Weapons.1.RackRecoilDistance,-2,0
+uux0111,King Kriptor,AT-TE,Weapons.1.RackSalvoReloadTime,0,3
+uux0111,King Kriptor,AT-TE,Weapons.1.RackSlavedToTurret,False,True
+uux0111,King Kriptor,AT-TE,Weapons.1.RangeCategory,UWRC_DirectFire,UWRC_IndirectFire
+uux0111,King Kriptor,AT-TE,Weapons.1.RateOfFire,0.5,0.3333333333333333
+uux0111,King Kriptor,AT-TE,Weapons.1.SlavedToBody,False,
+uux0111,King Kriptor,AT-TE,Weapons.1.TrackingRadius,,1.15
+uux0111,King Kriptor,AT-TE,Weapons.1.TurretBoneMuzzle,UUX0111_Turret01,ATTE_Main_Muzzle
+uux0111,King Kriptor,AT-TE,Weapons.1.TurretBonePitch,UUX0111_Turret01,ATTE_Main_Pitch
+uux0111,King Kriptor,AT-TE,Weapons.1.TurretBoneYaw,UUX0111_Turret01,ATTE_Main_Yaw
+uux0111,King Kriptor,AT-TE,Weapons.1.TurretPitchRange,0,35
+uux0111,King Kriptor,AT-TE,Weapons.1.TurretPitchSpeed,120,25
+uux0111,King Kriptor,AT-TE,Weapons.1.TurretYawSpeed,120,25
+uux0111,King Kriptor,AT-TE,Weapons.2.Audio.Fire,SC2/SC2/Experimentals/UEF/UUX0111/snd_UUX0111_ExpBot_BigGun_fire,SC2/SC2/Units/UEF/UUL0103/snd_UUL0103_AssBot_Plasma_Cannon
+uux0111,King Kriptor,AT-TE,Weapons.2.Audio.MuzzleChargeStart,SC2/SC2/Experimentals/UEF/UUX0111/snd_UUX0111_ExpBot_BigGun_Charge,
+uux0111,King Kriptor,AT-TE,Weapons.2.BallisticArc,RULEUBA_LowArc,RULEUBA_None
+uux0111,King Kriptor,AT-TE,Weapons.2.CameraShakeDuration,0.7,
+uux0111,King Kriptor,AT-TE,Weapons.2.CameraShakeMax,1.5,
+uux0111,King Kriptor,AT-TE,Weapons.2.CameraShakeMin,0,
+uux0111,King Kriptor,AT-TE,Weapons.2.CameraShakeRadius,50,
+uux0111,King Kriptor,AT-TE,Weapons.2.Damage,1125,70
+uux0111,King Kriptor,AT-TE,Weapons.2.DamageRadius,4,0
+uux0111,King Kriptor,AT-TE,Weapons.2.DisplayName,Gauss Cannon,Forward Laser Battery
+uux0111,King Kriptor,AT-TE,Weapons.2.FireTargetLayerCaps.Land,Land|Water|Seabed,Land
+uux0111,King Kriptor,AT-TE,Weapons.2.FireTargetLayerCaps.Seabed,Land|Water|Seabed,
+uux0111,King Kriptor,AT-TE,Weapons.2.Label,RightMainWeapon,FrontVolley
+uux0111,King Kriptor,AT-TE,Weapons.2.MaxRadius,50,33.6
+uux0111,King Kriptor,AT-TE,Weapons.2.MuzzleChargeDelay,2,
+uux0111,King Kriptor,AT-TE,Weapons.2.MuzzleChargeEffect,UEF_HandCannon01_PreLaunch02,
+uux0111,King Kriptor,AT-TE,Weapons.2.MuzzleFlashEffect,UEF_HandCannon01_Launch01,
+uux0111,King Kriptor,AT-TE,Weapons.2.MuzzleVelocity,100,65
+uux0111,King Kriptor,AT-TE,Weapons.2.NotExclusive,,True
+uux0111,King Kriptor,AT-TE,Weapons.2.ProjectileId,/projectiles/UEF/UHandCannon01/UHandCannon01_proj.bp,/projectiles/CloneWars/ATTELightBolt/ATTELightBolt_proj.bp
+uux0111,King Kriptor,AT-TE,Weapons.2.RackBones.1.MuzzleBones.1,UUX0111_T01_B01_Muzzle01,ATTE_FrontLeftTop_Muzzle
+uux0111,King Kriptor,AT-TE,Weapons.2.RackBones.1.RackBone,UUX0111_T01_Barrel01,ATTE_FrontLeftTop_Pitch
+uux0111,King Kriptor,AT-TE,Weapons.2.RackBones.1.TelescopeBone,UUX0111_T01_B01_Recoil01,
+uux0111,King Kriptor,AT-TE,Weapons.2.RackBones.1.TelescopeRecoilDistance,-5,
+uux0111,King Kriptor,AT-TE,Weapons.2.RackFireTogether,False,True
+uux0111,King Kriptor,AT-TE,Weapons.2.RackRecoilDistance,-0.1,0
+uux0111,King Kriptor,AT-TE,Weapons.2.RackSalvoReloadTime,0,0.46875
+uux0111,King Kriptor,AT-TE,Weapons.2.RackSalvoSize,1,4
+uux0111,King Kriptor,AT-TE,Weapons.2.RackSlavedToTurret,True,False
+uux0111,King Kriptor,AT-TE,Weapons.2.RangeCategory,UWRC_DirectFire,UWRC_IndirectFire
+uux0111,King Kriptor,AT-TE,Weapons.2.RateOfFire,0.2,2.1333333333333333
+uux0111,King Kriptor,AT-TE,Weapons.2.TurretBoneMuzzle,UUX0111_T01_Barrel01,ATTE_FrontLeftTop_Muzzle
+uux0111,King Kriptor,AT-TE,Weapons.2.TurretBonePitch,UUX0111_T01_Barrel01,ATTE_FrontLeftTop_Pitch
+uux0111,King Kriptor,AT-TE,Weapons.2.TurretBoneYaw,UUX0111_T01_Barrel01,ATTE_FrontLeftTop_Yaw
+uux0111,King Kriptor,AT-TE,Weapons.2.TurretPitchRange,45,40
+uux0111,King Kriptor,AT-TE,Weapons.2.TurretPitchSpeed,20,80
+uux0111,King Kriptor,AT-TE,Weapons.2.TurretYawRange,30,45
+uux0111,King Kriptor,AT-TE,Weapons.2.TurretYawSpeed,20,80
+uux0111,King Kriptor,AT-TE,Weapons.3.Audio.Fire,SC2/SC2/Experimentals/UEF/UUX0111/snd_UUX0111_ExpBot_BigGun_fire,SC2/SC2/Units/UEF/UUL0103/snd_UUL0103_AssBot_Plasma_Cannon
+uux0111,King Kriptor,AT-TE,Weapons.3.Audio.MuzzleChargeStart,SC2/SC2/Experimentals/UEF/UUX0111/snd_UUX0111_ExpBot_BigGun_Charge,
+uux0111,King Kriptor,AT-TE,Weapons.3.BallisticArc,RULEUBA_LowArc,RULEUBA_None
+uux0111,King Kriptor,AT-TE,Weapons.3.CameraShakeDuration,0.7,
+uux0111,King Kriptor,AT-TE,Weapons.3.CameraShakeMax,1.5,
+uux0111,King Kriptor,AT-TE,Weapons.3.CameraShakeMin,0,
+uux0111,King Kriptor,AT-TE,Weapons.3.CameraShakeRadius,50,
+uux0111,King Kriptor,AT-TE,Weapons.3.Damage,1125,70
+uux0111,King Kriptor,AT-TE,Weapons.3.DamageRadius,4,0
+uux0111,King Kriptor,AT-TE,Weapons.3.DisplayName,Gauss Cannon,Defensive Laser Cannon
+uux0111,King Kriptor,AT-TE,Weapons.3.FireTargetLayerCaps.Land,Land|Water|Seabed,Land
+uux0111,King Kriptor,AT-TE,Weapons.3.FireTargetLayerCaps.Seabed,Land|Water|Seabed,
+uux0111,King Kriptor,AT-TE,Weapons.3.Label,LeftMainWeapon,RearLeft
+uux0111,King Kriptor,AT-TE,Weapons.3.MaxRadius,50,33.6
+uux0111,King Kriptor,AT-TE,Weapons.3.MuzzleChargeDelay,1,
+uux0111,King Kriptor,AT-TE,Weapons.3.MuzzleChargeEffect,UEF_HandCannon01_PreLaunch01,
+uux0111,King Kriptor,AT-TE,Weapons.3.MuzzleFlashEffect,UEF_HandCannon01_Launch01,
+uux0111,King Kriptor,AT-TE,Weapons.3.MuzzleVelocity,100,65
+uux0111,King Kriptor,AT-TE,Weapons.3.NotExclusive,,True
+uux0111,King Kriptor,AT-TE,Weapons.3.PrefersPrimaryWeaponTarget,True,
+uux0111,King Kriptor,AT-TE,Weapons.3.ProjectileId,/projectiles/UEF/UHandCannon01/UHandCannon01_proj.bp,/projectiles/CloneWars/ATTELightBolt/ATTELightBolt_proj.bp
+uux0111,King Kriptor,AT-TE,Weapons.3.RackBones.1.MuzzleBones.1,UUX0111_T01_B02_Muzzle01,ATTE_RearLeft_Muzzle
+uux0111,King Kriptor,AT-TE,Weapons.3.RackBones.1.RackBone,UUX0111_T01_Barrel02,ATTE_RearLeft_Pitch
+uux0111,King Kriptor,AT-TE,Weapons.3.RackBones.1.TelescopeBone,UUX0111_T01_B02_Recoil01,
+uux0111,King Kriptor,AT-TE,Weapons.3.RackBones.1.TelescopeRecoilDistance,-5,
+uux0111,King Kriptor,AT-TE,Weapons.3.RackRecoilDistance,-0.1,0
+uux0111,King Kriptor,AT-TE,Weapons.3.RackSalvoReloadTime,0,0.9375
+uux0111,King Kriptor,AT-TE,Weapons.3.RangeCategory,UWRC_DirectFire,UWRC_IndirectFire
+uux0111,King Kriptor,AT-TE,Weapons.3.RateOfFire,0.2,1.0666666666666667
+uux0111,King Kriptor,AT-TE,Weapons.3.TurretBoneMuzzle,UUX0111_T01_Barrel02,ATTE_RearLeft_Muzzle
+uux0111,King Kriptor,AT-TE,Weapons.3.TurretBonePitch,UUX0111_T01_Barrel02,ATTE_RearLeft_Pitch
+uux0111,King Kriptor,AT-TE,Weapons.3.TurretBoneYaw,UUX0111_T01_Barrel02,ATTE_RearLeft_Yaw
+uux0111,King Kriptor,AT-TE,Weapons.3.TurretPitch,0,12.5
+uux0111,King Kriptor,AT-TE,Weapons.3.TurretPitchRange,45,22.5
+uux0111,King Kriptor,AT-TE,Weapons.3.TurretPitchSpeed,20,80
+uux0111,King Kriptor,AT-TE,Weapons.3.TurretYawRange,30,35
+uux0111,King Kriptor,AT-TE,Weapons.3.TurretYawSpeed,20,80
+uux0111,King Kriptor,AT-TE,Weapons.4.Audio.Fire,,SC2/SC2/Units/UEF/UUL0103/snd_UUL0103_AssBot_Plasma_Cannon
+uux0111,King Kriptor,AT-TE,Weapons.4.Audio.RackSalvoBeginFire,SC2/SC2/Experimentals/UEF/UUX0111/snd_UUX0111_ExpBot_Cannon_Dbl,
+uux0111,King Kriptor,AT-TE,Weapons.4.BallisticArc,RULEUBA_LowArc,RULEUBA_None
+uux0111,King Kriptor,AT-TE,Weapons.4.Damage,17,70
+uux0111,King Kriptor,AT-TE,Weapons.4.DamageRadius,1,0
+uux0111,King Kriptor,AT-TE,Weapons.4.DisplayName,Gauss Cannon,Defensive Laser Cannon
+uux0111,King Kriptor,AT-TE,Weapons.4.FireTargetLayerCaps.Land,Land|Water|Seabed,Land
+uux0111,King Kriptor,AT-TE,Weapons.4.FireTargetLayerCaps.Seabed,Land|Water|Seabed,
+uux0111,King Kriptor,AT-TE,Weapons.4.FiringTolerance,0.2,5
+uux0111,King Kriptor,AT-TE,Weapons.4.Label,Turret02,RearRight
+uux0111,King Kriptor,AT-TE,Weapons.4.MaxRadius,32,33.6
+uux0111,King Kriptor,AT-TE,Weapons.4.MuzzleChargeDelay,0.2,
+uux0111,King Kriptor,AT-TE,Weapons.4.MuzzleFlashEffect,UEF_Heavygauss04_Launch01,
+uux0111,King Kriptor,AT-TE,Weapons.4.MuzzleVelocity,30,65
+uux0111,King Kriptor,AT-TE,Weapons.4.NotExclusive,,True
+uux0111,King Kriptor,AT-TE,Weapons.4.PrefersUniqueTarget,True,
+uux0111,King Kriptor,AT-TE,Weapons.4.ProjectileId,/projectiles/UEF/UHeavyGauss04/UHeavyGauss04_proj.bp,/projectiles/CloneWars/ATTELightBolt/ATTELightBolt_proj.bp
+uux0111,King Kriptor,AT-TE,Weapons.4.ProjectilesPerOnFire,3,1
+uux0111,King Kriptor,AT-TE,Weapons.4.RackBones.1.MuzzleBones.1,UUX0111_T02_B01_Muzzle02,ATTE_RearRight_Muzzle
+uux0111,King Kriptor,AT-TE,Weapons.4.RackBones.1.MuzzleBones.2,UUX0111_T02_B01_Muzzle01,
+uux0111,King Kriptor,AT-TE,Weapons.4.RackBones.1.MuzzleBones.3,UUX0111_T02_B01_Muzzle03,
+uux0111,King Kriptor,AT-TE,Weapons.4.RackBones.1.RackBone,UUX0111_T02_Barrel01,ATTE_RearRight_Pitch
+uux0111,King Kriptor,AT-TE,Weapons.4.RackRecoilDistance,-0.3,0
+uux0111,King Kriptor,AT-TE,Weapons.4.RackSalvoReloadTime,0,0.9375
+uux0111,King Kriptor,AT-TE,Weapons.4.RangeCategory,UWRC_DirectFire,UWRC_IndirectFire
+uux0111,King Kriptor,AT-TE,Weapons.4.RateOfFire,0.75,1.0666666666666667
+uux0111,King Kriptor,AT-TE,Weapons.4.TurretBoneMuzzle,UUX0111_T02_B01_Muzzle01,ATTE_RearRight_Muzzle
+uux0111,King Kriptor,AT-TE,Weapons.4.TurretBonePitch,UUX0111_T02_Barrel01,ATTE_RearRight_Pitch
+uux0111,King Kriptor,AT-TE,Weapons.4.TurretBoneYaw,UUX0111_Turret02,ATTE_RearRight_Yaw
+uux0111,King Kriptor,AT-TE,Weapons.4.TurretPitch,0,12.5
+uux0111,King Kriptor,AT-TE,Weapons.4.TurretPitchRange,45,22.5
+uux0111,King Kriptor,AT-TE,Weapons.4.TurretPitchSpeed,20,80
+uux0111,King Kriptor,AT-TE,Weapons.4.TurretYawRange,15,35
+uux0111,King Kriptor,AT-TE,Weapons.4.TurretYawSpeed,20,80
+uux0113d1,Jackhammer,SPHA-T,Categories.11,OVERLAYINDIRECTFIRE,OVERLAYDIRECTFIRE
+uux0113d1,Jackhammer,SPHA-T,Categories.7,ARTILLERY,TANK
+uux0113d1,Jackhammer,SPHA-T,Categories.8,INDIRECTFIRE,DIRECTFIRE
+uux0113d1,Jackhammer,SPHA-T,Physics.MaxSpeed,3.1,1.24
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.AlwaysRecheckTarget,,True
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.Audio.BarrelLoop,SC2/SC2/Buildings/UEF/UUB0105/snd_UUB0105_LongRangeArtillery_Turret_Loop,
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.Audio.Fire,SC2_DLC1/Gen/s_uux0113d1_Mobile_Art_Cannon,SC2/SC2/Units/UEF/UUL0203/snd_UUL0203_AntiMissile_AntiMissile
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.AutoInitiateAttackOnPatrol,False,True
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.BallisticArc,RULEUBA_LowArc,RULEUBA_None
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.BeamCollisionDelay,,0.2
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.BeamLifetime,,2.0
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.Damage,3750,375.0
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.DisplayName,Anti Matter Artillery,Heavy Laser Cannon
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.FiringRandomness,0.5,
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.MaxRadius,90,95
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.MuzzleFlashEffect,UEF_Artillery07_Launch01,UEF_AntiMissile01_Launch02
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.MuzzleVelocity,30,
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.ProjectileId,/mods/DLC1/base/projectiles/UEF/UArtillery07/UArtillery07_proj.bp,
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.ProjectileLifetime,25,
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.RackBones.1.MuzzleBones.1,cannon_muzzle,SPHA_Muzzle
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.RackBones.1.RackBone,cannon_barrel_01,SPHA_Pitch
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.RackRecoilDistance,-10,0
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.RackSlavedToTurret,False,True
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.RangeCategory,UWRC_IndirectFire,UWRC_DirectFire
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.TargetCheckInterval,1.2,0.2
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.TargetPriorities.1,STRUCTURE,LAND MOBILE
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.TargetPriorities.2,MOBILE,ALLUNITS
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.TargetPriorities.3,ALLUNITS,
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.TurretBoneMuzzle,cannon_muzzle,SPHA_Muzzle
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.TurretBonePitch,cannon_pitch,SPHA_Pitch
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.TurretBoneYaw,cannon_yaw,SPHA_Yaw
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.UseFiringSolutionInsteadOfAimBone,True,
+uux0113d1,Jackhammer,SPHA-T,Weapons.1.WeaponCategory,Artillery,Direct Fire
+uux0113d1,Jackhammer,SPHA-T,Weapons.2.MaxRadius,90,95

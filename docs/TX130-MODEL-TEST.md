@@ -1,3 +1,5 @@
+> Historical reference: this document describes an earlier development stage. The current working 12-unit ground milestone and next steps are in [CURRENT-STATE.md](../CURRENT-STATE.md) and [MILESTONES.md](MILESTONES.md). Earlier “next unit” instructions and acceptance states are superseded.
+
 # TX-130 model checkpoint
 
 Name change: accepted. Normal movement: reported by user. Model: candidate ready for in-game review.

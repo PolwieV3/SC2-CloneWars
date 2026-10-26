@@ -1,0 +1,3 @@
+from pathlib import Path
+p=Path('work/rtt/fit.py');s=p.read_text(encoding='utf-8');s=s.replace('# Export native Y-up coordinates and UVs, plus editable preview in Blender Z-up.','# Double the plain hull visual dimensions; simulation and shield size stay unchanged.\nfor ob in parts:\n for v in ob.data.vertices:v.co *= 2.0\n# Export native Y-up coordinates and UVs, plus editable preview in Blender Z-up.');s=s.replace('location=(13,-18,13)','location=(26,-36,26)').replace('target=Vector((0,0,2.5))','target=Vector((0,0,5))').replace('cam.data.ortho_scale=15','cam.data.ortho_scale=30');p.write_text(s,encoding='utf-8')
+p=Path('work/rtt/build.py');s=p.read_text(encoding='utf-8').replace('rtt-plain-hull-test-2','rtt-double-size-test-3');p.write_text(s,encoding='utf-8')

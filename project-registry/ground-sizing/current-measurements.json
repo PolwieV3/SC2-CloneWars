@@ -1,0 +1,2458 @@
+{
+  "method": "DLC source baseline plus literal merge patches in base / DLC base / DLC shadow phases; lexical within phase, duplicate virtual paths resolved by archive filename. Source reconstruction, not runtime load-order proof. LOD0 indexed vertices in exported model-space bind pose; X=width,Y=height,Z=length; bounds include weapons and accessories. UniformScale applied once.",
+  "rows": [
+    {
+      "id": "uul0002",
+      "original": "Engineer",
+      "replacement": "ISP Engineer (custom engineering variant)",
+      "uniform_scale": 0.108,
+      "base_scale": 0.1,
+      "native_dlc_scale": 0.075,
+      "collision_xyz": [
+        1.8,
+        0.7,
+        2.2
+      ],
+      "footprint": null,
+      "native_sources": {
+        "base": "uncompiled_lua.scd!uncompiled/Units/UEF/UUL0002/UUL0002_unit.bp",
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/shadow/Units/UEF/UUL0002/UUL0002_unit.bp"
+      },
+      "patches": [
+        {
+          "archive": "zzzzzzzzzzzzzz_SC2_CloneWars_EngineerISP_Test.scd",
+          "member": "units/zzzzzzzzzzzzzz_engineer_isp_test_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/engineerisptest/engineerisptest_mesh",
+            "DisplayName": "ISP Engineer",
+            "MovementEffects": {
+              "Land": {
+                "Treads": {
+                  "ScrollTreads": false
+                }
+              }
+            }
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0002_unit.bp",
+          "display": {
+            "UniformScale": 0.0675
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0002_unit.bp",
+          "display": {
+            "UniformScale": 0.108
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0002_unit.bp",
+          "display": {
+            "UniformScale": 0.108
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzz_SC2_CloneWars_EngineerISP_Test.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzz_engineer_isp_test_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/engineerisptest/engineerisptest_mesh",
+            "DisplayName": "ISP Engineer",
+            "MovementEffects": {
+              "Land": {
+                "Treads": {
+                  "ScrollTreads": false
+                }
+              }
+            }
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0002_unit.bp",
+          "display": {
+            "UniformScale": 0.0675
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0002_unit.bp",
+          "display": {
+            "UniformScale": 0.108
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0002_unit.bp",
+          "display": {
+            "UniformScale": 0.108
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzz_SC2_CloneWars_EngineerISP_Test.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzz_engineer_isp_test_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/engineerisptest/engineerisptest_mesh",
+            "DisplayName": "ISP Engineer",
+            "MovementEffects": {
+              "Land": {
+                "Treads": {
+                  "ScrollTreads": false
+                }
+              }
+            }
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0002_unit.bp",
+          "display": {
+            "UniformScale": 0.0675
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0002_unit.bp",
+          "display": {
+            "UniformScale": 0.108
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0002_unit.bp",
+          "display": {
+            "UniformScale": 0.108
+          }
+        }
+      ],
+      "status": "Installed GAR mesh; static source reconstruction",
+      "mesh_blueprint_source": "zzzzzzzzzzzzzz_SC2_CloneWars_EngineerISP_Test.scd!units/CloneWars/EngineerISPTest/EngineerISPTest_mesh.bp",
+      "scm_source": "zzzzzzzzzzzzzz_SC2_CloneWars_EngineerISP_Test.scd!units/CloneWars/EngineerISPTest/EngineerISP_lod0.scm",
+      "mesh_sha256": "f16e9466d6168e1b108f466544142d7b88fe14423c2ce65a26c4013cf73a8f62",
+      "raw_bounds_xyz": [
+        [
+          -11.284460067749023,
+          10.991127967834473
+        ],
+        [
+          0.0807839184999466,
+          8.475225448608398
+        ],
+        [
+          -10.438055992126465,
+          10.454212188720703
+        ]
+      ],
+      "displayed_lwh": [
+        2.256364963531494,
+        2.4057635078430177,
+        0.9065996852517128
+      ],
+      "vertices": 5157,
+      "bones": 15
+    },
+    {
+      "id": "uul0003d1",
+      "original": "Field Engineer",
+      "replacement": "ISP Field Engineer (custom engineering variant)",
+      "uniform_scale": 0.108,
+      "base_scale": null,
+      "native_dlc_scale": 0.075,
+      "collision_xyz": [
+        2.8,
+        1.4,
+        3.2
+      ],
+      "footprint": null,
+      "native_sources": {
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/base/Units/UEF/UUL0003D1/UUL0003D1_unit.bp"
+      },
+      "patches": [
+        {
+          "archive": "zzzzzzzzzzzzzzz_SC2_CloneWars_FieldEngineerISP_Test.scd",
+          "member": "units/zzzzzzzzzzzzzzz_field_engineer_isp_test_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/fieldengineerisptest/fieldengineerisptest_mesh",
+            "DisplayName": "ISP Field Engineer",
+            "UniformScale": 0.1,
+            "MovementEffects": {
+              "Land": {
+                "Treads": {
+                  "ScrollTreads": false
+                }
+              }
+            }
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0003d1_unit.bp",
+          "display": {
+            "UniformScale": 0.0675
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0003d1_unit.bp",
+          "display": {
+            "UniformScale": 0.108
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0003d1_unit.bp",
+          "display": {
+            "UniformScale": 0.108
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzz_SC2_CloneWars_FieldEngineerISP_Test.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzz_field_engineer_isp_test_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/fieldengineerisptest/fieldengineerisptest_mesh",
+            "DisplayName": "ISP Field Engineer",
+            "UniformScale": 0.1,
+            "MovementEffects": {
+              "Land": {
+                "Treads": {
+                  "ScrollTreads": false
+                }
+              }
+            }
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0003d1_unit.bp",
+          "display": {
+            "UniformScale": 0.0675
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0003d1_unit.bp",
+          "display": {
+            "UniformScale": 0.108
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0003d1_unit.bp",
+          "display": {
+            "UniformScale": 0.108
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzz_SC2_CloneWars_FieldEngineerISP_Test.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzz_field_engineer_isp_test_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/fieldengineerisptest/fieldengineerisptest_mesh",
+            "DisplayName": "ISP Field Engineer",
+            "UniformScale": 0.1,
+            "MovementEffects": {
+              "Land": {
+                "Treads": {
+                  "ScrollTreads": false
+                }
+              }
+            }
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0003d1_unit.bp",
+          "display": {
+            "UniformScale": 0.0675
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0003d1_unit.bp",
+          "display": {
+            "UniformScale": 0.108
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0003d1_unit.bp",
+          "display": {
+            "UniformScale": 0.108
+          }
+        }
+      ],
+      "status": "Installed GAR mesh; static source reconstruction",
+      "mesh_blueprint_source": "zzzzzzzzzzzzzzz_SC2_CloneWars_FieldEngineerISP_Test.scd!units/CloneWars/FieldEngineerISPTest/FieldEngineerISPTest_mesh.bp",
+      "scm_source": "zzzzzzzzzzzzzzz_SC2_CloneWars_FieldEngineerISP_Test.scd!units/CloneWars/FieldEngineerISPTest/FieldEngineerISP_lod0.scm",
+      "mesh_sha256": "4bdc3200fad1e17bbc69c5c9ec710a6f6625144a7b0190fb6f57417326bf45b6",
+      "raw_bounds_xyz": [
+        [
+          -11.284460067749023,
+          10.991127967834473
+        ],
+        [
+          0.0807839184999466,
+          14.877665519714355
+        ],
+        [
+          -10.438055992126465,
+          10.454212188720703
+        ]
+      ],
+      "displayed_lwh": [
+        2.256364963531494,
+        2.4057635078430177,
+        1.598063212931156
+      ],
+      "vertices": 5213,
+      "bones": 23
+    },
+    {
+      "id": "uul0101",
+      "original": "Rock Head",
+      "replacement": "TX-130 Saber Tank",
+      "uniform_scale": 0.108675,
+      "base_scale": 0.09,
+      "native_dlc_scale": 0.0675,
+      "collision_xyz": [
+        1.2,
+        0.75,
+        1.6
+      ],
+      "footprint": null,
+      "native_sources": {
+        "base": "uncompiled_lua.scd!uncompiled/Units/UEF/UUL0101/UUL0101_unit.bp",
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/shadow/Units/UEF/UUL0101/UUL0101_unit.bp"
+      },
+      "patches": [
+        {
+          "archive": "zz_SC2_CloneWars_TX130_Audio.scd",
+          "member": "units/zz_clonewars_audio_unit.bp",
+          "display": {}
+        },
+        {
+          "archive": "zz_SC2_CloneWars_TX130_Blaster.scd",
+          "member": "units/zz_clonewars_blaster_unit.bp",
+          "display": {}
+        },
+        {
+          "archive": "zz_SC2_CloneWars_TX130_Model.scd",
+          "member": "units/zz_clonewars_model_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/tx130/tx130_mesh"
+          }
+        },
+        {
+          "archive": "zz_SC2_CloneWars_POC.scd",
+          "member": "units/zz_clonewars_rename_unit.bp",
+          "display": {
+            "DisplayName": "TX-130 Saber Tank"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "TX-130 Saber Tank"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0101_unit.bp",
+          "display": {
+            "UniformScale": 0.0945
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0101_unit.bp",
+          "display": {
+            "UniformScale": 0.108675
+          }
+        },
+        {
+          "archive": "zz_SC2_CloneWars_TX130_Audio.scd",
+          "member": "mods/DLC1/base/units/zz_clonewars_audio_unit.bp",
+          "display": {}
+        },
+        {
+          "archive": "zz_SC2_CloneWars_TX130_Blaster.scd",
+          "member": "mods/DLC1/base/units/zz_clonewars_blaster_unit.bp",
+          "display": {}
+        },
+        {
+          "archive": "zz_SC2_CloneWars_TX130_Model.scd",
+          "member": "mods/DLC1/base/units/zz_clonewars_model_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/tx130/tx130_mesh"
+          }
+        },
+        {
+          "archive": "zz_SC2_CloneWars_POC.scd",
+          "member": "mods/DLC1/base/units/zz_clonewars_rename_unit.bp",
+          "display": {
+            "DisplayName": "TX-130 Saber Tank"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "TX-130 Saber Tank"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0101_unit.bp",
+          "display": {
+            "UniformScale": 0.0945
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0101_unit.bp",
+          "display": {
+            "UniformScale": 0.108675
+          }
+        },
+        {
+          "archive": "zz_SC2_CloneWars_TX130_Audio.scd",
+          "member": "mods/DLC1/shadow/units/zz_clonewars_audio_unit.bp",
+          "display": {}
+        },
+        {
+          "archive": "zz_SC2_CloneWars_TX130_Blaster.scd",
+          "member": "mods/DLC1/shadow/units/zz_clonewars_blaster_unit.bp",
+          "display": {}
+        },
+        {
+          "archive": "zz_SC2_CloneWars_TX130_Model.scd",
+          "member": "mods/DLC1/shadow/units/zz_clonewars_model_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/tx130/tx130_mesh"
+          }
+        },
+        {
+          "archive": "zz_SC2_CloneWars_POC.scd",
+          "member": "mods/DLC1/shadow/units/zz_clonewars_rename_unit.bp",
+          "display": {
+            "DisplayName": "TX-130 Saber Tank"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "TX-130 Saber Tank"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0101_unit.bp",
+          "display": {
+            "UniformScale": 0.0945
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0101_unit.bp",
+          "display": {
+            "UniformScale": 0.108675
+          }
+        }
+      ],
+      "status": "Installed GAR mesh; static source reconstruction",
+      "mesh_blueprint_source": "zz_SC2_CloneWars_TX130_Model.scd!units/CloneWars/TX130/TX130_mesh.bp",
+      "scm_source": "zz_SC2_CloneWars_TX130_Model.scd!units/CloneWars/TX130/UUL0101_LOD0.scm",
+      "mesh_sha256": "daa92819a9c4c7815e782b2d005cdd9fee3d48b9a3696a1ef3288b3d47b7ff9f",
+      "raw_bounds_xyz": [
+        [
+          -12.057321548461914,
+          12.057321548461914
+        ],
+        [
+          0.7500015497207642,
+          12.312507629394531
+        ],
+        [
+          -16.895160675048828,
+          16.895164489746094
+        ]
+      ],
+      "displayed_lwh": [
+        3.672163587284088,
+        2.620658838558197,
+        1.2565553482085465
+      ],
+      "vertices": 21636,
+      "bones": 29
+    },
+    {
+      "id": "uul0102",
+      "original": "Demolisher",
+      "replacement": "AT-AP",
+      "uniform_scale": 0.177163057,
+      "base_scale": 0.17,
+      "native_dlc_scale": 0.1275,
+      "collision_xyz": [
+        1.25,
+        0.65,
+        1.7
+      ],
+      "footprint": null,
+      "native_sources": {
+        "base": "uncompiled_lua.scd!uncompiled/Units/UEF/UUL0102/UUL0102_unit.bp",
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/shadow/Units/UEF/UUL0102/UUL0102_unit.bp"
+      },
+      "patches": [
+        {
+          "archive": "zz_SC2_CloneWars_ATAP_Name.scd",
+          "member": "units/zz_clonewars_atap_name_unit.bp",
+          "display": {
+            "DisplayName": "AT-AP"
+          }
+        },
+        {
+          "archive": "zz_SC2_CloneWars_ATAP_Model.scd",
+          "member": "units/zz_clonewars_atap_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/atap/atap_mesh",
+            "AnimationWalk": "/units/CloneWars/ATAP/ATAP_walk.sca",
+            "AnimationWalkRate": 1.25
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "AT-AP"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0102_unit.bp",
+          "display": {
+            "UniformScale": 0.11475
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0102_unit.bp",
+          "display": {
+            "UniformScale": 0.1319625
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0102_unit.bp",
+          "display": {
+            "UniformScale": 0.177163057
+          }
+        },
+        {
+          "archive": "zz_SC2_CloneWars_ATAP_Name.scd",
+          "member": "mods/DLC1/base/units/zz_clonewars_atap_name_unit.bp",
+          "display": {
+            "DisplayName": "AT-AP"
+          }
+        },
+        {
+          "archive": "zz_SC2_CloneWars_ATAP_Model.scd",
+          "member": "mods/DLC1/base/units/zz_clonewars_atap_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/atap/atap_mesh",
+            "AnimationWalk": "/units/CloneWars/ATAP/ATAP_walk.sca",
+            "AnimationWalkRate": 1.25
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "AT-AP"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0102_unit.bp",
+          "display": {
+            "UniformScale": 0.11475
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0102_unit.bp",
+          "display": {
+            "UniformScale": 0.1319625
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0102_unit.bp",
+          "display": {
+            "UniformScale": 0.177163057
+          }
+        },
+        {
+          "archive": "zz_SC2_CloneWars_ATAP_Name.scd",
+          "member": "mods/DLC1/shadow/units/zz_clonewars_atap_name_unit.bp",
+          "display": {
+            "DisplayName": "AT-AP"
+          }
+        },
+        {
+          "archive": "zz_SC2_CloneWars_ATAP_Model.scd",
+          "member": "mods/DLC1/shadow/units/zz_clonewars_atap_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/atap/atap_mesh",
+            "AnimationWalk": "/units/CloneWars/ATAP/ATAP_walk.sca",
+            "AnimationWalkRate": 1.25
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "AT-AP"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0102_unit.bp",
+          "display": {
+            "UniformScale": 0.11475
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0102_unit.bp",
+          "display": {
+            "UniformScale": 0.1319625
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0102_unit.bp",
+          "display": {
+            "UniformScale": 0.177163057
+          }
+        }
+      ],
+      "status": "Installed GAR mesh; static source reconstruction",
+      "mesh_blueprint_source": "zz_SC2_CloneWars_ATAP_Model.scd!units/CloneWars/ATAP/ATAP_mesh.bp",
+      "scm_source": "zz_SC2_CloneWars_ATAP_Model.scd!units/CloneWars/ATAP/UUL0102_lod0.scm",
+      "mesh_sha256": "3ebc947987b248698fbd3c8b5ea925098bbb30c74ae5d7218426cffa4995ed0f",
+      "raw_bounds_xyz": [
+        [
+          -12.371040344238281,
+          12.371040344238281
+        ],
+        [
+          -1.2294758562347852e-06,
+          26.515155792236328
+        ],
+        [
+          -19.36819076538086,
+          19.362613677978516
+        ]
+      ],
+      "displayed_lwh": [
+        6.861667715254731,
+        4.383382651311173,
+        4.697506274801547
+      ],
+      "vertices": 58616,
+      "bones": 49
+    },
+    {
+      "id": "uul0103",
+      "original": "Titan",
+      "replacement": "AT-RT",
+      "uniform_scale": 0.09,
+      "base_scale": 0.1,
+      "native_dlc_scale": 0.075,
+      "collision_xyz": [
+        1,
+        1.7,
+        0.75
+      ],
+      "footprint": null,
+      "native_sources": {
+        "base": "uncompiled_lua.scd!uncompiled/Units/UEF/UUL0103/UUL0103_unit.bp",
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/shadow/Units/UEF/UUL0103/UUL0103_unit.bp"
+      },
+      "patches": [
+        {
+          "archive": "zz_SC2_CloneWars_ATRT_Model.scd",
+          "member": "units/zz_clonewars_atrt_model_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/atrt/atrt_mesh",
+            "DisplayName": "AT-RT"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "AT-RT"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0103_unit.bp",
+          "display": {
+            "UniformScale": 0.045
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0103_unit.bp",
+          "display": {
+            "UniformScale": 0.09
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0103_unit.bp",
+          "display": {
+            "UniformScale": 0.09
+          }
+        },
+        {
+          "archive": "zz_SC2_CloneWars_ATRT_Model.scd",
+          "member": "mods/DLC1/base/units/zz_clonewars_atrt_model_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/atrt/atrt_mesh",
+            "DisplayName": "AT-RT"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "AT-RT"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0103_unit.bp",
+          "display": {
+            "UniformScale": 0.045
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0103_unit.bp",
+          "display": {
+            "UniformScale": 0.09
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0103_unit.bp",
+          "display": {
+            "UniformScale": 0.09
+          }
+        },
+        {
+          "archive": "zz_SC2_CloneWars_ATRT_Model.scd",
+          "member": "mods/DLC1/shadow/units/zz_clonewars_atrt_model_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/atrt/atrt_mesh",
+            "DisplayName": "AT-RT"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "AT-RT"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0103_unit.bp",
+          "display": {
+            "UniformScale": 0.045
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0103_unit.bp",
+          "display": {
+            "UniformScale": 0.09
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0103_unit.bp",
+          "display": {
+            "UniformScale": 0.09
+          }
+        }
+      ],
+      "status": "Installed GAR mesh; static source reconstruction",
+      "mesh_blueprint_source": "zz_SC2_CloneWars_ATRT_Model.scd!units/CloneWars/ATRT/ATRT_mesh.bp",
+      "scm_source": "zz_SC2_CloneWars_ATRT_Model.scd!units/CloneWars/ATRT/UUL0103_LOD0.scm",
+      "mesh_sha256": "d3da72a16085168b3403b34d7499e811ad18308e01c0dbacff8ed65169fc1536",
+      "raw_bounds_xyz": [
+        [
+          -5.2916741371154785,
+          5.274345397949219
+        ],
+        [
+          -0.07714569568634033,
+          24.41677474975586
+        ],
+        [
+          -2.7857518196105957,
+          14.747831344604492
+        ]
+      ],
+      "displayed_lwh": [
+        1.5780224847793578,
+        0.9509417581558227,
+        2.204452840089798
+      ],
+      "vertices": 62850,
+      "bones": 28
+    },
+    {
+      "id": "uul0104",
+      "original": "Meteor",
+      "replacement": "A5-RX Spread-Missile Variant",
+      "uniform_scale": 0.0703125,
+      "base_scale": 0.05,
+      "native_dlc_scale": 0.0375,
+      "collision_xyz": [
+        0.9,
+        0.8,
+        0.9
+      ],
+      "footprint": null,
+      "native_sources": {
+        "base": "uncompiled_lua.scd!uncompiled/Units/UEF/UUL0104/UUL0104_unit.bp",
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/shadow/Units/UEF/UUL0104/UUL0104_unit.bp"
+      },
+      "patches": [
+        {
+          "archive": "zzzz_SC2_CloneWars_A5RX_Test.scd",
+          "member": "units/zz_clonewars_a5rx_model_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/a5rx/a5rx_mesh",
+            "DisplayName": "A5-RX"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "A5-RX"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0104_unit.bp",
+          "display": {
+            "UniformScale": 0.05625
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0104_unit.bp",
+          "display": {
+            "UniformScale": 0.0703125
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0104_unit.bp",
+          "display": {
+            "UniformScale": 0.0703125
+          }
+        },
+        {
+          "archive": "zzzz_SC2_CloneWars_A5RX_Test.scd",
+          "member": "mods/DLC1/base/units/zz_clonewars_a5rx_model_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/a5rx/a5rx_mesh",
+            "DisplayName": "A5-RX"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "A5-RX"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0104_unit.bp",
+          "display": {
+            "UniformScale": 0.05625
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0104_unit.bp",
+          "display": {
+            "UniformScale": 0.0703125
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0104_unit.bp",
+          "display": {
+            "UniformScale": 0.0703125
+          }
+        },
+        {
+          "archive": "zzzz_SC2_CloneWars_A5RX_Test.scd",
+          "member": "mods/DLC1/shadow/units/zz_clonewars_a5rx_model_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/a5rx/a5rx_mesh",
+            "DisplayName": "A5-RX"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "A5-RX"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0104_unit.bp",
+          "display": {
+            "UniformScale": 0.05625
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0104_unit.bp",
+          "display": {
+            "UniformScale": 0.0703125
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0104_unit.bp",
+          "display": {
+            "UniformScale": 0.0703125
+          }
+        }
+      ],
+      "status": "Installed GAR mesh; static source reconstruction",
+      "mesh_blueprint_source": "zzzz_SC2_CloneWars_A5RX_Test.scd!units/CloneWars/A5RX/A5RX_mesh.bp",
+      "scm_source": "zzzz_SC2_CloneWars_A5RX_Test.scd!units/CloneWars/A5RX/UUL0104_lod0.scm",
+      "mesh_sha256": "0aee7f2b1dcf632bdbffd15e5092918c88032addd6bdc30451b785b3c52e3497",
+      "raw_bounds_xyz": [
+        [
+          -14.715332984924316,
+          14.715337753295898
+        ],
+        [
+          0.017641186714172363,
+          28.00843048095703
+        ],
+        [
+          -26.608335494995117,
+          25.700706481933594
+        ]
+      ],
+      "displayed_lwh": [
+        3.6779795140028,
+        2.069344036281109,
+        1.968102372251451
+      ],
+      "vertices": 28809,
+      "bones": 36
+    },
+    {
+      "id": "uul0105",
+      "original": "Archanist",
+      "replacement": "UT-AA",
+      "uniform_scale": 0.3315,
+      "base_scale": 0.13,
+      "native_dlc_scale": 0.0975,
+      "collision_xyz": [
+        1,
+        1.1,
+        1.1
+      ],
+      "footprint": null,
+      "native_sources": {
+        "base": "uncompiled_lua.scd!uncompiled/Units/UEF/UUL0105/UUL0105_unit.bp",
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/shadow/Units/UEF/UUL0105/UUL0105_unit.bp"
+      },
+      "patches": [
+        {
+          "archive": "zz_SC2_CloneWars_UTAA_Model.scd",
+          "member": "units/zz_clonewars_utaa_model_unit.bp",
+          "display": {
+            "AnimationOpen": "/units/UEF/uul0105/uul0105_aopen01.sca",
+            "DisplayName": "UT-AA",
+            "EffectGroupClassification": "Small",
+            "LayerChangeEffects": {
+              "AirLand": {
+                "Effects": {
+                  "1": {
+                    "Bones": {
+                      "1": "UUL0105"
+                    },
+                    "Type": "Landing02"
+                  }
+                }
+              }
+            },
+            "MovementEffects": {
+              "Land": {
+                "Effects": {
+                  "1": {
+                    "Bones": {
+                      "1": "UUL0105"
+                    },
+                    "Type": "GroundKickup01"
+                  }
+                },
+                "Treads": {
+                  "ScrollMultiplier": 0.6,
+                  "ScrollTreads": true
+                }
+              }
+            },
+            "UniformScale": 0.221,
+            "MeshBlueprint": "/units/clonewars/utaa/utaa_mesh"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "UT-AA"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0105_unit.bp",
+          "display": {
+            "UniformScale": 0.27625
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0105_unit.bp",
+          "display": {
+            "UniformScale": 0.3315
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0105_unit.bp",
+          "display": {
+            "UniformScale": 0.3315
+          }
+        },
+        {
+          "archive": "zz_SC2_CloneWars_UTAA_Model.scd",
+          "member": "mods/DLC1/base/units/zz_clonewars_utaa_model_unit.bp",
+          "display": {
+            "AnimationOpen": "/units/UEF/uul0105/uul0105_aopen01.sca",
+            "DisplayName": "UT-AA",
+            "EffectGroupClassification": "Small",
+            "LayerChangeEffects": {
+              "AirLand": {
+                "Effects": {
+                  "1": {
+                    "Bones": {
+                      "1": "UUL0105"
+                    },
+                    "Type": "Landing02"
+                  }
+                }
+              }
+            },
+            "MovementEffects": {
+              "Land": {
+                "Effects": {
+                  "1": {
+                    "Bones": {
+                      "1": "UUL0105"
+                    },
+                    "Type": "GroundKickup01"
+                  }
+                },
+                "Treads": {
+                  "ScrollMultiplier": 0.6,
+                  "ScrollTreads": true
+                }
+              }
+            },
+            "UniformScale": 0.221,
+            "MeshBlueprint": "/units/clonewars/utaa/utaa_mesh"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "UT-AA"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0105_unit.bp",
+          "display": {
+            "UniformScale": 0.27625
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0105_unit.bp",
+          "display": {
+            "UniformScale": 0.3315
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0105_unit.bp",
+          "display": {
+            "UniformScale": 0.3315
+          }
+        },
+        {
+          "archive": "zz_SC2_CloneWars_UTAA_Model.scd",
+          "member": "mods/DLC1/shadow/units/zz_clonewars_utaa_model_unit.bp",
+          "display": {
+            "AnimationOpen": "/units/UEF/uul0105/uul0105_aopen01.sca",
+            "DisplayName": "UT-AA",
+            "EffectGroupClassification": "Small",
+            "LayerChangeEffects": {
+              "AirLand": {
+                "Effects": {
+                  "1": {
+                    "Bones": {
+                      "1": "UUL0105"
+                    },
+                    "Type": "Landing02"
+                  }
+                }
+              }
+            },
+            "MovementEffects": {
+              "Land": {
+                "Effects": {
+                  "1": {
+                    "Bones": {
+                      "1": "UUL0105"
+                    },
+                    "Type": "GroundKickup01"
+                  }
+                },
+                "Treads": {
+                  "ScrollMultiplier": 0.6,
+                  "ScrollTreads": true
+                }
+              }
+            },
+            "UniformScale": 0.221,
+            "MeshBlueprint": "/units/clonewars/utaa/utaa_mesh"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "UT-AA"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0105_unit.bp",
+          "display": {
+            "UniformScale": 0.27625
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0105_unit.bp",
+          "display": {
+            "UniformScale": 0.3315
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0105_unit.bp",
+          "display": {
+            "UniformScale": 0.3315
+          }
+        }
+      ],
+      "status": "Installed GAR mesh; static source reconstruction",
+      "mesh_blueprint_source": "zz_SC2_CloneWars_UTAA_Model.scd!units/CloneWars/UTAA/UTAA_mesh.bp",
+      "scm_source": "zz_SC2_CloneWars_UTAA_Model.scd!units/CloneWars/UTAA/UUL0105_LOD0.scm",
+      "mesh_sha256": "c243a3ad29cab1b27f1c4f1cbe6e54f7d8ddd58a2cc6d690bb193895fa132651",
+      "raw_bounds_xyz": [
+        [
+          -4.851134777069092,
+          4.851134777069092
+        ],
+        [
+          0.24043604731559753,
+          9.495640754699707
+        ],
+        [
+          -6.628005027770996,
+          5.9347100257873535
+        ]
+      ],
+      "displayed_lwh": [
+        4.164540040254593,
+        3.216302357196808,
+        3.0681003604978323
+      ],
+      "vertices": 13710,
+      "bones": 30
+    },
+    {
+      "id": "uul0201",
+      "original": "P-Shield",
+      "replacement": "RTT Shield Transport",
+      "uniform_scale": 0.16335,
+      "base_scale": 0.11,
+      "native_dlc_scale": 0.0825,
+      "collision_xyz": [
+        0.8,
+        0.5,
+        0.8
+      ],
+      "footprint": null,
+      "native_sources": {
+        "base": "uncompiled_lua.scd!uncompiled/Units/UEF/UUL0201/UUL0201_unit.bp",
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/shadow/Units/UEF/UUL0201/UUL0201_unit.bp"
+      },
+      "patches": [
+        {
+          "archive": "zz_SC2_CloneWars_RTTShield_Model.scd",
+          "member": "units/zz_clonewars_rttshield_model_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/rttshield/rttshield_mesh",
+            "DisplayName": "RTT Shield Transport"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "RTT Shield Transport"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0201_unit.bp",
+          "display": {
+            "UniformScale": 0.1485
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0201_unit.bp",
+          "display": {
+            "UniformScale": 0.16335
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0201_unit.bp",
+          "display": {
+            "UniformScale": 0.16335
+          }
+        },
+        {
+          "archive": "zz_SC2_CloneWars_RTTShield_Model.scd",
+          "member": "mods/DLC1/base/units/zz_clonewars_rttshield_model_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/rttshield/rttshield_mesh",
+            "DisplayName": "RTT Shield Transport"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "RTT Shield Transport"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0201_unit.bp",
+          "display": {
+            "UniformScale": 0.1485
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0201_unit.bp",
+          "display": {
+            "UniformScale": 0.16335
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0201_unit.bp",
+          "display": {
+            "UniformScale": 0.16335
+          }
+        },
+        {
+          "archive": "zz_SC2_CloneWars_RTTShield_Model.scd",
+          "member": "mods/DLC1/shadow/units/zz_clonewars_rttshield_model_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/rttshield/rttshield_mesh",
+            "DisplayName": "RTT Shield Transport"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "RTT Shield Transport"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0201_unit.bp",
+          "display": {
+            "UniformScale": 0.1485
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uul0201_unit.bp",
+          "display": {
+            "UniformScale": 0.16335
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0201_unit.bp",
+          "display": {
+            "UniformScale": 0.16335
+          }
+        }
+      ],
+      "status": "Installed GAR mesh; static source reconstruction",
+      "mesh_blueprint_source": "zz_SC2_CloneWars_RTTShield_Model.scd!units/CloneWars/RTTShield/RTTShield_mesh.bp",
+      "scm_source": "zz_SC2_CloneWars_RTTShield_Model.scd!units/CloneWars/RTTShield/UUL0201_LOD0.scm",
+      "mesh_sha256": "995d4db51798c9171b4322994cac98d1e9faf652912f46e333571d5506ae0df5",
+      "raw_bounds_xyz": [
+        [
+          -9.009469985961914,
+          9.009474754333496
+        ],
+        [
+          1.3964886665344238,
+          10.428509712219238
+        ],
+        [
+          -18.004228591918945,
+          17.913633346557617
+        ]
+      ],
+      "displayed_lwh": [
+        5.867182747650146,
+        2.943394623327255,
+        1.4753806378126144
+      ],
+      "vertices": 20916,
+      "bones": 8
+    },
+    {
+      "id": "uul0203",
+      "original": "Sharp Shooter",
+      "replacement": "UT-AT",
+      "uniform_scale": 0.408,
+      "base_scale": 0.12,
+      "native_dlc_scale": 0.09,
+      "collision_xyz": [
+        1.1,
+        1.1,
+        1.1
+      ],
+      "footprint": null,
+      "native_sources": {
+        "base": "uncompiled_lua.scd!uncompiled/Units/UEF/UUL0203/UUL0203_unit.bp",
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/shadow/Units/UEF/UUL0203/UUL0203_unit.bp"
+      },
+      "patches": [
+        {
+          "archive": "zz_SC2_CloneWars_UTAT_Model.scd",
+          "member": "units/zz_clonewars_utat_model_unit.bp",
+          "display": {
+            "DisplayName": "UT-AT",
+            "EffectGroupClassification": "Small",
+            "LayerChangeEffects": {
+              "AirLand": {
+                "Effects": {
+                  "1": {
+                    "Bones": {
+                      "1": "UUL0203"
+                    },
+                    "Type": "Landing02"
+                  }
+                }
+              }
+            },
+            "MovementEffects": {
+              "Land": {
+                "Effects": {
+                  "1": {
+                    "Bones": {
+                      "1": "UUL0203"
+                    },
+                    "Type": "GroundKickup01"
+                  }
+                },
+                "Treads": {
+                  "ScrollMultiplier": 0.6,
+                  "ScrollTreads": true
+                }
+              }
+            },
+            "UniformScale": 0.204,
+            "MeshBlueprint": "/units/clonewars/utat/utat_mesh"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "UT-AT"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0203_unit.bp",
+          "display": {
+            "UniformScale": 0.408
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0203_unit.bp",
+          "display": {
+            "UniformScale": 0.408
+          }
+        },
+        {
+          "archive": "zz_SC2_CloneWars_UTAT_Model.scd",
+          "member": "mods/DLC1/base/units/zz_clonewars_utat_model_unit.bp",
+          "display": {
+            "DisplayName": "UT-AT",
+            "EffectGroupClassification": "Small",
+            "LayerChangeEffects": {
+              "AirLand": {
+                "Effects": {
+                  "1": {
+                    "Bones": {
+                      "1": "UUL0203"
+                    },
+                    "Type": "Landing02"
+                  }
+                }
+              }
+            },
+            "MovementEffects": {
+              "Land": {
+                "Effects": {
+                  "1": {
+                    "Bones": {
+                      "1": "UUL0203"
+                    },
+                    "Type": "GroundKickup01"
+                  }
+                },
+                "Treads": {
+                  "ScrollMultiplier": 0.6,
+                  "ScrollTreads": true
+                }
+              }
+            },
+            "UniformScale": 0.204,
+            "MeshBlueprint": "/units/clonewars/utat/utat_mesh"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "UT-AT"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0203_unit.bp",
+          "display": {
+            "UniformScale": 0.408
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0203_unit.bp",
+          "display": {
+            "UniformScale": 0.408
+          }
+        },
+        {
+          "archive": "zz_SC2_CloneWars_UTAT_Model.scd",
+          "member": "mods/DLC1/shadow/units/zz_clonewars_utat_model_unit.bp",
+          "display": {
+            "DisplayName": "UT-AT",
+            "EffectGroupClassification": "Small",
+            "LayerChangeEffects": {
+              "AirLand": {
+                "Effects": {
+                  "1": {
+                    "Bones": {
+                      "1": "UUL0203"
+                    },
+                    "Type": "Landing02"
+                  }
+                }
+              }
+            },
+            "MovementEffects": {
+              "Land": {
+                "Effects": {
+                  "1": {
+                    "Bones": {
+                      "1": "UUL0203"
+                    },
+                    "Type": "GroundKickup01"
+                  }
+                },
+                "Treads": {
+                  "ScrollMultiplier": 0.6,
+                  "ScrollTreads": true
+                }
+              }
+            },
+            "UniformScale": 0.204,
+            "MeshBlueprint": "/units/clonewars/utat/utat_mesh"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "UT-AT"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uul0203_unit.bp",
+          "display": {
+            "UniformScale": 0.408
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uul0203_unit.bp",
+          "display": {
+            "UniformScale": 0.408
+          }
+        }
+      ],
+      "status": "Installed GAR mesh; static source reconstruction",
+      "mesh_blueprint_source": "zz_SC2_CloneWars_UTAT_Model.scd!units/CloneWars/UTAT/UTAT_mesh.bp",
+      "scm_source": "zz_SC2_CloneWars_UTAT_Model.scd!units/CloneWars/UTAT/UTAT_lod0.scm",
+      "mesh_sha256": "f81e183c8eba9aa675fc95f16b12ed47e343bdd5943d0e82accba2b7cffad7e9",
+      "raw_bounds_xyz": [
+        [
+          -4.434997081756592,
+          4.424098968505859
+        ],
+        [
+          0.15000000596046448,
+          5.1262288093566895
+        ],
+        [
+          -8.64240837097168,
+          8.708662033081055
+        ]
+      ],
+      "displayed_lwh": [
+        7.079236724853515,
+        3.61451118850708,
+        2.03030135178566
+      ],
+      "vertices": 6002,
+      "bones": 20
+    },
+    {
+      "id": "uux0101",
+      "original": "Fatboy II",
+      "replacement": "HAVw A6 Juggernaut",
+      "uniform_scale": 0.288,
+      "base_scale": 0.18,
+      "native_dlc_scale": 0.18,
+      "collision_xyz": [
+        7,
+        3,
+        7
+      ],
+      "footprint": null,
+      "native_sources": {
+        "base": "uncompiled_lua.scd!uncompiled/Units/UEF/UUX0101/UUX0101_unit.bp",
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/shadow/Units/UEF/UUX0101/UUX0101_unit.bp"
+      },
+      "patches": [
+        {
+          "archive": "zz_SC2_CloneWars_Juggernaut_Model.scd",
+          "member": "units/zz_clonewars_juggernaut_model_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/juggernaut/juggernaut_mesh",
+            "DisplayName": "HAVw A6 Juggernaut"
+          }
+        },
+        {
+          "archive": "zzzzz_SC2_CloneWars_Juggernaut_Name.scd",
+          "member": "units/zz_clonewars_juggernaut_name_unit.bp",
+          "display": {
+            "DisplayName": "HAVw A6 Juggernaut"
+          }
+        },
+        {
+          "archive": "zzzzzz_SC2_CloneWars_Juggernaut_Balance.scd",
+          "member": "units/zzzz_clonewars_juggernaut_balance_unit.bp",
+          "display": {}
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "HAVw A6 Juggernaut"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzz_SC2_CloneWars_Juggernaut_Cost.scd",
+          "member": "units/zzzzzzzzzzzz_clonewars_juggernaut_cost_unit.bp",
+          "display": {}
+        },
+        {
+          "archive": "zzzzzzzzzzzz_SC2_CloneWars_MovementSpeed.scd",
+          "member": "units/zzzzzzzzzzzz_clonewars_speed_unit.bp",
+          "display": {}
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uux0101_unit.bp",
+          "display": {
+            "UniformScale": 0.288
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uux0101_unit.bp",
+          "display": {
+            "UniformScale": 0.288
+          }
+        },
+        {
+          "archive": "zz_SC2_CloneWars_Juggernaut_Model.scd",
+          "member": "mods/DLC1/base/units/zz_clonewars_juggernaut_model_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/juggernaut/juggernaut_mesh",
+            "DisplayName": "HAVw A6 Juggernaut"
+          }
+        },
+        {
+          "archive": "zzzzz_SC2_CloneWars_Juggernaut_Name.scd",
+          "member": "mods/DLC1/base/units/zz_clonewars_juggernaut_name_unit.bp",
+          "display": {
+            "DisplayName": "HAVw A6 Juggernaut"
+          }
+        },
+        {
+          "archive": "zzzzzz_SC2_CloneWars_Juggernaut_Balance.scd",
+          "member": "mods/DLC1/base/units/zzzz_clonewars_juggernaut_balance_unit.bp",
+          "display": {}
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "HAVw A6 Juggernaut"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzz_SC2_CloneWars_Juggernaut_Cost.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzz_clonewars_juggernaut_cost_unit.bp",
+          "display": {}
+        },
+        {
+          "archive": "zzzzzzzzzzzz_SC2_CloneWars_MovementSpeed.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzz_clonewars_speed_unit.bp",
+          "display": {}
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uux0101_unit.bp",
+          "display": {
+            "UniformScale": 0.288
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uux0101_unit.bp",
+          "display": {
+            "UniformScale": 0.288
+          }
+        },
+        {
+          "archive": "zz_SC2_CloneWars_Juggernaut_Model.scd",
+          "member": "mods/DLC1/shadow/units/zz_clonewars_juggernaut_model_unit.bp",
+          "display": {
+            "MeshBlueprint": "/units/clonewars/juggernaut/juggernaut_mesh",
+            "DisplayName": "HAVw A6 Juggernaut"
+          }
+        },
+        {
+          "archive": "zzzzz_SC2_CloneWars_Juggernaut_Name.scd",
+          "member": "mods/DLC1/shadow/units/zz_clonewars_juggernaut_name_unit.bp",
+          "display": {
+            "DisplayName": "HAVw A6 Juggernaut"
+          }
+        },
+        {
+          "archive": "zzzzzz_SC2_CloneWars_Juggernaut_Balance.scd",
+          "member": "mods/DLC1/shadow/units/zzzz_clonewars_juggernaut_balance_unit.bp",
+          "display": {}
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "HAVw A6 Juggernaut"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzz_SC2_CloneWars_Juggernaut_Cost.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzz_clonewars_juggernaut_cost_unit.bp",
+          "display": {}
+        },
+        {
+          "archive": "zzzzzzzzzzzz_SC2_CloneWars_MovementSpeed.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzz_clonewars_speed_unit.bp",
+          "display": {}
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uux0101_unit.bp",
+          "display": {
+            "UniformScale": 0.288
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uux0101_unit.bp",
+          "display": {
+            "UniformScale": 0.288
+          }
+        }
+      ],
+      "status": "Installed GAR mesh; static source reconstruction",
+      "mesh_blueprint_source": "zz_SC2_CloneWars_Juggernaut_Model.scd!units/CloneWars/Juggernaut/Juggernaut_mesh.bp",
+      "scm_source": "zz_SC2_CloneWars_Juggernaut_Model.scd!units/CloneWars/Juggernaut/UUX0101_lod0.scm",
+      "mesh_sha256": "afbf7bf75de4b645e6ed3606a1c345f7568bd8335ef09501bdb839d4d625eb67",
+      "raw_bounds_xyz": [
+        [
+          -13.36440372467041,
+          13.770962715148926
+        ],
+        [
+          -0.066718190908432,
+          34.84043884277344
+        ],
+        [
+          -28.124134063720703,
+          26.562849044799805
+        ]
+      ],
+      "displayed_lwh": [
+        15.749851135253905,
+        7.814985534667968,
+        10.053261225700378
+      ],
+      "vertices": 28484,
+      "bones": 43
+    },
+    {
+      "id": "uux0111",
+      "original": "King Kriptor",
+      "replacement": "AT-TE",
+      "uniform_scale": 0.0784875,
+      "base_scale": 0.1,
+      "native_dlc_scale": 0.1,
+      "collision_xyz": [
+        7.4,
+        5.3,
+        11.5
+      ],
+      "footprint": null,
+      "native_sources": {
+        "base": "uncompiled_lua.scd!uncompiled/Units/UEF/UUX0111/UUX0111_unit.bp",
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/shadow/Units/UEF/UUX0111/UUX0111_unit.bp"
+      },
+      "patches": [
+        {
+          "archive": "zzzzzz_SC2_CloneWars_ATTE.scd",
+          "member": "units/zzzz_clonewars_atte_unit.bp",
+          "display": {
+            "DisplayName": "AT-TE",
+            "MeshBlueprint": "/units/clonewars/atte/atte_mesh",
+            "UniformScale": 0.1,
+            "AnimationWalk": "/units/CloneWars/ATTE/ATTE_Walk.sca",
+            "AnimationWalkRate": 2.5,
+            "AnimationIdle": "/units/CloneWars/ATTE/ATTE_Idle.sca",
+            "AnimationOnStartBuild": "/units/CloneWars/ATTE/ATTE_Idle.sca",
+            "AnimationDeploy": "/units/CloneWars/ATTE/ATTE_Idle.sca",
+            "EffectGroupClassification": "Large",
+            "SimulationBones": {
+              "1": "ATTE_Main_Muzzle",
+              "2": "ATTE_FrontLeftTop_Muzzle",
+              "3": "ATTE_FrontLeftBottom_Muzzle",
+              "4": "ATTE_FrontRightTop_Muzzle",
+              "5": "ATTE_FrontRightBottom_Muzzle",
+              "6": "ATTE_RearLeft_Muzzle",
+              "7": "ATTE_RearRight_Muzzle"
+            },
+            "MeshBlueprintWrecked": "/units/clonewars/atte/atte_mesh_wreck"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "AT-TE"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzz_SC2_CloneWars_ATTE_Range.scd",
+          "member": "units/zzzzzzzzzzz_clonewars_atte_range_unit.bp",
+          "display": {}
+        },
+        {
+          "archive": "zzzzzzzzzzzz_SC2_CloneWars_MovementSpeed.scd",
+          "member": "units/zzzzzzzzzzzz_clonewars_speed_unit.bp",
+          "display": {}
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uux0111_unit.bp",
+          "display": {
+            "UniformScale": 0.065
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uux0111_unit.bp",
+          "display": {
+            "UniformScale": 0.07475
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uux0111_unit.bp",
+          "display": {
+            "UniformScale": 0.0784875
+          }
+        },
+        {
+          "archive": "zzzzzz_SC2_CloneWars_ATTE.scd",
+          "member": "mods/DLC1/base/units/zzzz_clonewars_atte_unit.bp",
+          "display": {
+            "DisplayName": "AT-TE",
+            "MeshBlueprint": "/units/clonewars/atte/atte_mesh",
+            "UniformScale": 0.1,
+            "AnimationWalk": "/units/CloneWars/ATTE/ATTE_Walk.sca",
+            "AnimationWalkRate": 2.5,
+            "AnimationIdle": "/units/CloneWars/ATTE/ATTE_Idle.sca",
+            "AnimationOnStartBuild": "/units/CloneWars/ATTE/ATTE_Idle.sca",
+            "AnimationDeploy": "/units/CloneWars/ATTE/ATTE_Idle.sca",
+            "EffectGroupClassification": "Large",
+            "SimulationBones": {
+              "1": "ATTE_Main_Muzzle",
+              "2": "ATTE_FrontLeftTop_Muzzle",
+              "3": "ATTE_FrontLeftBottom_Muzzle",
+              "4": "ATTE_FrontRightTop_Muzzle",
+              "5": "ATTE_FrontRightBottom_Muzzle",
+              "6": "ATTE_RearLeft_Muzzle",
+              "7": "ATTE_RearRight_Muzzle"
+            },
+            "MeshBlueprintWrecked": "/units/clonewars/atte/atte_mesh_wreck"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "AT-TE"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzz_SC2_CloneWars_ATTE_Range.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzz_clonewars_atte_range_unit.bp",
+          "display": {}
+        },
+        {
+          "archive": "zzzzzzzzzzzz_SC2_CloneWars_MovementSpeed.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzz_clonewars_speed_unit.bp",
+          "display": {}
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uux0111_unit.bp",
+          "display": {
+            "UniformScale": 0.065
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uux0111_unit.bp",
+          "display": {
+            "UniformScale": 0.07475
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uux0111_unit.bp",
+          "display": {
+            "UniformScale": 0.0784875
+          }
+        },
+        {
+          "archive": "zzzzzz_SC2_CloneWars_ATTE.scd",
+          "member": "mods/DLC1/shadow/units/zzzz_clonewars_atte_unit.bp",
+          "display": {
+            "DisplayName": "AT-TE",
+            "MeshBlueprint": "/units/clonewars/atte/atte_mesh",
+            "UniformScale": 0.1,
+            "AnimationWalk": "/units/CloneWars/ATTE/ATTE_Walk.sca",
+            "AnimationWalkRate": 2.5,
+            "AnimationIdle": "/units/CloneWars/ATTE/ATTE_Idle.sca",
+            "AnimationOnStartBuild": "/units/CloneWars/ATTE/ATTE_Idle.sca",
+            "AnimationDeploy": "/units/CloneWars/ATTE/ATTE_Idle.sca",
+            "EffectGroupClassification": "Large",
+            "SimulationBones": {
+              "1": "ATTE_Main_Muzzle",
+              "2": "ATTE_FrontLeftTop_Muzzle",
+              "3": "ATTE_FrontLeftBottom_Muzzle",
+              "4": "ATTE_FrontRightTop_Muzzle",
+              "5": "ATTE_FrontRightBottom_Muzzle",
+              "6": "ATTE_RearLeft_Muzzle",
+              "7": "ATTE_RearRight_Muzzle"
+            },
+            "MeshBlueprintWrecked": "/units/clonewars/atte/atte_mesh_wreck"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzz_clonewars_unit_names_unit.bp",
+          "display": {
+            "DisplayName": "AT-TE"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzz_SC2_CloneWars_ATTE_Range.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzz_clonewars_atte_range_unit.bp",
+          "display": {}
+        },
+        {
+          "archive": "zzzzzzzzzzzz_SC2_CloneWars_MovementSpeed.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzz_clonewars_speed_unit.bp",
+          "display": {}
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uux0111_unit.bp",
+          "display": {
+            "UniformScale": 0.065
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r2_uux0111_unit.bp",
+          "display": {
+            "UniformScale": 0.07475
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uux0111_unit.bp",
+          "display": {
+            "UniformScale": 0.0784875
+          }
+        }
+      ],
+      "status": "Installed GAR mesh; static source reconstruction",
+      "mesh_blueprint_source": "zzzzzz_SC2_CloneWars_ATTE.scd!units/CloneWars/ATTE/ATTE_mesh.bp",
+      "scm_source": "zzzzzz_SC2_CloneWars_ATTE.scd!units/CloneWars/ATTE/ATTE_lod0.scm",
+      "mesh_sha256": "eb9d5ed26cdf12fb3c857c4e7e2371faf35c97ae33720a939e09b6f530900d02",
+      "raw_bounds_xyz": [
+        [
+          -36.21562194824219,
+          37.11561584472656
+        ],
+        [
+          -0.029281318187713623,
+          52.18294143676758
+        ],
+        [
+          -48.09280014038086,
+          66.70603942871094
+        ]
+      ],
+      "displayed_lwh": [
+        9.010273920679092,
+        5.755585526275635,
+        4.098006833479554
+      ],
+      "vertices": 62582,
+      "bones": 66
+    },
+    {
+      "id": "uux0113d1",
+      "original": "Jackhammer",
+      "replacement": "SPHA-T",
+      "uniform_scale": 0.2,
+      "base_scale": null,
+      "native_dlc_scale": 0.08,
+      "collision_xyz": [
+        3,
+        1.6,
+        4
+      ],
+      "footprint": null,
+      "native_sources": {
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/base/Units/UEF/UUX0113D1/UUX0113D1_unit.bp"
+      },
+      "patches": [
+        {
+          "archive": "zzzzzz_SC2_CloneWars_SPHA.scd",
+          "member": "units/zzzz_clonewars_spha_unit.bp",
+          "display": {
+            "DisplayName": "SPHA-T",
+            "MeshBlueprint": "/units/clonewars/spha/spha_mesh",
+            "UniformScale": 0.1,
+            "AnimationWalk": "/units/CloneWars/SPHA/SPHA_Walk.sca",
+            "AnimationWalkRate": 0.4,
+            "AnimationIdle": "/units/CloneWars/SPHA/SPHA_Idle.sca",
+            "AnimationOpen": "/units/CloneWars/SPHA/SPHA_Deploy.sca",
+            "AnimationClose": "/units/CloneWars/SPHA/SPHA_Pack.sca",
+            "EffectGroupClassification": "Large",
+            "SimulationBones": {
+              "1": "SPHA_Muzzle"
+            },
+            "MeshBlueprintWrecked": "/units/clonewars/spha/spha_mesh_wreck"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uux0113d1_unit.bp",
+          "display": {
+            "UniformScale": 0.2
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uux0113d1_unit.bp",
+          "display": {
+            "UniformScale": 0.2
+          }
+        },
+        {
+          "archive": "zzzzzz_SC2_CloneWars_SPHA.scd",
+          "member": "mods/DLC1/base/units/zzzz_clonewars_spha_unit.bp",
+          "display": {
+            "DisplayName": "SPHA-T",
+            "MeshBlueprint": "/units/clonewars/spha/spha_mesh",
+            "UniformScale": 0.1,
+            "AnimationWalk": "/units/CloneWars/SPHA/SPHA_Walk.sca",
+            "AnimationWalkRate": 0.4,
+            "AnimationIdle": "/units/CloneWars/SPHA/SPHA_Idle.sca",
+            "AnimationOpen": "/units/CloneWars/SPHA/SPHA_Deploy.sca",
+            "AnimationClose": "/units/CloneWars/SPHA/SPHA_Pack.sca",
+            "EffectGroupClassification": "Large",
+            "SimulationBones": {
+              "1": "SPHA_Muzzle"
+            },
+            "MeshBlueprintWrecked": "/units/clonewars/spha/spha_mesh_wreck"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uux0113d1_unit.bp",
+          "display": {
+            "UniformScale": 0.2
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/base/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uux0113d1_unit.bp",
+          "display": {
+            "UniformScale": 0.2
+          }
+        },
+        {
+          "archive": "zzzzzz_SC2_CloneWars_SPHA.scd",
+          "member": "mods/DLC1/shadow/units/zzzz_clonewars_spha_unit.bp",
+          "display": {
+            "DisplayName": "SPHA-T",
+            "MeshBlueprint": "/units/clonewars/spha/spha_mesh",
+            "UniformScale": 0.1,
+            "AnimationWalk": "/units/CloneWars/SPHA/SPHA_Walk.sca",
+            "AnimationWalkRate": 0.4,
+            "AnimationIdle": "/units/CloneWars/SPHA/SPHA_Idle.sca",
+            "AnimationOpen": "/units/CloneWars/SPHA/SPHA_Deploy.sca",
+            "AnimationClose": "/units/CloneWars/SPHA/SPHA_Pack.sca",
+            "EffectGroupClassification": "Large",
+            "SimulationBones": {
+              "1": "SPHA_Muzzle"
+            },
+            "MeshBlueprintWrecked": "/units/clonewars/spha/spha_mesh_wreck"
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r1_uux0113d1_unit.bp",
+          "display": {
+            "UniformScale": 0.2
+          }
+        },
+        {
+          "archive": "zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+          "member": "mods/DLC1/shadow/units/zzzzzzzzzzzzzzzzzzzz_sizing_r3_uux0113d1_unit.bp",
+          "display": {
+            "UniformScale": 0.2
+          }
+        }
+      ],
+      "status": "Installed GAR mesh; static source reconstruction",
+      "mesh_blueprint_source": "zzzzzz_SC2_CloneWars_SPHA.scd!units/CloneWars/SPHA/SPHA_mesh.bp",
+      "scm_source": "zzzzzz_SC2_CloneWars_SPHA.scd!units/CloneWars/SPHA/SPHA_lod0.scm",
+      "mesh_sha256": "d182b3c0a91cc380475aec2c3a4c3971f37fd5558c740d2709a1d09fc335fd0d",
+      "raw_bounds_xyz": [
+        [
+          -22.03249168395996,
+          22.003137588500977
+        ],
+        [
+          -0.08160350471735,
+          55.88821029663086
+        ],
+        [
+          -52.045066833496094,
+          67.21952819824219
+        ]
+      ],
+      "displayed_lwh": [
+        23.85291900634766,
+        8.807125854492188,
+        11.193962760269642
+      ],
+      "vertices": 4990,
+      "bones": 62
+    },
+    {
+      "id": "uua0101",
+      "original": "Wasp",
+      "replacement": "Alpha-3 Nimbus V-wing",
+      "uniform_scale": 0.2,
+      "base_scale": 0.2,
+      "native_dlc_scale": 0.2,
+      "collision_xyz": [
+        2.1,
+        1.6,
+        2.35
+      ],
+      "footprint": {
+        "MaxSlope": 0.25,
+        "SizeX": 1,
+        "SizeZ": 1
+      },
+      "native_sources": {
+        "base": "uncompiled_lua.scd!uncompiled/Units/UEF/UUA0101/UUA0101_unit.bp",
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/shadow/Units/UEF/UUA0101/UUA0101_unit.bp"
+      },
+      "patches": [],
+      "status": "Planned GAR replacement; native UEF visual remains in inspected packages"
+    },
+    {
+      "id": "uua0102",
+      "original": "Eagle Eye",
+      "replacement": "BTL-B Y-wing",
+      "uniform_scale": 0.065,
+      "base_scale": 0.065,
+      "native_dlc_scale": 0.065,
+      "collision_xyz": [
+        2.1,
+        1.6,
+        2.35
+      ],
+      "footprint": {
+        "MaxSlope": 0.25,
+        "SizeX": 1,
+        "SizeZ": 1
+      },
+      "native_sources": {
+        "base": "uncompiled_lua.scd!uncompiled/Units/UEF/UUA0102/UUA0102_unit.bp",
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/shadow/Units/UEF/UUA0102/UUA0102_unit.bp"
+      },
+      "patches": [],
+      "status": "Planned GAR replacement; native UEF visual remains in inspected packages"
+    },
+    {
+      "id": "uua0103",
+      "original": "Broadsword",
+      "replacement": "LAAT (variant TBD)",
+      "uniform_scale": 0.1,
+      "base_scale": 0.1,
+      "native_dlc_scale": 0.1,
+      "collision_xyz": [
+        2.1,
+        1.6,
+        2.35
+      ],
+      "footprint": {
+        "MaxSlope": 0.25,
+        "SizeX": 1,
+        "SizeZ": 1
+      },
+      "native_sources": {
+        "base": "uncompiled_lua.scd!uncompiled/Units/UEF/UUA0103/UUA0103_unit.bp",
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/shadow/Units/UEF/UUA0103/UUA0103_unit.bp"
+      },
+      "patches": [],
+      "status": "Planned GAR replacement; native UEF visual remains in inspected packages"
+    },
+    {
+      "id": "uua0901",
+      "original": "C18 Star Lifter",
+      "replacement": "Nu-class Attack Shuttle",
+      "uniform_scale": 0.26,
+      "base_scale": 0.26,
+      "native_dlc_scale": 0.26,
+      "collision_xyz": [
+        3,
+        1.8,
+        11
+      ],
+      "footprint": {
+        "MaxSlope": 0.25,
+        "SizeX": 1,
+        "SizeZ": 6
+      },
+      "native_sources": {
+        "base": "uncompiled_lua.scd!uncompiled/Units/UEF/UUA0901/UUA0901_unit.bp",
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/shadow/Units/UEF/UUA0901/UUA0901_unit.bp"
+      },
+      "patches": [],
+      "status": "Planned GAR replacement; native UEF visual remains in inspected packages"
+    },
+    {
+      "id": "uux0102",
+      "original": "AC-1000 Terror",
+      "replacement": "CR90 Corvette",
+      "uniform_scale": 0.21,
+      "base_scale": 0.21,
+      "native_dlc_scale": 0.21,
+      "collision_xyz": [
+        2.5,
+        1.5,
+        6.5
+      ],
+      "footprint": {
+        "MaxSlope": 0.25,
+        "SizeX": 1,
+        "SizeZ": 1
+      },
+      "native_sources": {
+        "base": "uncompiled_lua.scd!uncompiled/Units/UEF/UUX0102/UUX0102_unit.bp",
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/shadow/Units/UEF/UUX0102/UUX0102_unit.bp"
+      },
+      "patches": [],
+      "status": "Planned GAR replacement; native UEF visual remains in inspected packages"
+    },
+    {
+      "id": "uux0103",
+      "original": "C-230 Star King Extreme",
+      "replacement": "Charger c70 Retrofit",
+      "uniform_scale": 0.23,
+      "base_scale": 0.23,
+      "native_dlc_scale": 0.23,
+      "collision_xyz": [
+        5.75,
+        3.75,
+        13.5
+      ],
+      "footprint": {
+        "MaxSlope": 0.25,
+        "SizeX": 1,
+        "SizeZ": 6
+      },
+      "native_sources": {
+        "base": "uncompiled_lua.scd!uncompiled/Units/UEF/UUX0103/UUX0103_unit.bp",
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/shadow/Units/UEF/UUX0103/UUX0103_unit.bp"
+      },
+      "patches": [],
+      "status": "Planned GAR replacement; native UEF visual remains in inspected packages"
+    },
+    {
+      "id": "uux0112",
+      "original": "Mega Fortress",
+      "replacement": "Pelta / Acclamator / Venator test candidates; final choice open",
+      "uniform_scale": 0.12,
+      "base_scale": 0.12,
+      "native_dlc_scale": 0.12,
+      "collision_xyz": [
+        10,
+        3.5,
+        10
+      ],
+      "footprint": {
+        "MaxSlope": 0.25,
+        "SizeX": 20,
+        "SizeZ": 20
+      },
+      "native_sources": {
+        "base": "uncompiled_lua.scd!uncompiled/Units/UEF/UUX0112/UUX0112_unit.bp",
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/shadow/Units/UEF/UUX0112/UUX0112_unit.bp"
+      },
+      "patches": [],
+      "status": "Planned GAR replacement; native UEF visual remains in inspected packages"
+    },
+    {
+      "id": "uus0102",
+      "original": "Mastadon",
+      "replacement": "Republic Aquatic Cruiser",
+      "uniform_scale": 0.2,
+      "base_scale": 0.2,
+      "native_dlc_scale": 0.2,
+      "collision_xyz": [
+        2,
+        1.4,
+        7
+      ],
+      "footprint": {
+        "SizeX": 2,
+        "SizeY": 1.5,
+        "SizeZ": 9
+      },
+      "native_sources": {
+        "base": "uncompiled_lua.scd!uncompiled/Units/UEF/UUS0102/UUS0102_unit.bp",
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/shadow/Units/UEF/UUS0102/UUS0102_unit.bp"
+      },
+      "patches": [],
+      "status": "Planned GAR replacement; native UEF visual remains in inspected packages"
+    },
+    {
+      "id": "uus0104",
+      "original": "Tigershark",
+      "replacement": "KE-UW33 Kamino Submarine",
+      "uniform_scale": 0.13,
+      "base_scale": 0.13,
+      "native_dlc_scale": 0.13,
+      "collision_xyz": [
+        1,
+        1.2,
+        8
+      ],
+      "footprint": {
+        "SizeX": 2,
+        "SizeY": 0.5,
+        "SizeZ": 3
+      },
+      "native_sources": {
+        "base": "uncompiled_lua.scd!uncompiled/Units/UEF/UUS0104/UUS0104_unit.bp",
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/shadow/Units/UEF/UUS0104/UUS0104_unit.bp"
+      },
+      "patches": [],
+      "status": "Planned GAR replacement; native UEF visual remains in inspected packages"
+    },
+    {
+      "id": "uus0105",
+      "original": "Poseidon",
+      "replacement": "Republic Advanced Cruiser",
+      "uniform_scale": 0.065,
+      "base_scale": 0.065,
+      "native_dlc_scale": 0.065,
+      "collision_xyz": [
+        2.7,
+        2.3,
+        10.5
+      ],
+      "footprint": {
+        "SizeX": 5,
+        "SizeZ": 16
+      },
+      "native_sources": {
+        "base": "uncompiled_lua.scd!uncompiled/Units/UEF/UUS0105/UUS0105_unit.bp",
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/shadow/Units/UEF/UUS0105/UUS0105_unit.bp"
+      },
+      "patches": [],
+      "status": "Planned GAR replacement; native UEF visual remains in inspected packages"
+    },
+    {
+      "id": "uux0104",
+      "original": "Atlantis II",
+      "replacement": "Unselected; Atlantis II deferred",
+      "uniform_scale": 0.165,
+      "base_scale": 0.165,
+      "native_dlc_scale": 0.165,
+      "collision_xyz": [
+        4,
+        2,
+        20
+      ],
+      "footprint": {
+        "SizeX": 4,
+        "SizeZ": 20
+      },
+      "native_sources": {
+        "base": "uncompiled_lua.scd!uncompiled/Units/UEF/UUX0104/UUX0104_unit.bp",
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/shadow/Units/UEF/UUX0104/UUX0104_unit.bp"
+      },
+      "patches": [],
+      "status": "Planned GAR replacement; native UEF visual remains in inspected packages"
+    },
+    {
+      "id": "uux0105d1",
+      "original": "Super Triton",
+      "replacement": "Custom Republic Dreadnought",
+      "uniform_scale": 0.08,
+      "base_scale": null,
+      "native_dlc_scale": 0.08,
+      "collision_xyz": [
+        2.7,
+        2.3,
+        10.5
+      ],
+      "footprint": {
+        "SizeX": 5,
+        "SizeZ": 16
+      },
+      "native_sources": {
+        "dlc": "z_uncompiled_lua_dlc1.scd!uncompiled/mods/DLC1/base/Units/UEF/UUX0105D1/UUX0105D1_unit.bp"
+      },
+      "patches": [],
+      "status": "Planned GAR replacement; native UEF visual remains in inspected packages"
+    }
+  ],
+  "parse_errors": [],
+  "script_scale_calls": []
+}

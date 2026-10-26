@@ -1,0 +1,47 @@
+﻿id,faction,domain,original,replacement,status,installed,selection_status,visible_name_reconstructed,notes
+uul0001,GAR,Ground,ACU,Custom GAR Command Walker/Vehicle,Design only; no installed replacement package found,False,selected_design,ACU,
+uul0002,GAR,Ground,Engineer,ISP Engineer,Working GAR ground conversion; user accepted current lineup/sizing on 2026-10-26. Final balance and individual edge-case tests remain open.,True,selected_design,ISP Engineer,ISP Engineer working in game; custom engineering arm. Clone crew deferred.
+uul0003d1,GAR,Ground,Field Engineer,ISP Field Engineer,Working GAR ground conversion; user accepted current lineup/sizing on 2026-10-26. Final balance and individual edge-case tests remain open.,True,selected_design,ISP Field Engineer,ISP Field Engineer installed with illuminated pylon; same base hull size as Engineer. Earlier rear texture/pylon follow-up remains separate from general sizing acceptance.
+uul0101,GAR,Ground,Rock Head,TX-130 Saber Tank,Working GAR ground conversion; user accepted current lineup/sizing on 2026-10-26. Final balance and individual edge-case tests remain open.,True,implemented_partial,TX-130 Saber Tank,Current tank sizing accepted; further balance and effects checks remain.
+uul0102,GAR,Ground,Demolisher,AT-AP,Working GAR ground conversion; user accepted current lineup/sizing on 2026-10-26. Final balance and individual edge-case tests remain open.,True,selected_design,AT-AP,AT-AP native ID confirmed. R3 scale matches reference AT-AP/AT-TE height ratio; rest-pose and gun-inclusive endpoints limit exact lore claims.
+uul0103,GAR,Ground,Titan,AT-RT,Working GAR ground conversion; user accepted current lineup/sizing on 2026-10-26. Final balance and individual edge-case tests remain open.,True,selected_design,AT-RT,AT-RT native ID confirmed; compact scout enlarged for readability in R2.
+uul0104,GAR,Ground,Meteor,A5-RX Spread-Missile Variant,Working GAR ground conversion; user accepted current lineup/sizing on 2026-10-26. Final balance and individual edge-case tests remain open.,True,selected_design,A5-RX,User reports A5-RX working in game October26; current sizing accepted. Earlier rework status superseded by working ground milestone.
+uul0105,GAR,Ground,Archanist,UT-AA,Working GAR ground conversion; user accepted current lineup/sizing on 2026-10-26. Final balance and individual edge-case tests remain open.,True,selected_design_with_authorized_role_conversion,UT-AA,Anti-air plus tactical missile interception. Former optional ground-gun research cleanup remains pending.
+uul0201,GAR,Ground,P-Shield,RTT Shield Transport,Working GAR ground conversion; user accepted current lineup/sizing on 2026-10-26. Final balance and individual edge-case tests remain open.,True,selected_design,RTT Shield Transport,RTT shield transport; custom shield adaptation. Vehicle team-paint rollout deferred.
+uul0203,GAR,Ground,Sharp Shooter,UT-AT,Working GAR ground conversion; user accepted current lineup/sizing on 2026-10-26. Final balance and individual edge-case tests remain open.,True,selected_design_with_authorized_role_conversion,UT-AT,"Ground tank in old Sharp Shooter slot; three guns,75/30/30 damage,RateOfFire .725 each. No longer the anti-missile role."
+uux0101,GAR,Ground,Fatboy II,HAVw A6 Juggernaut,Working GAR ground conversion; user accepted current lineup/sizing on 2026-10-26. Final balance and individual edge-case tests remain open.,True,selected_design,HAVw A6 Juggernaut,User accepted ground sizing; tower retained. Two15% speed changes still yield +32.25% vs vanilla. R1 visual size +60% retained.
+uux0111,GAR,Ground,King Kriptor,AT-TE,Working GAR ground conversion; user accepted current lineup/sizing on 2026-10-26. Final balance and individual edge-case tests remain open.,True,selected_design,AT-TE,AT-TE heavy assault conversion; R3 adds5% to R2 size. User accepts current ground appearance. Reported terrain-obstruction firing issue remains deferred.
+uux0113d1,GAR,Ground,Jackhammer,SPHA-T,Working GAR ground conversion; user accepted current lineup/sizing on 2026-10-26. Final balance and individual edge-case tests remain open.,True,selected_design,SPHA-T,"SPHA-T working ground attack and appearance user accepted. Test8 beam/deploy behavior retained; terrain-obstruction targeting unresolved. R1 doubled visual size. Team-paint prototype removed after blue/yellow worked but purple appeared black; ownership indicators deferred. Research source cost13 requested, runtime spending not verified. DLC research NAME/INFO rename verified separately."
+uua0101,GAR,Air,Wasp,Alpha-3 Nimbus V-wing,Design only; no installed replacement package found,False,selected_design,Wasp,
+uua0102,GAR,Air,Eagle Eye,BTL-B Y-wing,Design only; no installed replacement package found,False,selected_design,Eagle Eye,
+uua0103,GAR,Air,Broadsword,LAAT (variant TBD),Design only; no installed replacement package found,False,selected_design_variant_open,Broadsword,
+uua0901,GAR,Air,C18 Star Lifter,Nu-class Attack Shuttle,Design only; no installed replacement package found,False,selected_design,C18 Star Lifter,
+uux0102,GAR,Air,AC-1000 Terror,CR90 Corvette,Design only; no installed replacement package found,False,selected_design,AC-1000 Terror,
+uux0103,GAR,Air,C-230 Star King Extreme,Charger c70 Retrofit,Design only; no installed replacement package found,False,selected_design,C-230 Star King Extreme,
+uux0112,GAR,Air,Mega Fortress,Pelta / Acclamator / Venator test candidates; final choice open,Design only; no installed replacement package found,False,test_candidates_only,Mega Fortress,
+uus0102,GAR,Naval,Mastadon,Republic Aquatic Cruiser,Design only; no installed replacement package found,False,provisional_design,Mastadon,
+uus0104,GAR,Naval,Tigershark,KE-UW33 Kamino Submarine,Design only; no installed replacement package found,False,provisional_design,Tigershark,
+uus0105,GAR,Naval,Poseidon,Republic Advanced Cruiser,Design only; no installed replacement package found,False,provisional_design,Poseidon,
+uux0104,GAR,Naval,Atlantis II,Unselected; Atlantis II deferred,Design only; no installed replacement package found,False,deferred_research,Atlantis II,
+uux0105d1,GAR,Naval,Super Triton,Custom Republic Dreadnought,Design only; no installed replacement package found,False,provisional_design,Super Triton,
+ucl0001,CIS,Ground,ACU,Custom Super Mega Battle Droid Command Unit,Design only; no installed replacement package found,False,approved,ACU,
+ucl0002,CIS,Ground,Engineer,LM-432 Crab Droid Engineering Variant,Design only; no installed replacement package found,False,conditional,Engineer,
+ucl0102,CIS,Ground,Brackman,HAG-M Heavy Artillery Gun,Design only; no installed replacement package found,False,approved,Brackman,
+ucl0103,CIS,Ground,Loyalist,DSD1 Dwarf Spider Droid,Design only; no installed replacement package found,False,approved,Loyalist,
+ucl0104,CIS,Ground,Cobra,NR-N99 Persuader Tank Droid,Design only; no installed replacement package found,False,approved,Cobra,
+ucl0204,CIS,Ground,Adaptor,"Separatist Mobile Shield Generator, Super Tank-inspired",Design only; no installed replacement package found,False,approved,Adaptor,
+ucx0101,CIS,Ground,Megalith II,Heavy OG-9 Homing Spider Droid Variant,Design only; no installed replacement package found,False,approved,Megalith II,
+ucx0103,CIS,Ground,Bomb Bouncer,Custom CIS Bomb Bouncer,Design only; no installed replacement package found,False,approved,Bomb Bouncer,
+ucx0111,CIS,Ground,Cybranasaurus Rex,Heavy LM-432 Crab Droid Variant,Design only; no installed replacement package found,False,approved,Cybranasaurus Rex,
+ucx0117d1,CIS,Ground,Monkeylord,Custom CIS Experimental Spiderbot,Design only; no installed replacement package found,False,approved,Monkeylord,
+ucx0104d1,CIS,Ground,Cicada,Custom CIS Mobile Cloaking Generator,Design only; no installed replacement package found,False,approved,Cicada,
+uca0104,CIS,Air,Gemini,Vulture Droid Starfighter,Design only; no installed replacement package found,False,approved,Gemini,
+uca0103,CIS,Air,Renegade,Mechanized Assault Flyer / Droid Assault Flyer (MAF),Design only; no installed replacement package found,False,approved,Renegade,
+uca0901,CIS,Air,Dragon Fly,Sheathipede-class Transport Shuttle,Design only; no installed replacement package found,False,approved,Dragon Fly,
+uca0105d1,CIS,Air,Intellitron,Nantex-class Geonosian Starfighter,Design only; no installed replacement package found,False,approved,Intellitron,
+ucx0112,CIS,Air,Soul Ripper II,HMP Droid Gunship,Design only; no installed replacement package found,False,approved,Soul Ripper II,
+ucx0102,CIS,Air,Giant Transport,C-9979 Landing Craft,Design only; no installed replacement package found,False,approved,Giant Transport,
+ucs0103,CIS,Naval,Salem Class,Confederate Destroyer or CIS-style Salem remodel,Design only; no installed replacement package found,False,provisional,Salem Class,
+ucs0105,CIS,Naval,Executioner Class,Custom CIS Battleship using original Executioner hull,Design only; no installed replacement package found,False,approved,Executioner Class,
+ucs0901,CIS,Naval,Command Class,Custom CIS Carrier using original Command Class hull,Design only; no installed replacement package found,False,approved,Command Class,
+ucx0113,CIS,Naval,Kraken,Heavy Custom Trident-class Assault Ship Variant,Design only; no installed replacement package found,False,approved,Kraken,

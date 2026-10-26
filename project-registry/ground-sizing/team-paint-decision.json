@@ -1,0 +1,11 @@
+{
+  "removed_color_archive": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-03\\referenced-chatgpt-conversation-this-is-an\\outputs\\SC2-CloneWars\\local\\dev-game\\gamedata\\zzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_SPHATeamResearch_R1.scd",
+  "replacement_research_only_archive": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-03\\referenced-chatgpt-conversation-this-is-an\\outputs\\SC2-CloneWars\\local\\dev-game\\gamedata\\zzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_SPHAResearch_R1.scd",
+  "research_cost": 13,
+  "research_runtime_verified": false,
+  "issue_log_consulted": "C:/Users/gavad/Documents/Codex/2026-10-25/spha-t-jackhammer-handoff-user-chose/outputs/SPHA-T/Open-issues-2026-10-26.md",
+  "issue_log_finding": "Earlier research/name overlays did not reach visible DLC tooltip. No cost runtime success assumed. Source COST13 is retained; active engine resolution/spending still needs testing. Log does not supply a confirmed cost-edit method.",
+  "color_runtime_feedback": "Blue and yellow worked; purple appeared black. User rejected vehicle team paint for immersion.",
+  "preference": "Defer vehicle team-color rollout; revisit ownership indicators later. Existing unrelated vehicle color behavior not changed.",
+  "validation": "All24 reconstructed unit blueprints match pre-team-prototype snapshot exactly. SizingR3 retained; new archive contains only research source, byte-identical to cost13 version. Original SPHA model package unchanged."
+}

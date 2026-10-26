@@ -7,11 +7,11 @@ if not exist "%SC2_DEV_EXE%" (
     exit /b 1
 )
 if not exist "%~dp0local\dev-game\bin\GARDevModeInit.lua" (
-    echo GAR Dev Mode is missing. Use Launch-Skirmish-Without-Dev.cmd for a normal test.
+    echo V3 Dev Mode is missing. Use Launch-Skirmish-Without-Dev.cmd for a normal test.
     pause
     exit /b 1
 )
-echo Launching the Clone Wars reskin test copy with GAR Dev Mode available on F8.
+echo Launching the Clone Wars reskin test copy with V3 Dev Mode available on F8.
 echo Keep Steam running and confirm the game process uses this copy.
 if not exist "%~dp0local\logs" mkdir "%~dp0local\logs"
 cd /d "%~dp0local\dev-game\bin"

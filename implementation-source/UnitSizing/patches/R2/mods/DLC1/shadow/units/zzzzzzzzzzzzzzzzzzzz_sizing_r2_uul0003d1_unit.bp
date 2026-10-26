@@ -1,0 +1,14 @@
+UnitBlueprint {
+    Merge = true,
+    BlueprintId = 'uul0003d1',
+    Display = {
+        UniformScale = 0.108,
+    },
+    LifeBarOffset = 0.81,
+    SelectionSizeX = 1.728,
+    SelectionSizeZ = 2.052,
+    SelectionCenterOffsetZ = -0.108,
+    SelectionMeshOffsetX = 0.0,
+    SelectionMeshOffsetY = -1.35,
+    SelectionMeshOffsetZ = -0.108,
+}

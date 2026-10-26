@@ -1,0 +1,14 @@
+{
+  "sheets": [
+    "Unit comparison",
+    "Metric deltas",
+    "Weapon profiles",
+    "Conversion roster",
+    "Read me"
+  ],
+  "units": 46,
+  "metricRows": 874,
+  "weaponRows": 390,
+  "formulaRecalculationTest": "passed",
+  "nativeExcelVerified": false
+}

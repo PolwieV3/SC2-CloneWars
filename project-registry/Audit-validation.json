@@ -1,0 +1,14 @@
+{
+  "units": 46,
+  "GAR_slots": 25,
+  "CIS_slots": 21,
+  "installed_GAR_ground": 10,
+  "scalar_metric_rows": 874,
+  "weapon_profile_rows": 390,
+  "parsed_all_candidate_literal_patches": true,
+  "known_values_verified": true,
+  "numeric_method": "Static DLC-enabled skirmish reconstruction: vanilla literal source definitions + base/DLC installed full definitions and merge patches; native engine effective values not queried. Research upgrades, buffs, veterancy and difficulty are excluded. Does not execute Lua.",
+  "runtime_testing": "Not performed in this audit",
+  "game_changes": "None",
+  "snapshot_stability": "All installed package hashes still match at final verification"
+}

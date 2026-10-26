@@ -1,3 +1,5 @@
+> Historical reference: this document describes an earlier development stage. The current working 12-unit ground milestone and next steps are in [CURRENT-STATE.md](../CURRENT-STATE.md) and [MILESTONES.md](MILESTONES.md). Earlier “next unit” instructions and acceptance states are superseded.
+
 # TX-130 blaster appearance checkpoint
 
 Restart Launch-Skirmish-Test.cmd. Build a fresh tank, observe insignia while moving, then fire at an enemy and inspect the projectile trail. Revision 7 darkens the paint, bakes the insignia into the armor rather than overlaying geometry and adds service/radiator details.

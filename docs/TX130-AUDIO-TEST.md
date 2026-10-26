@@ -1,3 +1,5 @@
+> Historical reference: this document describes an earlier development stage. The current working 12-unit ground milestone and next steps are in [CURRENT-STATE.md](../CURRENT-STATE.md) and [MILESTONES.md](MILESTONES.md). Earlier “next unit” instructions and acceptance states are superseded.
+
 # TX-130 audio checkpoint 1
 
 The model milestone is accepted. This candidate redirects TX-130 movement and both main cannon variants to native Illuminate tank hover/energy-cannon events. It does not modify Illuminate units. Selection, destruction and anti-air missile audio remain unchanged in this first test.

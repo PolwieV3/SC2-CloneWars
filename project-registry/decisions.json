@@ -1,0 +1,459 @@
+{
+  "as_of": "2026-10-26",
+  "authority": "Latest explicit user decisions; preserve superseded history. Numeric data is generated from installed archives, not edited here.",
+  "factions": {
+    "UEF": "GAR",
+    "Cybran": "CIS",
+    "Illuminate": "Frozen"
+  },
+  "structures": "Deferred",
+  "units": [
+    {
+      "id": "uul0001",
+      "original": "ACU",
+      "replacement": "Custom GAR Command Walker/Vehicle",
+      "faction": "GAR",
+      "domain": "Ground",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "uul0002",
+      "original": "Engineer",
+      "replacement": "ISP Engineer",
+      "faction": "GAR",
+      "domain": "Ground",
+      "installed_prototype": true,
+      "notes": "ISP Engineer working in game; custom engineering arm. Clone crew deferred."
+    },
+    {
+      "id": "uul0003d1",
+      "original": "Field Engineer",
+      "replacement": "ISP Field Engineer",
+      "faction": "GAR",
+      "domain": "Ground",
+      "installed_prototype": true,
+      "notes": "ISP Field Engineer installed with illuminated pylon; same base hull size as Engineer. Earlier rear texture/pylon follow-up remains separate from general sizing acceptance."
+    },
+    {
+      "id": "uul0101",
+      "original": "Rock Head",
+      "replacement": "TX-130 Saber Tank",
+      "faction": "GAR",
+      "domain": "Ground",
+      "installed_prototype": true,
+      "notes": "Current tank sizing accepted; further balance and effects checks remain."
+    },
+    {
+      "id": "uul0102",
+      "original": "Demolisher",
+      "replacement": "AT-AP",
+      "faction": "GAR",
+      "domain": "Ground",
+      "installed_prototype": true,
+      "notes": "AT-AP native ID confirmed. R3 scale matches reference AT-AP/AT-TE height ratio; rest-pose and gun-inclusive endpoints limit exact lore claims."
+    },
+    {
+      "id": "uul0103",
+      "original": "Titan",
+      "replacement": "AT-RT",
+      "faction": "GAR",
+      "domain": "Ground",
+      "installed_prototype": true,
+      "notes": "AT-RT native ID confirmed; compact scout enlarged for readability in R2."
+    },
+    {
+      "id": "uul0104",
+      "original": "Meteor",
+      "replacement": "A5-RX Spread-Missile Variant",
+      "faction": "GAR",
+      "domain": "Ground",
+      "installed_prototype": true,
+      "notes": "User reports A5-RX working in game October26; current sizing accepted. Earlier rework status superseded by working ground milestone."
+    },
+    {
+      "id": "uul0105",
+      "original": "Archanist",
+      "replacement": "UT-AA",
+      "faction": "GAR",
+      "domain": "Ground",
+      "installed_prototype": true,
+      "notes": "Anti-air plus tactical missile interception. Former optional ground-gun research cleanup remains pending."
+    },
+    {
+      "id": "uul0201",
+      "original": "P-Shield",
+      "replacement": "RTT Shield Transport",
+      "faction": "GAR",
+      "domain": "Ground",
+      "installed_prototype": true,
+      "notes": "RTT shield transport; custom shield adaptation. Vehicle team-paint rollout deferred."
+    },
+    {
+      "id": "uul0203",
+      "original": "Sharp Shooter",
+      "replacement": "UT-AT",
+      "faction": "GAR",
+      "domain": "Ground",
+      "installed_prototype": true,
+      "notes": "Ground tank in old Sharp Shooter slot; three guns,75/30/30 damage,RateOfFire .725 each. No longer the anti-missile role."
+    },
+    {
+      "id": "uux0101",
+      "original": "Fatboy II",
+      "replacement": "HAVw A6 Juggernaut",
+      "faction": "GAR",
+      "domain": "Ground",
+      "installed_prototype": true,
+      "notes": "User accepted ground sizing; tower retained. Two15% speed changes still yield +32.25% vs vanilla. R1 visual size +60% retained."
+    },
+    {
+      "id": "uux0111",
+      "original": "King Kriptor",
+      "replacement": "AT-TE",
+      "faction": "GAR",
+      "domain": "Ground",
+      "installed_prototype": true,
+      "notes": "AT-TE heavy assault conversion; R3 adds5% to R2 size. User accepts current ground appearance. Reported terrain-obstruction firing issue remains deferred."
+    },
+    {
+      "id": "uux0113d1",
+      "original": "Jackhammer",
+      "replacement": "SPHA-T",
+      "faction": "GAR",
+      "domain": "Ground",
+      "installed_prototype": true,
+      "notes": "SPHA-T working ground attack and appearance user accepted. Test8 beam/deploy behavior retained; terrain-obstruction targeting unresolved. R1 doubled visual size. Team-paint prototype removed after blue/yellow worked but purple appeared black; ownership indicators deferred. Research source cost13 requested, runtime spending not verified. DLC research NAME/INFO rename verified separately."
+    },
+    {
+      "id": "uua0101",
+      "original": "Wasp",
+      "replacement": "Alpha-3 Nimbus V-wing",
+      "faction": "GAR",
+      "domain": "Air",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "uua0102",
+      "original": "Eagle Eye",
+      "replacement": "BTL-B Y-wing",
+      "faction": "GAR",
+      "domain": "Air",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "uua0103",
+      "original": "Broadsword",
+      "replacement": "LAAT (variant TBD)",
+      "faction": "GAR",
+      "domain": "Air",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "uua0901",
+      "original": "C18 Star Lifter",
+      "replacement": "Nu-class Attack Shuttle",
+      "faction": "GAR",
+      "domain": "Air",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "uux0102",
+      "original": "AC-1000 Terror",
+      "replacement": "CR90 Corvette",
+      "faction": "GAR",
+      "domain": "Air",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "uux0103",
+      "original": "C-230 Star King Extreme",
+      "replacement": "Charger c70 Retrofit",
+      "faction": "GAR",
+      "domain": "Air",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "uux0112",
+      "original": "Mega Fortress",
+      "replacement": "Pelta / Acclamator / Venator test candidates; final choice open",
+      "faction": "GAR",
+      "domain": "Air",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "uus0102",
+      "original": "Mastadon",
+      "replacement": "Republic Aquatic Cruiser",
+      "faction": "GAR",
+      "domain": "Naval",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "uus0104",
+      "original": "Tigershark",
+      "replacement": "KE-UW33 Kamino Submarine",
+      "faction": "GAR",
+      "domain": "Naval",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "uus0105",
+      "original": "Poseidon",
+      "replacement": "Republic Advanced Cruiser",
+      "faction": "GAR",
+      "domain": "Naval",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "uux0104",
+      "original": "Atlantis II",
+      "replacement": "Unselected; Atlantis II deferred",
+      "faction": "GAR",
+      "domain": "Naval",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "uux0105d1",
+      "original": "Super Triton",
+      "replacement": "Custom Republic Dreadnought",
+      "faction": "GAR",
+      "domain": "Naval",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "ucl0001",
+      "original": "ACU",
+      "replacement": "Custom Super Mega Battle Droid Command Unit",
+      "faction": "CIS",
+      "domain": "Ground",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "ucl0002",
+      "original": "Engineer",
+      "replacement": "LM-432 Crab Droid Engineering Variant",
+      "faction": "CIS",
+      "domain": "Ground",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "ucl0102",
+      "original": "Brackman",
+      "replacement": "HAG-M Heavy Artillery Gun",
+      "faction": "CIS",
+      "domain": "Ground",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "ucl0103",
+      "original": "Loyalist",
+      "replacement": "DSD1 Dwarf Spider Droid",
+      "faction": "CIS",
+      "domain": "Ground",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "ucl0104",
+      "original": "Cobra",
+      "replacement": "NR-N99 Persuader Tank Droid",
+      "faction": "CIS",
+      "domain": "Ground",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "ucl0204",
+      "original": "Adaptor",
+      "replacement": "Separatist Mobile Shield Generator, Super Tank-inspired",
+      "faction": "CIS",
+      "domain": "Ground",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "ucx0101",
+      "original": "Megalith II",
+      "replacement": "Heavy OG-9 Homing Spider Droid Variant",
+      "faction": "CIS",
+      "domain": "Ground",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "ucx0103",
+      "original": "Bomb Bouncer",
+      "replacement": "Custom CIS Bomb Bouncer",
+      "faction": "CIS",
+      "domain": "Ground",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "ucx0111",
+      "original": "Cybranasaurus Rex",
+      "replacement": "Heavy LM-432 Crab Droid Variant",
+      "faction": "CIS",
+      "domain": "Ground",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "ucx0117d1",
+      "original": "Monkeylord",
+      "replacement": "Custom CIS Experimental Spiderbot",
+      "faction": "CIS",
+      "domain": "Ground",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "ucx0104d1",
+      "original": "Cicada",
+      "replacement": "Custom CIS Mobile Cloaking Generator",
+      "faction": "CIS",
+      "domain": "Ground",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "uca0104",
+      "original": "Gemini",
+      "replacement": "Vulture Droid Starfighter",
+      "faction": "CIS",
+      "domain": "Air",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "uca0103",
+      "original": "Renegade",
+      "replacement": "Mechanized Assault Flyer / Droid Assault Flyer (MAF)",
+      "faction": "CIS",
+      "domain": "Air",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "uca0901",
+      "original": "Dragon Fly",
+      "replacement": "Sheathipede-class Transport Shuttle",
+      "faction": "CIS",
+      "domain": "Air",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "uca0105d1",
+      "original": "Intellitron",
+      "replacement": "Nantex-class Geonosian Starfighter",
+      "faction": "CIS",
+      "domain": "Air",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "ucx0112",
+      "original": "Soul Ripper II",
+      "replacement": "HMP Droid Gunship",
+      "faction": "CIS",
+      "domain": "Air",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "ucx0102",
+      "original": "Giant Transport",
+      "replacement": "C-9979 Landing Craft",
+      "faction": "CIS",
+      "domain": "Air",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "ucs0103",
+      "original": "Salem Class",
+      "replacement": "Confederate Destroyer or CIS-style Salem remodel",
+      "faction": "CIS",
+      "domain": "Naval",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "ucs0105",
+      "original": "Executioner Class",
+      "replacement": "Custom CIS Battleship using original Executioner hull",
+      "faction": "CIS",
+      "domain": "Naval",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "ucs0901",
+      "original": "Command Class",
+      "replacement": "Custom CIS Carrier using original Command Class hull",
+      "faction": "CIS",
+      "domain": "Naval",
+      "installed_prototype": false,
+      "notes": ""
+    },
+    {
+      "id": "ucx0113",
+      "original": "Kraken",
+      "replacement": "Heavy Custom Trident-class Assault Ship Variant",
+      "faction": "CIS",
+      "domain": "Naval",
+      "installed_prototype": false,
+      "notes": ""
+    }
+  ],
+  "superseded": [
+    {
+      "unit": "uul0201",
+      "old": "UT-AT shield/support variant",
+      "current": "RTT Shield Transport"
+    },
+    {
+      "unit": "uul0203",
+      "old": "A5-RX precision variant; later UT-AT anti-missile",
+      "current": "UT-AT tank; old anti-missile slot retained"
+    },
+    {
+      "unit": "uul0105",
+      "old": "AA with optional ground gun",
+      "current": "UT-AA with AA + tactical missile interception"
+    },
+    {
+      "unit": "uux0113d1",
+      "old": "AV-7 Antivehicle Cannon",
+      "current": "SPHA-T; AV-7 only a future artillery-structure candidate"
+    }
+  ],
+  "ground_milestone": {
+    "date": "2026-10-26",
+    "ground_milestone": "User confirms working UEF/GAR ground units and approves current appearance after sizingR3.",
+    "installed_ground_replacements": 12,
+    "acu": "Deferred",
+    "team_paint": "SPHA prototype removed at user request; defer further vehicle paint/ownership work",
+    "research_cost": "SPHA DLC source requests13 research points (10+3); in-game cost/spending not confirmed",
+    "research_names": "SPHA-T and ISP Field Engineer DLC titles/descriptions verified in game by user, per docs/DLC-RESEARCH-RENAMING.md",
+    "limits": "Working milestone does not establish full balance, pathfinding, multiplayer, every animation or research upgrade acceptance."
+  },
+  "sizing_authority": "User-approved SizingR3; per-axis mesh bounds and exact scales in ground-sizing/current-measurements.json."
+}

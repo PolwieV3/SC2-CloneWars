@@ -1,0 +1,8 @@
+{
+  "as_of": "2026-10-26",
+  "authored_script_files": 111,
+  "unit_notes": 46,
+  "installed_ground_replacements": 12,
+  "excluded": "Game/model binaries, imported asset textures, source archives and vendor plugins. Preexisting unrelated editor/worktree changes left intact.",
+  "workbook": "Historical October25 XLSX retained; current CSV/JSON regenerated."
+}

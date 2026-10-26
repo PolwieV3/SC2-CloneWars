@@ -1,0 +1,309 @@
+{
+  "revision": "Sizing R3",
+  "date": "2026-10-26",
+  "installed_path": "C:\\Users\\gavad\\Documents\\Codex\\2026-10-03\\referenced-chatgpt-conversation-this-is-an\\outputs\\SC2-CloneWars\\local\\dev-game\\gamedata\\zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+  "sha256": "4857cdfc01c3f2d91e8dcc8032a70aeee1339019a75ab1a4c19864bc4be5c4e8",
+  "changes": [
+    {
+      "id": "uul0002",
+      "name": "ISP Engineer (custom engineering variant)",
+      "factor": 1.0,
+      "old_scale": 0.108,
+      "new_scale": 0.108,
+      "old_lwh": [
+        2.256364963531494,
+        2.4057635078430177,
+        0.9065996852517128
+      ],
+      "new_lwh": [
+        2.256364963531494,
+        2.4057635078430177,
+        0.9065996852517128
+      ],
+      "reason": "Retain R2 visual size; normalize health bar"
+    },
+    {
+      "id": "uul0003d1",
+      "name": "ISP Field Engineer (custom engineering variant)",
+      "factor": 1.0,
+      "old_scale": 0.108,
+      "new_scale": 0.108,
+      "old_lwh": [
+        2.256364963531494,
+        2.4057635078430177,
+        1.598063212931156
+      ],
+      "new_lwh": [
+        2.256364963531494,
+        2.4057635078430177,
+        1.598063212931156
+      ],
+      "reason": "Retain R2 visual size; normalize health bar"
+    },
+    {
+      "id": "uul0101",
+      "name": "TX-130 Saber Tank",
+      "factor": 1.15,
+      "old_scale": 0.0945,
+      "new_scale": 0.108675,
+      "old_lwh": [
+        3.19318572807312,
+        2.278833772659302,
+        1.092656824529171
+      ],
+      "new_lwh": [
+        3.672163587284088,
+        2.6206588385581973,
+        1.2565553482085465
+      ],
+      "reason": "User accepted suggested +15% TX-130 increase"
+    },
+    {
+      "id": "uul0102",
+      "name": "AT-AP",
+      "factor": 1.3425257679931626,
+      "old_scale": 0.1319625,
+      "new_scale": 0.177163057,
+      "old_lwh": [
+        5.111013781356812,
+        3.2650268228530885,
+        3.4990064084776944
+      ],
+      "new_lwh": [
+        6.861667702039692,
+        4.383382642869118,
+        4.697506265754514
+      ],
+      "reason": "Match AT-AP/AT-TE reference height ratio (10.97/9.57), after AT-TE +5%; keep mesh proportions"
+    },
+    {
+      "id": "uul0103",
+      "name": "AT-RT",
+      "factor": 1.0,
+      "old_scale": 0.09,
+      "new_scale": 0.09,
+      "old_lwh": [
+        1.5780224847793578,
+        0.9509417581558227,
+        2.204452840089798
+      ],
+      "new_lwh": [
+        1.5780224847793578,
+        0.9509417581558227,
+        2.204452840089798
+      ],
+      "reason": "Retain R2 visual size; normalize health bar"
+    },
+    {
+      "id": "uul0104",
+      "name": "A5-RX Spread-Missile Variant",
+      "factor": 1.0,
+      "old_scale": 0.0703125,
+      "new_scale": 0.0703125,
+      "old_lwh": [
+        3.6779795140028,
+        2.069344036281109,
+        1.968102372251451
+      ],
+      "new_lwh": [
+        3.6779795140028,
+        2.069344036281109,
+        1.968102372251451
+      ],
+      "reason": "Retain R2 visual size; normalize health bar"
+    },
+    {
+      "id": "uul0105",
+      "name": "UT-AA",
+      "factor": 1.0,
+      "old_scale": 0.3315,
+      "new_scale": 0.3315,
+      "old_lwh": [
+        4.164540040254593,
+        3.216302357196808,
+        3.0681003604978323
+      ],
+      "new_lwh": [
+        4.164540040254593,
+        3.216302357196808,
+        3.0681003604978323
+      ],
+      "reason": "Retain R2 visual size; normalize health bar"
+    },
+    {
+      "id": "uul0201",
+      "name": "RTT Shield Transport",
+      "factor": 1.0,
+      "old_scale": 0.16335,
+      "new_scale": 0.16335,
+      "old_lwh": [
+        5.867182747650146,
+        2.943394623327255,
+        1.4753806378126144
+      ],
+      "new_lwh": [
+        5.867182747650146,
+        2.943394623327255,
+        1.4753806378126144
+      ],
+      "reason": "Retain R2 visual size; normalize health bar"
+    },
+    {
+      "id": "uul0203",
+      "name": "UT-AT",
+      "factor": 1.0,
+      "old_scale": 0.408,
+      "new_scale": 0.408,
+      "old_lwh": [
+        7.079236724853515,
+        3.61451118850708,
+        2.03030135178566
+      ],
+      "new_lwh": [
+        7.079236724853515,
+        3.61451118850708,
+        2.03030135178566
+      ],
+      "reason": "Retain R2 visual size; normalize health bar"
+    },
+    {
+      "id": "uux0101",
+      "name": "HAVw A6 Juggernaut",
+      "factor": 1.0,
+      "old_scale": 0.288,
+      "new_scale": 0.288,
+      "old_lwh": [
+        15.749851135253905,
+        7.814985534667968,
+        10.053261225700378
+      ],
+      "new_lwh": [
+        15.749851135253905,
+        7.814985534667968,
+        10.053261225700378
+      ],
+      "reason": "Retain R2 visual size; normalize health bar"
+    },
+    {
+      "id": "uux0111",
+      "name": "AT-TE",
+      "factor": 1.05,
+      "old_scale": 0.07475,
+      "new_scale": 0.0784875,
+      "old_lwh": [
+        8.581213257789612,
+        5.481510025024414,
+        3.902863650932908
+      ],
+      "new_lwh": [
+        9.010273920679094,
+        5.755585526275635,
+        4.098006833479554
+      ],
+      "reason": "User requested +5% from current R2 size"
+    },
+    {
+      "id": "uux0113d1",
+      "name": "SPHA-T",
+      "factor": 1.0,
+      "old_scale": 0.2,
+      "new_scale": 0.2,
+      "old_lwh": [
+        23.85291900634766,
+        8.807125854492188,
+        11.193962760269642
+      ],
+      "new_lwh": [
+        23.85291900634766,
+        8.807125854492188,
+        11.193962760269642
+      ],
+      "reason": "Retain R2 visual size; normalize health bar"
+    }
+  ],
+  "effective_changed_fields": {
+    "uua0103": [],
+    "uua0101": [],
+    "uul0002": [
+      "LifeBarOffset",
+      "LifeBarSize"
+    ],
+    "uul0203": [
+      "LifeBarOffset",
+      "LifeBarSize"
+    ],
+    "uul0105": [
+      "LifeBarOffset",
+      "LifeBarSize"
+    ],
+    "uux0103": [],
+    "uua0102": [],
+    "uux0105d1": [],
+    "uus0102": [],
+    "uux0104": [],
+    "uul0103": [
+      "LifeBarOffset",
+      "LifeBarSize"
+    ],
+    "uux0102": [],
+    "uul0102": [
+      "Display.UniformScale",
+      "LifeBarOffset",
+      "LifeBarSize",
+      "SelectionCenterOffsetZ",
+      "SelectionMeshOffsetY",
+      "SelectionMeshOffsetZ",
+      "SelectionSizeX",
+      "SelectionSizeZ"
+    ],
+    "uus0105": [],
+    "uul0101": [
+      "Display.UniformScale",
+      "LifeBarOffset",
+      "LifeBarSize",
+      "SelectionCenterOffsetZ",
+      "SelectionMeshOffsetY",
+      "SelectionMeshOffsetZ",
+      "SelectionSizeX",
+      "SelectionSizeZ"
+    ],
+    "uul0201": [
+      "LifeBarOffset",
+      "LifeBarSize"
+    ],
+    "uua0901": [],
+    "uux0112": [],
+    "uux0113d1": [
+      "LifeBarHeight",
+      "LifeBarOffset",
+      "LifeBarSize"
+    ],
+    "uux0111": [
+      "Display.UniformScale",
+      "LifeBarHeight",
+      "LifeBarOffset",
+      "LifeBarSize",
+      "SelectionMeshOffsetY",
+      "SelectionMeshOffsetZ",
+      "SelectionSizeX",
+      "SelectionSizeZ"
+    ],
+    "uul0104": [
+      "LifeBarOffset",
+      "LifeBarSize"
+    ],
+    "uus0104": [],
+    "uul0003d1": [
+      "LifeBarOffset",
+      "LifeBarSize"
+    ],
+    "uux0101": [
+      "LifeBarHeight",
+      "LifeBarOffset",
+      "LifeBarSize"
+    ]
+  },
+  "validation": "All 24 roster entries reconstructed and compared to expected blueprints. 12 GAR meshes unchanged; all 12 resulting dimensions match requested factors. Existing package SHA256 values unchanged. Archive CRC and installed copy match passed. Runtime not tested.",
+  "scope": "Visual UniformScale, selection sizes/offsets, and LifeBarOffset/LifeBarSize/LifeBarHeight only. Collision boxes, navigation, physics, weapons, abilities, research, costs and all other fields unchanged.",
+  "rollback": "Close/restart development game after removing only zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd from its gamedata folder. Removing R3 restores R2; keep the R1 and R2 packages installed. Existing packages were not edited."
+}

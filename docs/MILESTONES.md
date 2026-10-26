@@ -1,14 +1,22 @@
-# Unit-by-unit milestones
+# Current milestones — October 26, 2026
 
-Complete each unit in this order, then move to the next unit.
+## Working UEF/GAR ground milestone — accepted
 
-## TX-130 Saber Tank â€” UUL0101
+All 12 selected ground replacements are installed and working locally. The user accepted the current lineup and visual sizing after R3: ISP Engineer, ISP Field Engineer, TX-130, AT-AP, AT-RT, A5-RX, UT-AA, RTT Shield Transport, UT-AT, HAVw A6 Juggernaut, AT-TE and SPHA-T.
 
-- **Name change worked â€” PASS.** User screenshot and launch log confirm the selected-unit rename in the development copy with DLC active. User also reports normal movement. Additional combat validation is not a prerequisite for starting the visual work; the rename changes only name fields.
-- **Model Changed — PASS.** User confirmed revision 6 works and looks good. Revision 7 now addresses reported insignia flicker with baked markings, darker paint and minor body details; these changes await runtime review.
-- **Sounds Changed — IN PROGRESS.** First audio-routing candidate uses native energy-cannon and hover-loop events on TX-130 only. This is temporary stock SC2 audio, not final Star Wars audio. User requests original classic Battlefront TX-130 firing and hover audio. Source pack identified but no original audio obtained yet; custom sound banks and runtime acceptance remain pending.
-- **Tweaked Correctly â€” AFTER SOUNDS.** Refine silhouette, scale, paint, team accents, weapon alignment, animation presentation and audio levels. Keep the agreed SC2 simulation mechanics unless a specific later change is requested.
+The former rule to finish TX-130 before beginning another model is historical and superseded by this milestone. This does not mean all custom audio, balance, AI, research upgrades or multiplayer tests are complete.
 
-## Next unit
+## Current follow-up work
 
-Begin only after these four TX-130 milestones are accepted. The Republic/CIS conversion matrix remains the foundation for choosing its vanilla unit role.
+- Keep accepted R3 sizes as the baseline; review collision/navigation clearance separately.
+- SPHA-T and AT-TE terrain-obstruction firing remain reported open issues.
+- Confirm the SPHA-T 13-point unlock cost/spending in a normal fresh match. Research title/description renaming is separately verified.
+- Engineer-specific rear texture/pylon detail checks and redundant UT-AA ground-gun research remain tracked.
+- Vehicle team-paint rollout is deferred for immersion. SPHA prototype removed; original tan appearance restored. Ownership indicators can be revisited later.
+- Custom Star Wars audio and final presentation/balance remain future polish rather than a reason to describe the project as a two-unit prototype.
+
+## Deferred scope
+
+ACU is deferred at the user’s request. GAR air/naval, CIS, buildings and campaign work have not been promoted to the next active implementation task. Illuminate remains frozen.
+
+See [current state](../CURRENT-STATE.md), [ground milestone](../project-registry/GROUND-MILESTONE-2026-10-26.md), and the [current registry](../project-registry/README.md) for source hashes, exact scales and limitations.
