@@ -1,4 +1,20 @@
-# Working UEF/GAR ground milestone — October26,2026
+# Working skirmish baseline (November 17, 2026)
+
+The local dev build starts with `Launch-Skirmish-Test.cmd`. The successful run mounted GAR Dev Mode for F8 and completed blueprint loading. Use the [archive fingerprints](project-registry/working-baseline-2026-11-17.json) to identify the installed packages and shared data from that run.
+
+| Unit | Installed state |
+| --- | --- |
+| AAT | Separate Cybran Land unlock in DLC slot `UCL0107`. The installed blueprint has 1,500 HP, costs 85 mass and 220 energy, and has a main cannon range of 26. The side guns use a scripted range cap of 16. The range ring still needs an in-game check. |
+| NR-N99 Persuader | Replaces Cobra (`UCL0104`). Installed range is 40, with 25.5 damage per shot and 0.6 shots per second per gun. The accuracy change still needs an in-game check. |
+| DSD1 Dwarf Spider Droid | Installed over Loyalist (`UCL0103`). |
+| Separatist Super Tank | Rolled back. Adaptor ADV (`UCL0204`) is the active slot. |
+| Clone Squad | The experimental local package remains installed. Its firing pose and handling still require testing. |
+
+The startup crash came from installed archives that had lost inherited Windows access. Recovery recreated the affected files under `local/dev-game/gamedata` with matching SHA-256 hashes and the folder's normal inherited access. Stage replacement archives inside `gamedata` before renaming them into place so they inherit its permissions.
+
+A fresh checkout requires the local development game and its generated packages. See [version control and local workspace](docs/VERSION-CONTROL.md) for the source and asset boundaries.
+
+## Working UEF/GAR ground milestone — October26,2026
 
 Twelve UEF ground replacements are working locally; the user approved the current lineup and sizing after R3. ACU is deferred. GAR air/naval and CIS remain design plans; buildings are deferred and Illuminate is frozen.
 

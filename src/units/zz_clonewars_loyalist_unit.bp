@@ -1,0 +1,11 @@
+-- First pass for the Loyalist conversion. Inherit the model and simulation data.
+UnitBlueprint {
+    Merge = true,
+    BlueprintId = 'ucl0103',
+    Display = {
+        DisplayName = 'Dwarf Spider Droid',
+    },
+    General = {
+        UnitName = 'Dwarf Spider Droid',
+    },
+}

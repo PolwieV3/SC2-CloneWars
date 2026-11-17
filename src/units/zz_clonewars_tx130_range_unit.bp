@@ -1,0 +1,8 @@
+UnitBlueprint {
+    Merge = true,
+    BlueprintId = 'uul0101',
+    Weapons = {
+        [1] = { MaxRadius = 24 },
+        [2] = { MaxRadius = 24 },
+    },
+}

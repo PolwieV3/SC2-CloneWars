@@ -1,0 +1,344 @@
+{
+  "date": "2026-11-17",
+  "scope": "Archive fingerprints of the launch-verified local pre-Super Tank build.",
+  "launcher": "Launch-Skirmish-Test.cmd",
+  "verification": {
+    "user_confirmed_launch": true,
+    "gar_dev_mode_mounted": true,
+    "blueprints_loaded": true
+  },
+  "archives": [
+    {
+      "path": "gamedata/_MapPack_Autumn2026-Part-1_v2.0.0_by_BDFTM.scd",
+      "sha256": "db4e1442d066367575e6a45f361fd76b9e9fe09e850ce270cddf379464a09c4a"
+    },
+    {
+      "path": "gamedata/a_SC2_CloneWars_UnitNames.scd",
+      "sha256": "6a054d3096a99ee9846d14a7ea0bd13ab356a76c7df4b489620af9fe6ed7acc9"
+    },
+    {
+      "path": "gamedata/bp.scd",
+      "sha256": "6cb131d10d5fd707d90abe3a4b32b15db8d3e940fe74f73784178a193ca3769c"
+    },
+    {
+      "path": "gamedata/effects.scd",
+      "sha256": "fea57556fd6eb47c35d237e104bfb0b7225e96bb700f31b62a49f7a78428ceeb"
+    },
+    {
+      "path": "gamedata/env.scd",
+      "sha256": "d72eac35ad5ef1681e49a6fc8f7ed23187861361583e911192703b3683572338"
+    },
+    {
+      "path": "gamedata/fonts.scd",
+      "sha256": "058fcbe9ef4166f8870141e8e3488b4ef552a1a9e4124f1c4d6bc6d13184a020"
+    },
+    {
+      "path": "gamedata/loc_US.scd",
+      "sha256": "8e6c0a069b9b8970b060bcacaf29eadbefd2b6383698881bbafb35fdd6e917b0"
+    },
+    {
+      "path": "gamedata/lua.scd",
+      "sha256": "48461da3c30fb3cac14f28b56a7edb9f280aac77f27a3cc6bb9ce0c78a9402a3"
+    },
+    {
+      "path": "gamedata/maps.scd",
+      "sha256": "4cf0ea0ec404f99e3f46ccbe292c32b6e7d34587d975961c724ca8a0665fc4cb"
+    },
+    {
+      "path": "gamedata/meshes.scd",
+      "sha256": "d4c17781eadbefb11a9429be77133586d4f1c72155fa5e4982c9b4bef2fc18e1"
+    },
+    {
+      "path": "gamedata/projectiles.scd",
+      "sha256": "3b5a803016acdd09f4d3b96fa4f90095f8da203b82896974c9c19647e342db38"
+    },
+    {
+      "path": "gamedata/props.scd",
+      "sha256": "9251445c92cda77e5b5fef4b3a57fe4220cca9c82dbe9c35146ae4795ccc6a69"
+    },
+    {
+      "path": "gamedata/textures.scd",
+      "sha256": "f6e23dd70895667aad6fedbf33ebabfb0be2012d06a450f275a4fe09394af7ef"
+    },
+    {
+      "path": "gamedata/ui.scd",
+      "sha256": "fd628cef9a743a554c1c03554328c01fbf3a3d47a55b699fa86abfad0ed105ce"
+    },
+    {
+      "path": "gamedata/uncompiled_lua.scd",
+      "sha256": "e2a6ebc74f996f030a746f7da777537641a49d5682db4776835473f2e5f1824c"
+    },
+    {
+      "path": "gamedata/units.scd",
+      "sha256": "0012ad7b487c0a4107b24586ed9a8793f45c47ad533fd752c114381ef495e519"
+    },
+    {
+      "path": "gamedata/z_diff1.scd",
+      "sha256": "10fcc0b0b05af723a5a3b49201dfd758228f9670dfd4f6f290d306da59a03b34"
+    },
+    {
+      "path": "gamedata/z_dlc1.scd",
+      "sha256": "1334c31ae76a842e1f7874688031251540689f49154e9f7bdba098b2b3c33621"
+    },
+    {
+      "path": "gamedata/z_dlc1_map_shared.scd",
+      "sha256": "84184db0c468ce6f43f4605e04348e938b3add11b51071d541e9995d24dd78dc"
+    },
+    {
+      "path": "gamedata/z_lua_dlc1.scd",
+      "sha256": "dcf4ca2fa701f9845dad8855d28ee3d4e620cd42e640825dfdcd6e4dd432ab3c"
+    },
+    {
+      "path": "gamedata/z_uncompiled_lua_dlc1.scd",
+      "sha256": "7a3eaad3e3cbed2461cd7abbe9bceb56271a97135beaf47401ee3b69fad8cdcf"
+    },
+    {
+      "path": "gamedata/zz_SC2_CloneWars_ATAP_Model.scd",
+      "sha256": "cc89ef4766185fce278ae975dfce55b96b59f03f294e5c331b44e80f3ffa6d17"
+    },
+    {
+      "path": "gamedata/zz_SC2_CloneWars_ATAP_Name.scd",
+      "sha256": "4f453120d4a50b17a0202a78a294adef1cf01033eeda66cda496eb010938c356"
+    },
+    {
+      "path": "gamedata/zz_SC2_CloneWars_ATRT_Model.scd",
+      "sha256": "b77305d7a09f95ff0eb2fdccde6ba47921d2db583c0be94c21c0c8173db291e7"
+    },
+    {
+      "path": "gamedata/zz_SC2_CloneWars_CIS_Loyalist_Name.scd",
+      "sha256": "625027c8218d9915851a34557b8bc2346ee727ab32ae0172fa797eb8f60a4362"
+    },
+    {
+      "path": "gamedata/zz_SC2_CloneWars_Juggernaut_Model.scd",
+      "sha256": "1df6fe53e1bdd083fa6ee63fca4af5254620790a9d1400ad3d34d7d2c7bb933a"
+    },
+    {
+      "path": "gamedata/zz_SC2_CloneWars_POC.scd",
+      "sha256": "89d62dfa204ac8bcd91839c81f33ded9947666d327ed406106b30a8ae30fc82e"
+    },
+    {
+      "path": "gamedata/zz_SC2_CloneWars_RTTShield_Model.scd",
+      "sha256": "ee88e3403f3711b30b6b7dc26158a6c5f7c1a9d2205524a2859b2d57c8c4456c"
+    },
+    {
+      "path": "gamedata/zz_SC2_CloneWars_TX130_Audio.scd",
+      "sha256": "5b0c5f170cad7da26071e1b95d5c7cafb5852657bf4d8ee042b1f553559051af"
+    },
+    {
+      "path": "gamedata/zz_SC2_CloneWars_TX130_Blaster.scd",
+      "sha256": "a83bd18618456055a52dbe302700a7d876855d821ff2ec5f0671a87b92f28c9a"
+    },
+    {
+      "path": "gamedata/zz_SC2_CloneWars_TX130_Model.scd",
+      "sha256": "5e314c1becc1178180e3d3c92629df4d5d5a88200f649716b33c6003f104e86a"
+    },
+    {
+      "path": "gamedata/zz_SC2_CloneWars_UTAA_Model.scd",
+      "sha256": "62fbdc6b897bb6ce47166307cd5d6f9e1a8f3bcc9f120f7c2673e0514d5ca4e7"
+    },
+    {
+      "path": "gamedata/zz_SC2_CloneWars_UTAT_Model.scd",
+      "sha256": "24726fca36fb016486082611351bee9554d5537a31d71a1ae95be0d1ab1b6988"
+    },
+    {
+      "path": "gamedata/zzzz_SC2_CloneWars_A5RX_Test.scd",
+      "sha256": "6bb4b3ee8ace503a37ad4f6cd615c7126e9bd728c73815eef74abe35aa22bb2a"
+    },
+    {
+      "path": "gamedata/zzzz_SC2_CloneWars_CIS_DSD1_Test.scd",
+      "sha256": "4b20b929a1eff80d316b5e8197ea16e520f89b1a3e8d28d82527a55389e995a9"
+    },
+    {
+      "path": "gamedata/zzzz_SC2_CloneWars_CIS_NRN99_Test.scd",
+      "sha256": "7c6a92bcb042db760118a88d7d9646ee03aa0f29e4784bfb5c2efeb993c68c9e"
+    },
+    {
+      "path": "gamedata/zzzzz_SC2_CloneWars_Juggernaut_Name.scd",
+      "sha256": "383ec7bef256a7f748b438921fd5405150142be1766066a16e884422195daadc"
+    },
+    {
+      "path": "gamedata/zzzzzz_SC2_CloneWars_ATTE.scd",
+      "sha256": "632b8c13691f5f6817f355921559ad7facc3cb6098ecc6110f9fd32a36c22f22"
+    },
+    {
+      "path": "gamedata/zzzzzz_SC2_CloneWars_Juggernaut_Balance.scd",
+      "sha256": "ad75b49c6dc0ddc644130bcd6f842ad0d2b7793a553a94b7151eea32689a5501"
+    },
+    {
+      "path": "gamedata/zzzzzz_SC2_CloneWars_SPHA.scd",
+      "sha256": "ff756ad3e784c6647a101b484ce3eb6fede2c6d5eb61f85fef22d826986061c6"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzz_SC2_CloneWars_UnitNames.scd",
+      "sha256": "6a054d3096a99ee9846d14a7ea0bd13ab356a76c7df4b489620af9fe6ed7acc9"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzz_SC2_CloneWars_ATTE_Range.scd",
+      "sha256": "34b464bb1e5ba8ab33625e939776d9504ff3fce29aed4642e73e15751d38e553"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzz_SC2_CloneWars_TX130_Range.scd",
+      "sha256": "d9afc555c52690aadc22590124fe5ca15dfb76f23bb5aef8b8b60641597fcbee"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzz_SC2_CloneWars_Juggernaut_Cost.scd",
+      "sha256": "884a0f421adb7afd8fe26da625ef015605d1cdb3832c2d001dcb233b10be186f"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzz_SC2_CloneWars_MovementSpeed.scd",
+      "sha256": "05315857cc34bc51b4c3f117c91bf7d1d20f3f9358f3fd5925ec36dbc1a54e42"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzz_SC2_CloneWars_EngineerISP_Test.scd",
+      "sha256": "0f2def4319e829ceaeed76bbb88c097b12f4ca959494151cfd21fc473041e23c"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzz_SC2_CloneWars_FieldEngineerISP_Test.scd",
+      "sha256": "8875b666a02f214e9f34735a1fc20c1b73ce4f695f8a97158d428c88190de9a7"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzz_SC2_CloneWars_ISP_Names.scd",
+      "sha256": "e6cc2a7ad96429b49a518baabc90997748627d74c230a546cfd5a5c8228fd775"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_Persuader_Name.scd",
+      "sha256": "8853dfb15bd6dabfb70e8750838df8b9ffd009d66bee21e84c0854c5bd749510"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R1.scd",
+      "sha256": "53972a62a3ed87d1e8397988b97d9ccea38221018672ed42f1ab80e29a1a20e0"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R2.scd",
+      "sha256": "1467558b5491e008f999605884f54f536277043d479003ac3ca1a1431047c7a6"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_UnitSizing_R3.scd",
+      "sha256": "4857cdfc01c3f2d91e8dcc8032a70aeee1339019a75ab1a4c19864bc4be5c4e8"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_SPHAResearch_R1.scd",
+      "sha256": "32ef08a2e5b163dc07cba0afa0eae9dc3e92ce441585d58d2f352a5f6d613a6a"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_ARC170_R1.scd",
+      "sha256": "b65ac0aae31510844bb077146450272c27f78c3aeb492a8148a5adf0a0b84374"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_ARC170_R2_BlueExhaust.scd",
+      "sha256": "69a341b0bd2a86cbe282fee8d7f3c66ddd84e32c5f5103e9c201a52d51839874"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_CR25_C18_R1.scd",
+      "sha256": "f542ca9422153e4bca95e7c590e99b8659f7dc6a687d07b9e897eb611e559fb8"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_LAAT_R1.scd",
+      "sha256": "8b210a1bdca40a0adf42f6eba8e7b6f3ee33a47ccff63dd93d3144267666ddc8"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_YWING_R1.scd",
+      "sha256": "41cde05c415d9c429639889ae451ea5ec43042e6bcdeb0efd31f646acf0548e6"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_YWING_R2_BlueBombs.scd",
+      "sha256": "e9991d8c3feecf140f6c0269810342b0424ee12b4adebf233b0a2b5499795304"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_AirRepairs_R2.scd",
+      "sha256": "b7e31e48f99f5bdec738810066a6e10f7c3ac2d5b324d0d67d46c67db8371711"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_AirRepairs_R1.scd",
+      "sha256": "50cbdaa4f1fdc7b5e23934c2f5bb2b432d6805616751bbc783b4541776acde42"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_NativeFire_R3.scd",
+      "sha256": "1e779cb22f700e5e21277648f9b78e112bb57a11b58a72527292a853db87295d"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_AirVisualsAim_R4.scd",
+      "sha256": "8d4ba8566ddbc5f0a0e3d9dc95f6f0432b2b0b42f9ab6e70925d22e270987609"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_DirectWeapons_R5.scd",
+      "sha256": "66d8a50b7399d4bee0ffdfa3aac31f43e813f94d248e468a33d2781f4924c9aa"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_AirEnergy_R6.scd",
+      "sha256": "f8623f99ef8cc23a6e1f88fd39acb08478b743e4662b25158dfdc615a9370932"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_AirEnergy_R7.scd",
+      "sha256": "2157007e100072c0897287096b40a4f377161cc6f187869454cc4e517cd99242"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_ARC170_Ion_R8.scd",
+      "sha256": "76beed3c03a5a12592815195512f83d524cc43d5e862cfbf6c3e767afe7a160a"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_CR90_R1.scd",
+      "sha256": "4b2c894ec4ae8c52a5a232d0e6b87b0de2628924258509b66ad79d609b2b2df7"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_CR90_R2.scd",
+      "sha256": "ee8c4559e8992a642122b20cd279589db6490341e7fdd7f7ef8b0f2342d47330"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_CR90_Balance_R3.scd",
+      "sha256": "2b72091c95f9452663780c83806897c86aa6c06305a62c454dd27e1c322b2afd"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_Pelta_R4.scd",
+      "sha256": "7144bda704aa5ac4db7c4ff509102a46d987b8e8f24ea12d5f4fa9d8f1d3f366"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_CR90_Size_R4.scd",
+      "sha256": "a346ebd14ac95fd981c150fdc383e84b9e14509b751f3f27f24be3b078bae584"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_Acclamator_MegaFortress_R1.scd",
+      "sha256": "1d886be55c29700c8fee786405fc6c6ae2e042314ea65cbb4a4ce49055a08ee0"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_Acclamator_Lore_Size_R2.scd",
+      "sha256": "14240dbe987f817e148f6af7286d0c5afbf076432c3543877fd1e13a1f194d27"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_VisualSizing_R1.scd",
+      "sha256": "b699c0978fc483c4ee2a3c0981fdb9662315783ba35538f0c00c25b89165b66d"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_ATTE_Sizing_R1.scd",
+      "sha256": "a4b94ca67bbebb7109f96f7ae6b24ebcc97c707d790ed97c781702efbf12048b"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_Hotfix_ATTE_Cargo_R1.scd",
+      "sha256": "00c439075905bb06e2e5c29039175f9257402d64a904aef167e960da76f77997"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_Hotfix_ATTE_RangeDisplay_R1.scd",
+      "sha256": "bc97bb98d60f22c02af4d7b04a38c5a702787c5db68fc42284fb8ff733912cd4"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_AAT_Research_Test.scd",
+      "sha256": "0dcce584f96e549c085df446c0d81be68dff3e460e900d904026602d8e4f907b"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_TX130_Muzzles_R1.scd",
+      "sha256": "127037a1fd0933b1e7badc75ec5441c0c641f1e6af7f6e4bfbd4d007f54f2f91"
+    },
+    {
+      "path": "gamedata/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_SC2_CloneWars_CloneSquad_Test.scd",
+      "sha256": "ff513d45006433837d1be8d658365b3657fec3baa120e86bf94df59a1a2167bd"
+    },
+    {
+      "path": "GAR Dev Mode/zz_GAR_Dev_Mode_v01.scd",
+      "sha256": "6abd389359f310d6f58ff6b08b7f3e7cdbdc4b73c9ccaf2ba79399e96225343f"
+    }
+  ],
+  "loader": {
+    "path": "bin/GARDevModeInit.lua",
+    "sha256": "4f23771691a0cb0e96b59e1d09d3ddc2436e545769262b3d032668cb96325a60"
+  }
+}
